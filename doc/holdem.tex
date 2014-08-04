@@ -1,0 +1,278 @@
+\documentclass[11pt, fleqn, a4paper]{article}
+%a4paper : 21.0cm * 29.7cm
+
+\usepackage{ctex}
+\usepackage{amsmath}
+\usepackage{amssymb,amsfonts}
+\usepackage{tabularx}
+%\usepackage{longtable}
+\usepackage{graphicx}
+\usepackage{multirow}
+\usepackage{tikz}
+\usepackage[T1]{fontenc}
+\usepackage{upquote}
+\usepackage[colorlinks, linkcolor=blue, anchorcolor=blue, citecolor=blue, urlcolor=blue]{hyperref}
+\usepackage{ltxtable, filecontents}
+
+\setlength{\topmargin}{0cm}
+
+\setlength{\oddsidemargin}{0.4cm}
+\setlength{\evensidemargin}{0.4cm}
+\setlength{\hoffset}{-0.2in}
+\setlength{\textwidth}{440pt}
+\setlength{\textheight}{650pt}
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{5pt}
+
+\setlength{\mathindent}{0pt}
+
+\usepackage{color}
+\usepackage{xcolor}
+\usepackage{listings}
+
+\usepackage{caption}
+\DeclareCaptionFont{white}{\color{white}}
+\DeclareCaptionFormat{listing}{\colorbox{lightgray}{\parbox{\textwidth}{#1#2#3}}}
+\captionsetup[lstlisting]{format=listing,labelfont=white,textfont=white}
+
+\definecolor{mygreen}{rgb}{0,0.6,0}
+\definecolor{mygray}{rgb}{0.5,0.5,0.5}
+\definecolor{mymauve}{rgb}{0.58,0,0.82}
+
+\lstset{
+	basicstyle=\footnotesize,
+	breaklines=true,
+	commentstyle=\color{mygreen},
+	numbers=left,
+	numbersep=5pt,
+	numberstyle=\tiny\color{mygray},
+	stringstyle=\color{mymauve},
+	showstringspaces=false,
+	showspaces=false,
+	showtabs=false
+}
+
+\newcommand{\tabincell}[2]{\begin{tabular}{@{}#1@{}}#2\end{tabular}}
+
+\title{德州扑克AI}
+\author{PPCA2014}
+\date{July 2014}
+
+\begin{document}
+\maketitle
+
+PPCA2014的大作业是实现一个德州扑克的AI。我们会不定期在线进行测试，能够适应不同局势、赢得尽量多的筹码的AI会得到更高的分数。本文将介绍本次大作业采用的德州扑克规则(第\ref{sec:rules}节），评测系统的使用（第\ref{sec:test}节），和本次大作业的具体要求（第\ref{sec:requirement}节）。
+
+本次大作业的想法来源于贾枭学长，评测系统的框架是他完成的，在此特别致谢贾枭学长。
+
+\section{游戏规则}
+\label{sec:rules}
+
+德州扑克使用大小王除外的一副牌，共52张。玩家根据手中2张底牌和场上5张公共牌组合出的最好牌型决定胜负。每一局的流程如下：
+
+\begin{itemize}
+	\item[1.] 洗牌
+	\item[2.] 担任小盲注和大盲注的玩家下盲注 （blinds）
+	\item[3.] 庄家（dealer）为每人发两张底牌（hole card）
+	\item[4.] 翻牌前的一轮下注（preflop）
+	\item[5.] 销一张牌，翻三张公共牌（flop）
+	\item[6.] 第二轮下注
+	\item[7.] 销一张牌，翻一张公共牌（turn）
+	\item[8.] 第三轮下注
+	\item[9.] 销一张牌，翻一张公共牌（river）
+	\item[10.] 第四轮下注
+	\item[11.] 若场上还剩至少两名玩家未盖牌，则他们需要展示手牌比较大小（showdown）
+	\item[12.] 分配彩金
+\end{itemize}
+
+一局游戏中至少有2名玩家，庄家由玩家轮流担任，沿顺时针方向轮换，小盲注是庄家顺时针方向下一个玩家，大盲注是小盲注顺时针方向的下一个玩家（在2人局中就是庄家）。大盲注是小盲注的2倍，小盲注将随游戏进行增加，目前每3局增加一次,小盲注的大小依次为1，2,5,10,20,50,100,200,500，共27局。玩家在初始时将获得一样多的筹码，目前为1000。当一名玩家手中筹码变为0时，他就出局了，他只能观察之后的比赛。当场上只剩一名玩家或打满27局时，游戏结束。
+
+第一轮下注从大盲注顺时针方向的下一名玩家开始沿顺时针方向进行，大小盲注在此时不算已经下注，但是大小盲注计入第一轮的彩池。后三轮下注都从庄家的下一名玩家开始。当一轮彩池中没有筹码时，玩家可以选择过牌(check)，盖牌（fold），或加注(raise)。当有彩池中已有筹码时，玩家可以选择盖牌，跟注（call），或加注。本次大作业采用的是无限下注德州扑克（no-limit），加注时只需要不少于当轮上一个加注的数量，如果玩家是当轮第一个下注的，他的下注至少与大盲注相同。如果一个玩家在想要跟注或加注时，他拥有的筹码不足最低限额，则他依然可以完成通过全押（all-in）进行跟注或加注。盖牌的玩家将损失本局游戏中投入的所有筹码，不再参与本局游戏。当以下所有条件满足时一轮下注结束：
+\begin{itemize}
+	\item 每个未盖牌的玩家均行动过
+	\item 除了全押的玩家，所有未盖牌的玩家下注都相同
+	\item 下一个行动的玩家恰好是上一个加注的玩家，或者场上只有一名玩家未盖牌，或者所有玩家选择过牌
+\end{itemize}
+
+最终，各个彩池分给该彩池贡献者牌型最大的玩家。若牌型相同，则比较次要牌。依次类推。如果一个彩池的贡献者中有多人牌一样大，则该彩池由他们平分，若彩池中筹码数不能被除尽，则余数被分给该彩池胜者中顺时针方向最靠近庄家的一个。
+
+牌型规则可参考\href{http://zh.wikipedia.org/zh-cn/%E5%BE%B7%E5%B7%9E%E6%92%B2%E5%85%8B#.E7.89.8C.E5.9E.8B.E5.A4.A7.E5.B0.8F.E8.A7.84.E5.88.99}{Wikipedia:Texas Hold'em}.
+
+目前我们的规则和通常的德州扑克有一些不一致：
+\begin{itemize}
+	\item 两人局的盲注依然按照正常局算
+	\item All-in的加注被当做加注
+	\item 在第一轮加注中，若彩池中贡献最多的玩家的下注等于大盲注的大小时，大盲注需要跟注0个筹码而不是过牌。
+	\item 可能还有其他不一致之处，发现后请指出
+\end{itemize}
+
+\section{评测系统}
+\label{sec:test}
+
+评测系统由client和server组成，大作业只需要实现client中Player类的函数即可。评测时，请运行client，连接指定的服务器进行评测。下面主要介绍client的运行环境、编译方法和为实现AI提供的接口。
+
+\subsection{运行环境和编译方法}
+
+评测系统可以在Linux，Windows，Mac OS上运行，源代码公开在github上。要获取源代码，在终端中运行：（windows下请自行安装git）
+
+\begin{lstlisting}
+	git clone https://github.com/zzy7896321/holdem.git
+\end{lstlisting}
+
+评测系统需要\href{http://www.boost.org/}{Boost C++ Library}，请自行下载编译。
+
+holdem/client目录下提供了Makefile和Makefile-mingw。请Makefile中的AI变量改为AI实现的文件名，比如AI实现在example.cpp中，需要把AI设置为example。
+
+在Linux系统上，正常情况下
+\begin{lstlisting}
+	make
+\end{lstlisting}
+即可编译。
+
+在Windows (MinGW)系统上，需要先设置好MinGW GCC的环境变量，将Makefile-mingw中BOOST\_PATH改为boost的根目录。另外，由于MinGW的一些bugs，可能需要对它提供的头文件进行修改，参见\href{http://stackoverflow.com/questions/20957727/boostasio-unregisterwaitex-has-not-been-declared}{Link 1}。
+\begin{lstlisting}
+	mingw32-make -f Makefile-mingw
+\end{lstlisting}
+在Cygwin上可能无法正常编译。
+
+评测系统需要支持C++11的编译器，已知g++ 4.8或更高的版本可以使用。目前已在以下环境中成功编译：
+\begin{itemize}
+	\item Linux Mint 15 32bit, g++ 4.8.2
+	\item Linux Ubuntu 14.04 64bit, g++ 4.8.3
+	\item Windows 7 32bit, MinGW g++ 4.8.1
+	\item Windows 8 64bit, MinGW g++ 4.8.1
+	\item (to be tested) Mac OS
+\end{itemize}
+
+运行client，其中<ip>是server的ip地址，port是端口
+\begin{lstlisting}
+	./client <ip> <port>
+\end{lstlisting}
+
+example.cpp是一个简单的UI，各个阶段会提示用户输入决策，仅仅作为测试程序。
+
+\subsection{实现AI的接口}
+
+Player类中的以下函数需要实现，若额外的存储空间，可在Player.h中自行加入所需的成员变量。
+
+\begin{itemize}
+	\item std::string Player::login\_name();
+	
+		返回你的AI的名字，将在与服务器建立连接时调用（在调用init之前）。
+		
+	\item void Player::login\_name(std::string name);
+	
+		服务器接受name作为你的AI的名字，这个名字可能与之前login\_name()的不同。
+	\item void Player::init();
+		
+		初始化函数。init将在确认与服务器连接成功，收到玩家列表之后被调用。
+	
+	\item void Player::destroy();
+		
+		destroy将在Player的析构函数中调用。	
+		
+	\item decision\_type Player::preflop();
+		
+		返回第一轮下注时AI的决定，可能在同一轮中被多次调用。
+		
+	\item decision\_type Player::flop();
+	
+		返回第二轮下注时AI的决定，可能在同一轮中被多次调用。
+		
+	\item decision\_type Player::turn();
+	
+		返回第三轮下注时AI的决定，可能在同一轮中被多次调用。
+		
+	\item decision\_type Player::river();
+	
+		返回第四轮下注时AI的决定，可能在同一轮中被多次调用。		
+		
+	\item hand\_type Player::showdown();
+			
+		返回AI决定展示的5张牌，5张牌应当在自己的2张手牌和5张公共牌中。
+		
+	\item void game\_end();
+	
+		一局比赛结束的时候调用，AI可以进行赛后统计，以便提供之后比赛使用的数据。
+		
+\end{itemize}
+
+decision\_type定义为：
+\begin{lstlisting}[language=C++]
+	enum DECISION_VALUE { CHECK, FOLD, CALL, RAISE };
+	typedef std::pair<DECISION_VALUE, int> decision_type;
+\end{lstlisting}
+其中,CHECK，FOLD和CALL作为决定时，第二个分量将被忽略。RAISE作为决定时，第二个分量表示在跟注基础上，还要加注的大小。比如场上本轮最大下注为4，自己现在已经下了2,那么<RAISE, 4>表示，跟注到4的基础上再加注4，自己的下注将变为8。可以调用make\_decision函数返回适当的决定。比如，
+\begin{lstlisting}[language=C++]
+	return make_decision(CHECK);
+	return make_decision(CALL);
+	return make_decision(FOLD);
+	return make_decision(RAISE, 4);
+\end{lstlisting}
+
+hand\_type和card\_type定义为：
+\begin{lstlisting}[language=C++]
+	typedef std::pair<char, char> card_type;
+	typedef std::array<card_type, 5> hand_type;
+\end{lstlisting}
+其中card\_type两个分量分别表示牌的大小（2、3、4、5、6、7、8、9、T、J、Q、K、A）和牌的种类（S、H、D、C）。hand\_type是一个大小为5的数组,存放5张要展示的手牌。
+
+其他的定义详见common.h。
+
+比赛信息可以通过query成员的成员函数查询，目前提供以下查询函数：
+
+\begin{center}
+\footnotesize
+\begin{filecontents}{query-table.tex}
+\begin{longtable}{|X|X|}
+	\hline
+	函数原型	&	说明		\\\hline
+	\multicolumn{2}{|c|}{整个游戏的信息，从init开始可以调用}	\\\hline
+	const std::string\& name\_of(int player);	&  返回编号为player的玩家的名字		\\\hline
+	int number\_of\_player();	&	玩家总数	\\\hline
+	int my\_id();	&	自己的编号	\\\hline
+	int initial\_chips();	&	初始的筹码数	\\\hline
+	const std::vector<int>\& chips();	&	存放玩家筹码数的vector，下标为玩家编号		\\\hline
+	int chips(int player);		&		返回编号为player的玩家的筹码数	\\\hline
+
+	\multicolumn{2}{|c|}{单局游戏的信息，可以在preflop到game\_end函数中调用}	\\\hline
+	int number\_of\_participants();	&	本局游戏中玩家数量		\\\hline
+	bool out\_of\_game();		&	自己是否已经出局	\\\hline
+	int dealer();	&	本局的庄家编号		\\\hline
+	int blind();	&	本局小盲注大小		\\\hline
+	const card\_type* hole\_cards();	&	返回存放自己的底牌的数组，大小为2	\\\hline	
+	\tabincell{l}{const std::vector<card\_type>\& \\ \qquad community\_cards();}	&	返回存有公共牌的数组，大小可能为0,3,4，或5	\\\hline
+	const std::vector<Pot>\& pots();	& 返回存放有彩池的数组，一轮下注可能产生多个彩池，不同轮贡献者相同的彩池不合并，详见pot.h	\\\hline
+	
+	\multicolumn{2}{|c|}{一轮下注的信息，仅在本轮调用有效}		\\\hline
+	const std::vector< std::pair<int, int> >\& bets();	&	本轮下注的情况，pair中两个分量分别为下注玩家编号和下注的大小，一个玩家可能多次出现	\\\hline
+	\tabincell{l}{const std::vector<PLAYER\_STATUS>\& \\ \qquad player\_statue();}	&	存放玩家下注状态的数组，PLAYER\_STATUS可能取值NOT\_ACTIONED, BET, CHECKED, FOLDED，下标为玩家编号 \\\hline
+	PLAYER\_STATUS player\_status(int player);	&	返回编号为player的玩家的下注状态		\\\hline
+	const std::vector<int>\& current\_bets();	&	存放本轮每个玩家的下注数量的数组，下标为玩家编号	\\\hline
+	int current\_bets(int player);	&	返回编号为player的玩家在本轮下注的数量	\\\hline
+	
+	\multicolumn{2}{|c|}{单局比赛的统计信息， 可以从上一局的game\_end开始到下一局game\_end之前调用}		\\\hline
+	const std::vector<HANDINFO>\& hands();	&	返回存有上一局参与showdown的玩家手牌，HANDINFO参见common.h		\\\hline
+	\tabincell{l}{const std::vector< <std::vector< \\ std::pair<int, int> > >\& \\ \qquad won\_chips\_in\_pots();} &
+		返回上一局每个彩池分配的情况，pair的分量分别是玩家编号和玩家从该彩池赢得筹码的数量 	\\\hline
+	\tabincell{l}{const std::vector<int>\& \\ \qquad chips\_won\_in\_last\_game();}	&	返回上一局游戏每个玩家赢得的筹码数		\\\hline
+	
+\end{longtable}
+\end{filecontents}
+
+\LTXtable{\textwidth}{query-table}
+
+\normalsize
+\end{center}
+
+\section{作业要求}
+\label{sec:requirement}
+
+\begin{itemize}
+	\item 实现一个能正常运行的AI，并且有合理的运行时间
+	\item 尽可能地赢得更多的筹码，并且能适应不同类型的玩家
+	\item 在线测试时，会提供server的ip地址和端口，大约8至9人一组。
+	\item 最终提交包括AI实现的源代码和一份报告，报告需要简要阐述你的算法和独到之处。评分会根据在线测试成绩、提交的代码和报告综合确定。
+\end{itemize}
+
+\end{document}

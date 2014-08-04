@@ -1,0 +1,43 @@
+## PPCA 2014 Final project
+## Makefile of the Texas Hold'em Client
+## You might want to add -O2 to CFLAGS after debug.
+## Change BOOST_PATH to the location where boost is located
+
+BOOST_PATH = D:\boost_1_55_0
+AI = example
+
+TARGET = client.exe
+LIBS = -lws2_32 -lmswsock -l:libboost_system-mgw48-mt-1_55.a
+CXX = g++
+#CFLAGS = -std=c++11 -Wall -Wextra -g -D_WIN32_WINNT=0x0601 -I${BOOST_PATH}		## use this for debug
+CFLAGS = -std=c++11 -Wall -Wextra -O2 -DNDEBUG -D_WIN32_WINNT=0x0601 -I${BOOST_PATH}
+LIB_PATH = -L${BOOST_PATH}\stage\lib
+
+HEADERS = client.h common.h IO.h player.h pot.h query.h
+OBJECTS = common.o client.o ${AI}.o main.o
+
+.PHONY: all clean
+.PRECIOUS: $(TARGET) $(OBJECTS)
+
+all: ${TARGET}
+
+${TARGET}: ${OBJECTS}
+
+client.o: ${HEADERS} client.cpp
+	${CXX} ${CFLAGS} -c -o client.o client.cpp ${LIB_PATH}
+
+${AI}.o: ${HEADERS} ${AI}.cpp
+	${CXX} ${CFLAGS} -c -o ${AI}.o ${AI}.cpp ${LIB_PATH}
+
+main.o: client.h main.cpp
+	${CXX} ${CFLAGS} -c -o main.o main.cpp ${LIB_PATH}
+
+common.o: common.h common.cpp
+	${CXX} ${CFLAGS} -c -o common.o common.cpp ${LIB_PATH}
+
+${TARGET}: ${OBJECTS}
+	${CXX} ${OBJECTS} -Wall ${LIBS} -o ${TARGET} ${LIB_PATH}
+
+clean:
+	-rm *.o
+	-rm ${TARGET}

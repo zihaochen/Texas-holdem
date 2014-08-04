@@ -1,0 +1,33 @@
+## PPCA 2014 Final project
+## Makefile of the Texas Hold'em Server for MinGW
+## You might want to add -O2 to CFLAGS after debug.
+## Change BOOST_PATH to the location where boost is located
+
+BOOST_PATH = D:\boost_1_55_0
+
+TARGET = server.exe
+LIBS = -lws2_32 -lmswsock -l:libboost_system-mgw48-mt-1_55.a
+CXX = g++
+#CFLAGS = -std=c++11 -Wall -Wextra -g -D_WIN32_WINNT=0x0601 -I${BOOST_PATH}		## use this for debug
+CFLAGS = -std=c++11 -O2 -DNDEBUG -D_WIN32_WINNT=0x0601 -I${BOOST_PATH}
+LIB_PATH = -L${BOOST_PATH}\stage\lib
+
+.PHONY: default all clean
+
+default: $(TARGET)
+all: default
+
+OBJECTS = $(patsubst %.cpp, %.o, $(wildcard *.cpp))
+HEADERS = $(wildcard *.h)
+
+%.o: %.cpp $(HEADERS)
+	$(CXX) $(CFLAGS) -c $< -o $@ ${LIB_PATH}
+
+.PRECIOUS: $(TARGET) $(OBJECTS)
+
+$(TARGET): $(OBJECTS) $(SUNDOWN)
+	$(CXX) $(OBJECTS) -Wall $(LIBS) -o $@ ${LIB_PATH}
+
+clean:
+	-rm *.o
+	-rm ${TARGET}
