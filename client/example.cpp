@@ -49,6 +49,9 @@ decision_type Player::preflop()
 	if (tmp.first == CHECK && currentBet == 0)
 	// && myId == (query.dealer() + 2) % query.number_of_participants())
 		return make_decision(CALL);
+    double HS = calHandStrength();
+    double temp = HS * query.number_of_participants();
+    if (tmp.first == CHECK && temp > 1.2) return make_decision(CALL);
 	return tmp;
 }
 
@@ -351,8 +354,8 @@ decision_type Player::FCR()
 	myRemainingTokens = query.chips(myId);
 
 	double HS = calHandStrength();
-	int min_raise = minRaise();
-	double POD = potOdds(currentBet + min_raise);
+	int Raise = max(minRaise(), (int)(1000 * HS));
+	double POD = potOdds(currentBet + Raise);
     double PODCall = potOdds(currentBet);
 	//token protection
 	if ((myRemainingTokens - currentBet < query.blind() * 4) && HS < 0.65)
@@ -383,9 +386,9 @@ decision_type Player::FCR()
         if (i == myId) myBets += currentBets[i];
 
 	//early
-	if (round <= 9)
+	if (round <= 15)
 	{
-        if (myRemainingTokens > currentBet && currentBet > 5 * myBets && HS < 0.7) return make_decision(CHECK);
+        if (currentBet > 5 * myBets && HS < 0.9) return make_decision(CHECK);
         if (RR < 0.8)
         {
             //if (randomGenerator(95))
@@ -396,7 +399,7 @@ decision_type Player::FCR()
         {
             if (randomGenerator(60)) return (make_decision(CALL));
             if (randomGenerator(50)) return (make_decision(CHECK));
-            return make_decision(RAISE, minRaise());
+            return make_decision(RAISE, Raise);
         }
 
         if (RR < 1.0 && RRCall < 1.2)
@@ -409,20 +412,20 @@ decision_type Player::FCR()
         {
             if (randomGenerator(50))
                 return make_decision(CALL);
-            return make_decision(RAISE, minRaise());
+            return make_decision(RAISE, Raise);
         }
         if (RR >= 1.3)
         {
             if (randomGenerator(20))
                 return make_decision(CALL);
-            return make_decision(RAISE, minRaise());
+            return make_decision(RAISE, Raise);
         }
     }
 
     //middle
-    if (round > 9 && round <= 22)
+    if (round > 15 && round <= 22)
 	{
-        if (myRemainingTokens > currentBet && currentBet > 5 * myBets && HS < 0.8) return make_decision(CHECK);
+        if (currentBet > 5 * myBets && HS < 0.8) return make_decision(CHECK);
         if (RRCall > 1 && RR < 1) return make_decision(CALL);
 
         if (RR < 0.8)
@@ -435,7 +438,7 @@ decision_type Player::FCR()
         {
             if (randomGenerator(70)) return (make_decision(CALL));
             if (randomGenerator(40)) return (make_decision(CHECK));
-            return make_decision(RAISE, minRaise());
+            return make_decision(RAISE, Raise);
         }
 
         if (RR < 1.0 && RRCall < 1.2)
@@ -444,25 +447,25 @@ decision_type Player::FCR()
                 return make_decision(CHECK);
             if (randomGenerator(50))
                 return make_decision(CALL);
-            return make_decision(RAISE, minRaise());
+            return make_decision(RAISE, Raise);
         }
         if (RR < 1.3)
         {
             if (randomGenerator(50))
                 return make_decision(CALL);
-            return make_decision(RAISE, minRaise());
+            return make_decision(RAISE, Raise);
         }
         if (RR >= 1.3)
         {
             if (randomGenerator(30))
                 return make_decision(CALL);
-            return make_decision(RAISE, minRaise());
+            return make_decision(RAISE, Raise);
         }
     }
 
     if (round >= 23)
 	{
-        if (myRemainingTokens > currentBet && currentBet > 5 * myBets && HS < 0.85) return make_decision(CHECK);
+        if (currentBet > 5 * myBets && HS < 0.85) return make_decision(CHECK);
         if (RRCall > 1 && RR < 1) return make_decision(CALL);
 
         if (RR < 0.8)
@@ -475,7 +478,7 @@ decision_type Player::FCR()
         {
             if (randomGenerator(60)) return (make_decision(CALL));
             if (randomGenerator(40)) return (make_decision(CHECK));
-            return make_decision(RAISE, minRaise());
+            return make_decision(RAISE, Raise);
         }
 
         if (RR < 1.0 && RRCall < 1.2)
@@ -484,19 +487,19 @@ decision_type Player::FCR()
                 return make_decision(CHECK);
             if (randomGenerator(70))
                 return make_decision(CALL);
-            return make_decision(RAISE, minRaise());
+            return make_decision(RAISE, Raise);
         }
         if (RR < 1.3)
         {
             if (randomGenerator(60))
                 return make_decision(CALL);
-            return make_decision(RAISE, minRaise());
+            return make_decision(RAISE, Raise);
         }
         if (RR >= 1.3)
         {
             if (randomGenerator(50))
                 return make_decision(CALL);
-            return make_decision(RAISE, minRaise());
+            return make_decision(RAISE, Raise);
         }
     }
 

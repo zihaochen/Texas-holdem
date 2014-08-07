@@ -1,0 +1,1648 @@
+[UI] login name: [UI] succefully login as The Joker_1_4
+[login] The Joker_1_4
+[player 0] yyyyyr_1_0
+[player 1] were_1_1
+[player 2] Mars_1_2
+[player 3] Jerry Xu_1_3
+[player 4] The Joker_1_4
+[player 5] courage_1_5
+[GAME INFO] number of players = 6
+[GAME INFO] initial chips = 3000
+[GAME 1] game starts
+[GAME INFO] number of participants in this game = 6
+[GAME INFO] participant: yyyyyr_1_0, chip = 3000
+[GAME INFO] participant: were_1_1, chip = 3000
+[GAME INFO] participant: Mars_1_2, chip = 3000
+[GAME INFO] participant: Jerry Xu_1_3, chip = 3000
+[GAME INFO] participant: The Joker_1_4, chip = 3000
+[GAME INFO] participant: courage_1_5, chip = 3000
+[GAME INFO] blind is 1
+[GAME INFO] dealer is yyyyyr_1_0
+[GAME INFO] small blind 1 posted by were_1_1
+[GAME INFO] big blind 2 posted by Mars_1_2
+[hole card] 6 heart
+[hole card] 9 diamond
+[preflop] round starts
+[preflop] player yyyyyr_1_0 has 3000 chips
+[preflop] player were_1_1 has 2999 chips
+[preflop] player Mars_1_2 has 2998 chips
+[preflop] player Jerry Xu_1_3 has 3000 chips
+[preflop] player The Joker_1_4 has 3000 chips
+[preflop] player courage_1_5 has 3000 chips
+[preflop] player Jerry Xu_1_3 folds
+[preflop] action
+[WARNING] CANNOT check when another player has raised
+[preflop] player The Joker_1_4 folds
+[preflop] player courage_1_5 folds
+[preflop] player yyyyyr_1_0 calls. Total bet is 2
+[preflop] player were_1_1 calls. Total bet is 2
+[preflop] player Mars_1_2 calls. Total bet is 2
+[flop] 3 club
+[flop] 6 diamond
+[flop] 7 spade
+[flop] round starts
+[flop] player yyyyyr_1_0 has 2998 chips
+[flop] player were_1_1 has 2998 chips
+[flop] player Mars_1_2 has 2998 chips
+[flop] player Jerry Xu_1_3 has 3000 chips
+[flop] player The Joker_1_4 has 3000 chips
+[flop] player courage_1_5 has 3000 chips
+[flop] player were_1_1 checks
+[flop] player Mars_1_2 checks
+[flop] player yyyyyr_1_0 checks
+[flop] round ends
+[turn] J diamond
+[turn] round starts
+[turn] player yyyyyr_1_0 has 2998 chips
+[turn] player were_1_1 has 2998 chips
+[turn] player Mars_1_2 has 2998 chips
+[turn] player Jerry Xu_1_3 has 3000 chips
+[turn] player The Joker_1_4 has 3000 chips
+[turn] player courage_1_5 has 3000 chips
+[turn] player were_1_1 checks
+[turn] player Mars_1_2 checks
+[turn] player yyyyyr_1_0 checks
+[turn] round ends
+[river] K diamond
+[river] round starts
+[river] player yyyyyr_1_0 has 2998 chips
+[river] player were_1_1 has 2998 chips
+[river] player Mars_1_2 has 2998 chips
+[river] player Jerry Xu_1_3 has 3000 chips
+[river] player The Joker_1_4 has 3000 chips
+[river] player courage_1_5 has 3000 chips
+[river] player were_1_1 checks
+[river] player Mars_1_2 checks
+[river] player yyyyyr_1_0 checks
+[river] round ends
+[SHOWDOWN] showdown starts
+[SHOWDOWN] player yyyyyr_1_0 shows Q club Q heart 7 spade J diamond K diamond, which is one pair.
+[SHOWDOWN] player Mars_1_2 shows 6 diamond 7 spade J diamond J spade K diamond, which is one pair.
+[SHOWDOWN] player were_1_1 shows 10 club 6 diamond 7 spade J diamond K diamond, which is high card.
+[GAME STAT] pot 0 with 6 chips is shared by 1 players
+[GAME STAT] player yyyyyr_1_0 gets 6 chips from pot 0
+[GAME STAT] overall statistics
+[GAME STAT] player yyyyyr_1_0 wins 4 chips in this game
+[GAME STAT] player were_1_1 wins -2 chips in this game
+[GAME STAT] player Mars_1_2 wins -2 chips in this game
+[GAME STAT] player Jerry Xu_1_3 wins 0 chips in this game
+[GAME STAT] player The Joker_1_4 wins 0 chips in this game
+[GAME STAT] player courage_1_5 wins 0 chips in this game
+[GAME 1] game ends, invoking player.game_end()
+[GAME 2] game starts
+[GAME INFO] number of participants in this game = 6
+[GAME INFO] participant: yyyyyr_1_0, chip = 3004
+[GAME INFO] participant: were_1_1, chip = 2998
+[GAME INFO] participant: Mars_1_2, chip = 2998
+[GAME INFO] participant: Jerry Xu_1_3, chip = 3000
+[GAME INFO] participant: The Joker_1_4, chip = 3000
+[GAME INFO] participant: courage_1_5, chip = 3000
+[GAME INFO] blind is 1
+[GAME INFO] dealer is were_1_1
+[GAME INFO] small blind 1 posted by Mars_1_2
+[GAME INFO] big blind 2 posted by Jerry Xu_1_3
+[hole card] 2 spade
+[hole card] 3 club
+[preflop] round starts
+[preflop] player yyyyyr_1_0 has 3004 chips
+[preflop] player were_1_1 has 2998 chips
+[preflop] player Mars_1_2 has 2997 chips
+[preflop] player Jerry Xu_1_3 has 2998 chips
+[preflop] player The Joker_1_4 has 3000 chips
+[preflop] player courage_1_5 has 3000 chips
+[preflop] action
+[WARNING] CANNOT check when another player has raised
+[preflop] player The Joker_1_4 folds
+[preflop] player courage_1_5 folds
+[preflop] player yyyyyr_1_0 calls. Total bet is 2
+[preflop] player were_1_1 calls. Total bet is 2
+[preflop] player Mars_1_2 folds
+[preflop] player Jerry Xu_1_3 folds
+[flop] 9 heart
+[flop] 3 spade
+[flop] Q spade
+[flop] round starts
+[flop] player yyyyyr_1_0 has 3002 chips
+[flop] player were_1_1 has 2996 chips
+[flop] player Mars_1_2 has 2997 chips
+[flop] player Jerry Xu_1_3 has 2998 chips
+[flop] player The Joker_1_4 has 3000 chips
+[flop] player courage_1_5 has 3000 chips
+[flop] player yyyyyr_1_0 checks
+[flop] player were_1_1 checks
+[flop] round ends
+[turn] 9 spade
+[turn] round starts
+[turn] player yyyyyr_1_0 has 3002 chips
+[turn] player were_1_1 has 2996 chips
+[turn] player Mars_1_2 has 2997 chips
+[turn] player Jerry Xu_1_3 has 2998 chips
+[turn] player The Joker_1_4 has 3000 chips
+[turn] player courage_1_5 has 3000 chips
+[turn] player yyyyyr_1_0 checks
+[turn] player were_1_1 checks
+[turn] round ends
+[river] K spade
+[river] round starts
+[river] player yyyyyr_1_0 has 3002 chips
+[river] player were_1_1 has 2996 chips
+[river] player Mars_1_2 has 2997 chips
+[river] player Jerry Xu_1_3 has 2998 chips
+[river] player The Joker_1_4 has 3000 chips
+[river] player courage_1_5 has 3000 chips
+[river] player yyyyyr_1_0 checks
+[river] player were_1_1 checks
+[river] round ends
+[SHOWDOWN] showdown starts
+[SHOWDOWN] player yyyyyr_1_0 shows 8 spade 3 spade Q spade 9 spade K spade, which is flush.
+[SHOWDOWN] player were_1_1 shows 4 club 10 heart 9 heart 9 spade K spade, which is one pair.
+[GAME STAT] pot 0 with 4 chips is shared by 1 players
+[GAME STAT] player yyyyyr_1_0 gets 4 chips from pot 0
+[GAME STAT] pot 1 with 3 chips is shared by 1 players
+[GAME STAT] player yyyyyr_1_0 gets 3 chips from pot 1
+[GAME STAT] overall statistics
+[GAME STAT] player yyyyyr_1_0 wins 5 chips in this game
+[GAME STAT] player were_1_1 wins -2 chips in this game
+[GAME STAT] player Mars_1_2 wins -1 chips in this game
+[GAME STAT] player Jerry Xu_1_3 wins -2 chips in this game
+[GAME STAT] player The Joker_1_4 wins 0 chips in this game
+[GAME STAT] player courage_1_5 wins 0 chips in this game
+[GAME 2] game ends, invoking player.game_end()
+[GAME 3] game starts
+[GAME INFO] number of participants in this game = 6
+[GAME INFO] participant: yyyyyr_1_0, chip = 3009
+[GAME INFO] participant: were_1_1, chip = 2996
+[GAME INFO] participant: Mars_1_2, chip = 2997
+[GAME INFO] participant: Jerry Xu_1_3, chip = 2998
+[GAME INFO] participant: The Joker_1_4, chip = 3000
+[GAME INFO] participant: courage_1_5, chip = 3000
+[GAME INFO] blind is 1
+[GAME INFO] dealer is Mars_1_2
+[GAME INFO] small blind 1 posted by Jerry Xu_1_3
+[GAME INFO] big blind 2 posted by The Joker_1_4
+[hole card] K heart
+[hole card] 10 diamond
+[preflop] round starts
+[preflop] player yyyyyr_1_0 has 3009 chips
+[preflop] player were_1_1 has 2996 chips
+[preflop] player Mars_1_2 has 2997 chips
+[preflop] player Jerry Xu_1_3 has 2997 chips
+[preflop] player The Joker_1_4 has 2998 chips
+[preflop] player courage_1_5 has 3000 chips
+[preflop] player courage_1_5 folds
+[preflop] player yyyyyr_1_0 folds
+[preflop] player were_1_1 calls. Total bet is 2
+[preflop] player Mars_1_2 calls. Total bet is 2
+[preflop] player Jerry Xu_1_3 folds
+[preflop] action
+[preflop] call (0 chips). 
+[preflop] player The Joker_1_4 calls. Total bet is 2
+[flop] A club
+[flop] 2 diamond
+[flop] 7 spade
+[flop] round starts
+[flop] player yyyyyr_1_0 has 3009 chips
+[flop] player were_1_1 has 2994 chips
+[flop] player Mars_1_2 has 2995 chips
+[flop] player Jerry Xu_1_3 has 2997 chips
+[flop] player The Joker_1_4 has 2998 chips
+[flop] player courage_1_5 has 3000 chips
+[flop] action
+[flop] check
+[flop] player The Joker_1_4 checks
+[flop] player were_1_1 checks
+[flop] player Mars_1_2 checks
+[flop] round ends
+[turn] 5 spade
+[turn] round starts
+[turn] player yyyyyr_1_0 has 3009 chips
+[turn] player were_1_1 has 2994 chips
+[turn] player Mars_1_2 has 2995 chips
+[turn] player Jerry Xu_1_3 has 2997 chips
+[turn] player The Joker_1_4 has 2998 chips
+[turn] player courage_1_5 has 3000 chips
+[turn] action
+[turn] check
+[turn] player The Joker_1_4 checks
+[turn] player were_1_1 checks
+[turn] player Mars_1_2 checks
+[turn] round ends
+[river] 9 diamond
+[river] round starts
+[river] player yyyyyr_1_0 has 3009 chips
+[river] player were_1_1 has 2994 chips
+[river] player Mars_1_2 has 2995 chips
+[river] player Jerry Xu_1_3 has 2997 chips
+[river] player The Joker_1_4 has 2998 chips
+[river] player courage_1_5 has 3000 chips
+[river] action
+[river] check
+[river] player The Joker_1_4 checks
+[river] player were_1_1 checks
+[river] player Mars_1_2 checks
+[river] round ends
+[SHOWDOWN] showdown starts
+[SHOWDOWN] showdown
+[SHOWDOWN] A club 7 spade 9 diamond K heart 10 diamond
+[SHOWDOWN] player were_1_1 shows 2 spade 2 diamond 7 spade 5 spade 9 diamond, which is one pair.
+[SHOWDOWN] player The Joker_1_4 shows A club 7 spade 9 diamond K heart 10 diamond, which is high card.
+[SHOWDOWN] player Mars_1_2 shows 5 spade 7 spade 9 diamond A club 10 spade, which is high card.
+[GAME STAT] pot 0 with 4 chips is shared by 1 players
+[GAME STAT] player were_1_1 gets 4 chips from pot 0
+[GAME STAT] pot 1 with 3 chips is shared by 1 players
+[GAME STAT] player were_1_1 gets 3 chips from pot 1
+[GAME STAT] overall statistics
+[GAME STAT] player yyyyyr_1_0 wins 0 chips in this game
+[GAME STAT] player were_1_1 wins 5 chips in this game
+[GAME STAT] player Mars_1_2 wins -2 chips in this game
+[GAME STAT] player Jerry Xu_1_3 wins -1 chips in this game
+[GAME STAT] player The Joker_1_4 wins -2 chips in this game
+[GAME STAT] player courage_1_5 wins 0 chips in this game
+[GAME 3] game ends, invoking player.game_end()
+[GAME 4] game starts
+[GAME INFO] number of participants in this game = 6
+[GAME INFO] participant: yyyyyr_1_0, chip = 3009
+[GAME INFO] participant: were_1_1, chip = 3001
+[GAME INFO] participant: Mars_1_2, chip = 2995
+[GAME INFO] participant: Jerry Xu_1_3, chip = 2997
+[GAME INFO] participant: The Joker_1_4, chip = 2998
+[GAME INFO] participant: courage_1_5, chip = 3000
+[GAME INFO] blind is 2
+[GAME INFO] dealer is Jerry Xu_1_3
+[GAME INFO] small blind 2 posted by The Joker_1_4
+[GAME INFO] big blind 4 posted by courage_1_5
+[hole card] 8 club
+[hole card] J heart
+[preflop] round starts
+[preflop] player yyyyyr_1_0 has 3009 chips
+[preflop] player were_1_1 has 3001 chips
+[preflop] player Mars_1_2 has 2995 chips
+[preflop] player Jerry Xu_1_3 has 2997 chips
+[preflop] player The Joker_1_4 has 2996 chips
+[preflop] player courage_1_5 has 2996 chips
+[preflop] player yyyyyr_1_0 folds
+[preflop] player were_1_1 calls. Total bet is 4
+[preflop] player Mars_1_2 folds
+[preflop] player Jerry Xu_1_3 folds
+[preflop] action
+[preflop] call (2 chips). 
+[preflop] player The Joker_1_4 calls. Total bet is 4
+[preflop] player courage_1_5 calls. Total bet is 4
+[flop] 2 diamond
+[flop] K club
+[flop] 10 club
+[flop] round starts
+[flop] player yyyyyr_1_0 has 3009 chips
+[flop] player were_1_1 has 2997 chips
+[flop] player Mars_1_2 has 2995 chips
+[flop] player Jerry Xu_1_3 has 2997 chips
+[flop] player The Joker_1_4 has 2994 chips
+[flop] player courage_1_5 has 2996 chips
+[flop] action
+[flop] check
+[flop] player The Joker_1_4 checks
+[flop] player courage_1_5 checks
+[flop] player were_1_1 checks
+[flop] round ends
+[turn] K heart
+[turn] round starts
+[turn] player yyyyyr_1_0 has 3009 chips
+[turn] player were_1_1 has 2997 chips
+[turn] player Mars_1_2 has 2995 chips
+[turn] player Jerry Xu_1_3 has 2997 chips
+[turn] player The Joker_1_4 has 2994 chips
+[turn] player courage_1_5 has 2996 chips
+[turn] action
+[turn] check
+[turn] player The Joker_1_4 checks
+[turn] player courage_1_5 checks
+[turn] player were_1_1 checks
+[turn] round ends
+[river] 8 heart
+[river] round starts
+[river] player yyyyyr_1_0 has 3009 chips
+[river] player were_1_1 has 2997 chips
+[river] player Mars_1_2 has 2995 chips
+[river] player Jerry Xu_1_3 has 2997 chips
+[river] player The Joker_1_4 has 2994 chips
+[river] player courage_1_5 has 2996 chips
+[river] action
+[river] check
+[river] player The Joker_1_4 checks
+[river] player courage_1_5 checks
+[river] player were_1_1 checks
+[river] round ends
+[SHOWDOWN] showdown starts
+[SHOWDOWN] showdown
+[SHOWDOWN] K club K heart 8 heart 8 club J heart
+[SHOWDOWN] player The Joker_1_4 shows K club K heart 8 heart 8 club J heart, which is two pair.
+[SHOWDOWN] player courage_1_5 shows 8 diamond K club 10 club K heart 8 heart, which is two pair.
+[SHOWDOWN] player were_1_1 shows 4 club Q diamond K club K heart 8 heart, which is one pair.
+[GAME STAT] pot 0 with 12 chips is shared by 1 players
+[GAME STAT] player The Joker_1_4 gets 12 chips from pot 0
+[GAME STAT] overall statistics
+[GAME STAT] player yyyyyr_1_0 wins 0 chips in this game
+[GAME STAT] player were_1_1 wins -4 chips in this game
+[GAME STAT] player Mars_1_2 wins 0 chips in this game
+[GAME STAT] player Jerry Xu_1_3 wins 0 chips in this game
+[GAME STAT] player The Joker_1_4 wins 8 chips in this game
+[GAME STAT] player courage_1_5 wins -4 chips in this game
+[GAME 4] game ends, invoking player.game_end()
+[GAME 5] game starts
+[GAME INFO] number of participants in this game = 6
+[GAME INFO] participant: yyyyyr_1_0, chip = 3009
+[GAME INFO] participant: were_1_1, chip = 2997
+[GAME INFO] participant: Mars_1_2, chip = 2995
+[GAME INFO] participant: Jerry Xu_1_3, chip = 2997
+[GAME INFO] participant: The Joker_1_4, chip = 3006
+[GAME INFO] participant: courage_1_5, chip = 2996
+[GAME INFO] blind is 2
+[GAME INFO] dealer is The Joker_1_4
+[GAME INFO] small blind 2 posted by courage_1_5
+[GAME INFO] big blind 4 posted by yyyyyr_1_0
+[hole card] K diamond
+[hole card] J club
+[preflop] round starts
+[preflop] player yyyyyr_1_0 has 3005 chips
+[preflop] player were_1_1 has 2997 chips
+[preflop] player Mars_1_2 has 2995 chips
+[preflop] player Jerry Xu_1_3 has 2997 chips
+[preflop] player The Joker_1_4 has 3006 chips
+[preflop] player courage_1_5 has 2994 chips
+[preflop] player were_1_1 calls. Total bet is 4
+[preflop] player Mars_1_2 calls. Total bet is 4
+[preflop] player Jerry Xu_1_3 folds
+[preflop] action
+[preflop] call (4 chips). 
+[preflop] player The Joker_1_4 calls. Total bet is 4
+[preflop] player courage_1_5 folds
+[preflop] player yyyyyr_1_0 calls. Total bet is 4
+[flop] 5 heart
+[flop] A spade
+[flop] 6 club
+[flop] round starts
+[flop] player yyyyyr_1_0 has 3005 chips
+[flop] player were_1_1 has 2993 chips
+[flop] player Mars_1_2 has 2991 chips
+[flop] player Jerry Xu_1_3 has 2997 chips
+[flop] player The Joker_1_4 has 3002 chips
+[flop] player courage_1_5 has 2994 chips
+[flop] player yyyyyr_1_0 checks
+[flop] player were_1_1 checks
+[flop] player Mars_1_2 checks
+[flop] action
+[flop] check
+[flop] player The Joker_1_4 checks
+[flop] round ends
+[turn] 3 diamond
+[turn] round starts
+[turn] player yyyyyr_1_0 has 3005 chips
+[turn] player were_1_1 has 2993 chips
+[turn] player Mars_1_2 has 2991 chips
+[turn] player Jerry Xu_1_3 has 2997 chips
+[turn] player The Joker_1_4 has 3002 chips
+[turn] player courage_1_5 has 2994 chips
+[turn] player yyyyyr_1_0 checks
+[turn] player were_1_1 checks
+[turn] player Mars_1_2 checks
+[turn] action
+[turn] check
+[turn] player The Joker_1_4 checks
+[turn] round ends
+[river] 8 heart
+[river] round starts
+[river] player yyyyyr_1_0 has 3005 chips
+[river] player were_1_1 has 2993 chips
+[river] player Mars_1_2 has 2991 chips
+[river] player Jerry Xu_1_3 has 2997 chips
+[river] player The Joker_1_4 has 3002 chips
+[river] player courage_1_5 has 2994 chips
+[river] player yyyyyr_1_0 checks
+[river] player were_1_1 checks
+[river] player Mars_1_2 checks
+[river] action
+[river] check
+[river] player The Joker_1_4 checks
+[river] round ends
+[SHOWDOWN] showdown starts
+[SHOWDOWN] showdown
+[SHOWDOWN] A spade 6 club 8 heart K diamond J club
+[SHOWDOWN] player were_1_1 shows A diamond A spade 6 club 3 diamond 8 heart, which is one pair.
+[SHOWDOWN] player Mars_1_2 shows 6 club 8 heart A spade J diamond J spade, which is one pair.
+[SHOWDOWN] player The Joker_1_4 shows A spade 6 club 8 heart K diamond J club, which is high card.
+[SHOWDOWN] player yyyyyr_1_0 shows Q diamond 10 diamond A spade 6 club 8 heart, which is high card.
+[GAME STAT] pot 0 with 10 chips is shared by 1 players
+[GAME STAT] player were_1_1 gets 10 chips from pot 0
+[GAME STAT] pot 1 with 8 chips is shared by 1 players
+[GAME STAT] player were_1_1 gets 8 chips from pot 1
+[GAME STAT] overall statistics
+[GAME STAT] player yyyyyr_1_0 wins -4 chips in this game
+[GAME STAT] player were_1_1 wins 14 chips in this game
+[GAME STAT] player Mars_1_2 wins -4 chips in this game
+[GAME STAT] player Jerry Xu_1_3 wins 0 chips in this game
+[GAME STAT] player The Joker_1_4 wins -4 chips in this game
+[GAME STAT] player courage_1_5 wins -2 chips in this game
+[GAME 5] game ends, invoking player.game_end()
+[GAME 6] game starts
+[GAME INFO] number of participants in this game = 6
+[GAME INFO] participant: yyyyyr_1_0, chip = 3005
+[GAME INFO] participant: were_1_1, chip = 3011
+[GAME INFO] participant: Mars_1_2, chip = 2991
+[GAME INFO] participant: Jerry Xu_1_3, chip = 2997
+[GAME INFO] participant: The Joker_1_4, chip = 3002
+[GAME INFO] participant: courage_1_5, chip = 2994
+[GAME INFO] blind is 2
+[GAME INFO] dealer is courage_1_5
+[GAME INFO] small blind 2 posted by yyyyyr_1_0
+[GAME INFO] big blind 4 posted by were_1_1
+[hole card] 7 club
+[hole card] 7 spade
+[preflop] round starts
+[preflop] player yyyyyr_1_0 has 3003 chips
+[preflop] player were_1_1 has 3007 chips
+[preflop] player Mars_1_2 has 2991 chips
+[preflop] player Jerry Xu_1_3 has 2997 chips
+[preflop] player The Joker_1_4 has 3002 chips
+[preflop] player courage_1_5 has 2994 chips
+[preflop] player Mars_1_2 calls. Total bet is 4
+[preflop] player Jerry Xu_1_3 folds
+[preflop] action
+[preflop] call (4 chips). 
+[preflop] player The Joker_1_4 calls. Total bet is 4
+[preflop] player courage_1_5 folds
+[preflop] player yyyyyr_1_0 folds
+[preflop] player were_1_1 calls. Total bet is 4
+[flop] 6 spade
+[flop] 3 spade
+[flop] Q spade
+[flop] round starts
+[flop] player yyyyyr_1_0 has 3003 chips
+[flop] player were_1_1 has 3007 chips
+[flop] player Mars_1_2 has 2987 chips
+[flop] player Jerry Xu_1_3 has 2997 chips
+[flop] player The Joker_1_4 has 2998 chips
+[flop] player courage_1_5 has 2994 chips
+[flop] player were_1_1 checks
+[flop] player Mars_1_2 checks
+[flop] action
+[flop] check
+[flop] player The Joker_1_4 checks
+[flop] round ends
+[turn] 9 spade
+[turn] round starts
+[turn] player yyyyyr_1_0 has 3003 chips
+[turn] player were_1_1 has 3007 chips
+[turn] player Mars_1_2 has 2987 chips
+[turn] player Jerry Xu_1_3 has 2997 chips
+[turn] player The Joker_1_4 has 2998 chips
+[turn] player courage_1_5 has 2994 chips
+[turn] player were_1_1 checks
+[turn] player Mars_1_2 raises 594. Total bet is 594
+[turn] action
+[turn] call (594 chips). 
+[turn] player The Joker_1_4 calls. Total bet is 594
+[turn] player were_1_1 calls. Total bet is 594
+[river] 3 heart
+[river] round starts
+[river] player yyyyyr_1_0 has 3003 chips
+[river] player were_1_1 has 2413 chips
+[river] player Mars_1_2 has 2393 chips
+[river] player Jerry Xu_1_3 has 2997 chips
+[river] player The Joker_1_4 has 2404 chips
+[river] player courage_1_5 has 2994 chips
+[river] player were_1_1 checks
+[river] player Mars_1_2 raises 897. Total bet is 897
+[river] action
+[river] raise 897 (1794 chips).
+[river] player The Joker_1_4 raises 897. Total bet is 1794
+[river] player were_1_1 calls. Total bet is 1794
+[river] player Mars_1_2 calls. Total bet is 1794
+[SHOWDOWN] showdown starts
+[SHOWDOWN] showdown
+[SHOWDOWN] 6 spade 3 spade Q spade 9 spade 7 spade
+[SHOWDOWN] player The Joker_1_4 shows 6 spade 3 spade Q spade 9 spade 7 spade, which is flush.
+[SHOWDOWN] player Mars_1_2 shows 2 spade 3 spade 6 spade 9 spade Q spade, which is flush.
+[SHOWDOWN] player were_1_1 shows 9 heart 5 heart 6 spade 3 spade 3 heart, which is one pair.
+[GAME STAT] pot 0 with 8 chips is shared by 1 players
+[GAME STAT] player The Joker_1_4 gets 8 chips from pot 0
+[GAME STAT] pot 1 with 7170 chips is shared by 1 players
+[GAME STAT] player The Joker_1_4 gets 7170 chips from pot 1
+[GAME STAT] overall statistics
+[GAME STAT] player yyyyyr_1_0 wins -2 chips in this game
+[GAME STAT] player were_1_1 wins -2392 chips in this game
+[GAME STAT] player Mars_1_2 wins -2392 chips in this game
+[GAME STAT] player Jerry Xu_1_3 wins 0 chips in this game
+[GAME STAT] player The Joker_1_4 wins 4786 chips in this game
+[GAME STAT] player courage_1_5 wins 0 chips in this game
+[GAME 6] game ends, invoking player.game_end()
+[GAME 7] game starts
+[GAME INFO] number of participants in this game = 6
+[GAME INFO] participant: yyyyyr_1_0, chip = 3003
+[GAME INFO] participant: were_1_1, chip = 619
+[GAME INFO] participant: Mars_1_2, chip = 599
+[GAME INFO] participant: Jerry Xu_1_3, chip = 2997
+[GAME INFO] participant: The Joker_1_4, chip = 7788
+[GAME INFO] participant: courage_1_5, chip = 2994
+[GAME INFO] blind is 5
+[GAME INFO] dealer is yyyyyr_1_0
+[GAME INFO] small blind 5 posted by were_1_1
+[GAME INFO] big blind 10 posted by Mars_1_2
+[hole card] 5 club
+[hole card] 10 diamond
+[preflop] round starts
+[preflop] player yyyyyr_1_0 has 3003 chips
+[preflop] player were_1_1 has 614 chips
+[preflop] player Mars_1_2 has 589 chips
+[preflop] player Jerry Xu_1_3 has 2997 chips
+[preflop] player The Joker_1_4 has 7788 chips
+[preflop] player courage_1_5 has 2994 chips
+[preflop] player Jerry Xu_1_3 folds
+[preflop] action
+[WARNING] CANNOT check when another player has raised
+[preflop] player The Joker_1_4 folds
+[preflop] player courage_1_5 folds
+[preflop] player yyyyyr_1_0 folds
+[preflop] player were_1_1 calls. Total bet is 10
+[preflop] player Mars_1_2 calls. Total bet is 10
+[flop] Q club
+[flop] J heart
+[flop] 3 heart
+[flop] round starts
+[flop] player yyyyyr_1_0 has 3003 chips
+[flop] player were_1_1 has 609 chips
+[flop] player Mars_1_2 has 589 chips
+[flop] player Jerry Xu_1_3 has 2997 chips
+[flop] player The Joker_1_4 has 7788 chips
+[flop] player courage_1_5 has 2994 chips
+[flop] player were_1_1 checks
+[flop] player Mars_1_2 checks
+[flop] round ends
+[turn] 2 diamond
+[turn] round starts
+[turn] player yyyyyr_1_0 has 3003 chips
+[turn] player were_1_1 has 609 chips
+[turn] player Mars_1_2 has 589 chips
+[turn] player Jerry Xu_1_3 has 2997 chips
+[turn] player The Joker_1_4 has 7788 chips
+[turn] player courage_1_5 has 2994 chips
+[turn] player were_1_1 checks
+[turn] player Mars_1_2 checks
+[turn] round ends
+[river] 4 heart
+[river] round starts
+[river] player yyyyyr_1_0 has 3003 chips
+[river] player were_1_1 has 609 chips
+[river] player Mars_1_2 has 589 chips
+[river] player Jerry Xu_1_3 has 2997 chips
+[river] player The Joker_1_4 has 7788 chips
+[river] player courage_1_5 has 2994 chips
+[river] player were_1_1 checks
+[river] player Mars_1_2 checks
+[river] round ends
+[SHOWDOWN] showdown starts
+[SHOWDOWN] player Mars_1_2 shows 4 heart 4 spade A spade J heart Q club, which is one pair.
+[SHOWDOWN] player were_1_1 shows 5 heart 8 spade Q club J heart 4 heart, which is high card.
+[GAME STAT] pot 0 with 20 chips is shared by 1 players
+[GAME STAT] player Mars_1_2 gets 20 chips from pot 0
+[GAME STAT] overall statistics
+[GAME STAT] player yyyyyr_1_0 wins 0 chips in this game
+[GAME STAT] player were_1_1 wins -10 chips in this game
+[GAME STAT] player Mars_1_2 wins 10 chips in this game
+[GAME STAT] player Jerry Xu_1_3 wins 0 chips in this game
+[GAME STAT] player The Joker_1_4 wins 0 chips in this game
+[GAME STAT] player courage_1_5 wins 0 chips in this game
+[GAME 7] game ends, invoking player.game_end()
+[GAME 8] game starts
+[GAME INFO] number of participants in this game = 6
+[GAME INFO] participant: yyyyyr_1_0, chip = 3003
+[GAME INFO] participant: were_1_1, chip = 609
+[GAME INFO] participant: Mars_1_2, chip = 609
+[GAME INFO] participant: Jerry Xu_1_3, chip = 2997
+[GAME INFO] participant: The Joker_1_4, chip = 7788
+[GAME INFO] participant: courage_1_5, chip = 2994
+[GAME INFO] blind is 5
+[GAME INFO] dealer is were_1_1
+[GAME INFO] small blind 5 posted by Mars_1_2
+[GAME INFO] big blind 10 posted by Jerry Xu_1_3
+[hole card] 2 club
+[hole card] 4 diamond
+[preflop] round starts
+[preflop] player yyyyyr_1_0 has 3003 chips
+[preflop] player were_1_1 has 609 chips
+[preflop] player Mars_1_2 has 604 chips
+[preflop] player Jerry Xu_1_3 has 2987 chips
+[preflop] player The Joker_1_4 has 7788 chips
+[preflop] player courage_1_5 has 2994 chips
+[preflop] action
+[WARNING] CANNOT check when another player has raised
+[preflop] player The Joker_1_4 folds
+[preflop] player courage_1_5 folds
+[preflop] player yyyyyr_1_0 folds
+[preflop] player were_1_1 calls. Total bet is 10
+[preflop] player Mars_1_2 folds
+[preflop] player Jerry Xu_1_3 folds
+[GAME STAT] pot 0 with 15 chips is shared by 1 players
+[GAME STAT] player were_1_1 gets 15 chips from pot 0
+[GAME STAT] pot 1 with 10 chips is shared by 1 players
+[GAME STAT] player were_1_1 gets 10 chips from pot 1
+[GAME STAT] overall statistics
+[GAME STAT] player yyyyyr_1_0 wins 0 chips in this game
+[GAME STAT] player were_1_1 wins 15 chips in this game
+[GAME STAT] player Mars_1_2 wins -5 chips in this game
+[GAME STAT] player Jerry Xu_1_3 wins -10 chips in this game
+[GAME STAT] player The Joker_1_4 wins 0 chips in this game
+[GAME STAT] player courage_1_5 wins 0 chips in this game
+[GAME 8] game ends, invoking player.game_end()
+[GAME 9] game starts
+[GAME INFO] number of participants in this game = 6
+[GAME INFO] participant: yyyyyr_1_0, chip = 3003
+[GAME INFO] participant: were_1_1, chip = 624
+[GAME INFO] participant: Mars_1_2, chip = 604
+[GAME INFO] participant: Jerry Xu_1_3, chip = 2987
+[GAME INFO] participant: The Joker_1_4, chip = 7788
+[GAME INFO] participant: courage_1_5, chip = 2994
+[GAME INFO] blind is 5
+[GAME INFO] dealer is Mars_1_2
+[GAME INFO] small blind 5 posted by Jerry Xu_1_3
+[GAME INFO] big blind 10 posted by The Joker_1_4
+[hole card] 4 diamond
+[hole card] 9 heart
+[preflop] round starts
+[preflop] player yyyyyr_1_0 has 3003 chips
+[preflop] player were_1_1 has 624 chips
+[preflop] player Mars_1_2 has 604 chips
+[preflop] player Jerry Xu_1_3 has 2982 chips
+[preflop] player The Joker_1_4 has 7778 chips
+[preflop] player courage_1_5 has 2994 chips
+[preflop] player courage_1_5 folds
+[preflop] player yyyyyr_1_0 calls. Total bet is 10
+[preflop] player were_1_1 calls. Total bet is 10
+[preflop] player Mars_1_2 folds
+[preflop] player Jerry Xu_1_3 folds
+[preflop] action
+[preflop] call (0 chips). 
+[preflop] player The Joker_1_4 calls. Total bet is 10
+[flop] 6 club
+[flop] 5 spade
+[flop] 2 diamond
+[flop] round starts
+[flop] player yyyyyr_1_0 has 2993 chips
+[flop] player were_1_1 has 614 chips
+[flop] player Mars_1_2 has 604 chips
+[flop] player Jerry Xu_1_3 has 2982 chips
+[flop] player The Joker_1_4 has 7778 chips
+[flop] player courage_1_5 has 2994 chips
+[flop] action
+[flop] check
+[flop] player The Joker_1_4 checks
+[flop] player yyyyyr_1_0 checks
+[flop] player were_1_1 checks
+[flop] round ends
+[turn] 2 spade
+[turn] round starts
+[turn] player yyyyyr_1_0 has 2993 chips
+[turn] player were_1_1 has 614 chips
+[turn] player Mars_1_2 has 604 chips
+[turn] player Jerry Xu_1_3 has 2982 chips
+[turn] player The Joker_1_4 has 7778 chips
+[turn] player courage_1_5 has 2994 chips
+[turn] action
+[turn] check
+[turn] player The Joker_1_4 checks
+[turn] player yyyyyr_1_0 checks
+[turn] player were_1_1 checks
+[turn] round ends
+[river] 4 spade
+[river] round starts
+[river] player yyyyyr_1_0 has 2993 chips
+[river] player were_1_1 has 614 chips
+[river] player Mars_1_2 has 604 chips
+[river] player Jerry Xu_1_3 has 2982 chips
+[river] player The Joker_1_4 has 7778 chips
+[river] player courage_1_5 has 2994 chips
+[river] action
+[river] check
+[river] player The Joker_1_4 checks
+[river] player yyyyyr_1_0 checks
+[river] player were_1_1 checks
+[river] round ends
+[SHOWDOWN] showdown starts
+[SHOWDOWN] showdown
+[SHOWDOWN] 2 diamond 2 spade 4 spade 4 diamond 9 heart
+[SHOWDOWN] player The Joker_1_4 shows 2 diamond 2 spade 4 spade 4 diamond 9 heart, which is two pair.
+[SHOWDOWN] player yyyyyr_1_0 shows A diamond 9 diamond 6 club 2 diamond 2 spade, which is one pair.
+[SHOWDOWN] player were_1_1 shows 10 heart Q club 6 club 2 diamond 2 spade, which is one pair.
+[GAME STAT] pot 0 with 20 chips is shared by 1 players
+[GAME STAT] player The Joker_1_4 gets 20 chips from pot 0
+[GAME STAT] pot 1 with 15 chips is shared by 1 players
+[GAME STAT] player The Joker_1_4 gets 15 chips from pot 1
+[GAME STAT] overall statistics
+[GAME STAT] player yyyyyr_1_0 wins -10 chips in this game
+[GAME STAT] player were_1_1 wins -10 chips in this game
+[GAME STAT] player Mars_1_2 wins 0 chips in this game
+[GAME STAT] player Jerry Xu_1_3 wins -5 chips in this game
+[GAME STAT] player The Joker_1_4 wins 25 chips in this game
+[GAME STAT] player courage_1_5 wins 0 chips in this game
+[GAME 9] game ends, invoking player.game_end()
+[GAME 10] game starts
+[GAME INFO] number of participants in this game = 6
+[GAME INFO] participant: yyyyyr_1_0, chip = 2993
+[GAME INFO] participant: were_1_1, chip = 614
+[GAME INFO] participant: Mars_1_2, chip = 604
+[GAME INFO] participant: Jerry Xu_1_3, chip = 2982
+[GAME INFO] participant: The Joker_1_4, chip = 7813
+[GAME INFO] participant: courage_1_5, chip = 2994
+[GAME INFO] blind is 10
+[GAME INFO] dealer is Jerry Xu_1_3
+[GAME INFO] small blind 10 posted by The Joker_1_4
+[GAME INFO] big blind 20 posted by courage_1_5
+[hole card] A diamond
+[hole card] 8 heart
+[preflop] round starts
+[preflop] player yyyyyr_1_0 has 2993 chips
+[preflop] player were_1_1 has 614 chips
+[preflop] player Mars_1_2 has 604 chips
+[preflop] player Jerry Xu_1_3 has 2982 chips
+[preflop] player The Joker_1_4 has 7803 chips
+[preflop] player courage_1_5 has 2974 chips
+[preflop] player yyyyyr_1_0 folds
+[preflop] player were_1_1 calls. Total bet is 20
+[preflop] player Mars_1_2 folds
+[preflop] player Jerry Xu_1_3 folds
+[preflop] action
+[preflop] call (10 chips). 
+[preflop] player The Joker_1_4 calls. Total bet is 20
+[preflop] player courage_1_5 calls. Total bet is 20
+[flop] J diamond
+[flop] 5 spade
+[flop] 5 club
+[flop] round starts
+[flop] player yyyyyr_1_0 has 2993 chips
+[flop] player were_1_1 has 594 chips
+[flop] player Mars_1_2 has 604 chips
+[flop] player Jerry Xu_1_3 has 2982 chips
+[flop] player The Joker_1_4 has 7793 chips
+[flop] player courage_1_5 has 2974 chips
+[flop] action
+[flop] check
+[flop] player The Joker_1_4 checks
+[flop] player courage_1_5 checks
+[flop] player were_1_1 checks
+[flop] round ends
+[turn] 4 spade
+[turn] round starts
+[turn] player yyyyyr_1_0 has 2993 chips
+[turn] player were_1_1 has 594 chips
+[turn] player Mars_1_2 has 604 chips
+[turn] player Jerry Xu_1_3 has 2982 chips
+[turn] player The Joker_1_4 has 7793 chips
+[turn] player courage_1_5 has 2974 chips
+[turn] action
+[turn] check
+[turn] player The Joker_1_4 checks
+[turn] player courage_1_5 checks
+[turn] player were_1_1 checks
+[turn] round ends
+[river] 10 diamond
+[river] round starts
+[river] player yyyyyr_1_0 has 2993 chips
+[river] player were_1_1 has 594 chips
+[river] player Mars_1_2 has 604 chips
+[river] player Jerry Xu_1_3 has 2982 chips
+[river] player The Joker_1_4 has 7793 chips
+[river] player courage_1_5 has 2974 chips
+[river] action
+[river] check
+[river] player The Joker_1_4 checks
+[river] player courage_1_5 checks
+[river] player were_1_1 checks
+[river] round ends
+[SHOWDOWN] showdown starts
+[SHOWDOWN] showdown
+[SHOWDOWN] J diamond 5 spade 5 club 10 diamond A diamond
+[SHOWDOWN] player The Joker_1_4 shows J diamond 5 spade 5 club 10 diamond A diamond, which is one pair.
+[SHOWDOWN] player courage_1_5 shows A heart J diamond 5 spade 5 club 10 diamond, which is one pair.
+[SHOWDOWN] player were_1_1 shows Q heart J diamond 5 spade 5 club 10 diamond, which is one pair.
+[GAME STAT] pot 0 with 60 chips is shared by 2 players
+[GAME STAT] player courage_1_5 gets 30 chips from pot 0
+[GAME STAT] player The Joker_1_4 gets 30 chips from pot 0
+[GAME STAT] overall statistics
+[GAME STAT] player yyyyyr_1_0 wins 0 chips in this game
+[GAME STAT] player were_1_1 wins -20 chips in this game
+[GAME STAT] player Mars_1_2 wins 0 chips in this game
+[GAME STAT] player Jerry Xu_1_3 wins 0 chips in this game
+[GAME STAT] player The Joker_1_4 wins 10 chips in this game
+[GAME STAT] player courage_1_5 wins 10 chips in this game
+[GAME 10] game ends, invoking player.game_end()
+[GAME 11] game starts
+[GAME INFO] number of participants in this game = 6
+[GAME INFO] participant: yyyyyr_1_0, chip = 2993
+[GAME INFO] participant: were_1_1, chip = 594
+[GAME INFO] participant: Mars_1_2, chip = 604
+[GAME INFO] participant: Jerry Xu_1_3, chip = 2982
+[GAME INFO] participant: The Joker_1_4, chip = 7823
+[GAME INFO] participant: courage_1_5, chip = 3004
+[GAME INFO] blind is 10
+[GAME INFO] dealer is The Joker_1_4
+[GAME INFO] small blind 10 posted by courage_1_5
+[GAME INFO] big blind 20 posted by yyyyyr_1_0
+[hole card] 8 spade
+[hole card] Q spade
+[preflop] round starts
+[preflop] player yyyyyr_1_0 has 2973 chips
+[preflop] player were_1_1 has 594 chips
+[preflop] player Mars_1_2 has 604 chips
+[preflop] player Jerry Xu_1_3 has 2982 chips
+[preflop] player The Joker_1_4 has 7823 chips
+[preflop] player courage_1_5 has 2994 chips
+[preflop] player were_1_1 calls. Total bet is 20
+[preflop] player Mars_1_2 calls. Total bet is 20
+[preflop] player Jerry Xu_1_3 folds
+[preflop] action
+[preflop] call (20 chips). 
+[preflop] player The Joker_1_4 calls. Total bet is 20
+[preflop] player courage_1_5 calls. Total bet is 20
+[preflop] player yyyyyr_1_0 calls. Total bet is 20
+[flop] 2 club
+[flop] A spade
+[flop] Q club
+[flop] round starts
+[flop] player yyyyyr_1_0 has 2973 chips
+[flop] player were_1_1 has 574 chips
+[flop] player Mars_1_2 has 584 chips
+[flop] player Jerry Xu_1_3 has 2982 chips
+[flop] player The Joker_1_4 has 7803 chips
+[flop] player courage_1_5 has 2984 chips
+[flop] player courage_1_5 checks
+[flop] player yyyyyr_1_0 checks
+[flop] player were_1_1 checks
+[flop] player Mars_1_2 checks
+[flop] action
+[flop] check
+[flop] player The Joker_1_4 checks
+[flop] round ends
+[turn] 2 spade
+[turn] round starts
+[turn] player yyyyyr_1_0 has 2973 chips
+[turn] player were_1_1 has 574 chips
+[turn] player Mars_1_2 has 584 chips
+[turn] player Jerry Xu_1_3 has 2982 chips
+[turn] player The Joker_1_4 has 7803 chips
+[turn] player courage_1_5 has 2984 chips
+[turn] player courage_1_5 checks
+[turn] player yyyyyr_1_0 checks
+[turn] player were_1_1 checks
+[turn] player Mars_1_2 checks
+[turn] action
+[turn] check
+[turn] player The Joker_1_4 checks
+[turn] round ends
+[river] 4 heart
+[river] round starts
+[river] player yyyyyr_1_0 has 2973 chips
+[river] player were_1_1 has 574 chips
+[river] player Mars_1_2 has 584 chips
+[river] player Jerry Xu_1_3 has 2982 chips
+[river] player The Joker_1_4 has 7803 chips
+[river] player courage_1_5 has 2984 chips
+[river] player courage_1_5 checks
+[river] player yyyyyr_1_0 checks
+[river] player were_1_1 checks
+[river] player Mars_1_2 checks
+[river] action
+[river] check
+[river] player The Joker_1_4 checks
+[river] round ends
+[SHOWDOWN] showdown starts
+[SHOWDOWN] showdown
+[SHOWDOWN] 2 club A spade Q club 2 spade Q spade
+[SHOWDOWN] player The Joker_1_4 shows 2 club A spade Q club 2 spade Q spade, which is two pair.
+[SHOWDOWN] player yyyyyr_1_0 shows K club 2 club A spade Q club 2 spade, which is one pair.
+[SHOWDOWN] player courage_1_5 shows K diamond 2 club A spade Q club 2 spade, which is one pair.
+[SHOWDOWN] player Mars_1_2 shows 2 club 2 spade A spade Q club 10 spade, which is one pair.
+[SHOWDOWN] player were_1_1 shows 3 diamond 6 club 2 club 2 spade 4 heart, which is one pair.
+[GAME STAT] pot 0 with 100 chips is shared by 1 players
+[GAME STAT] player The Joker_1_4 gets 100 chips from pot 0
+[GAME STAT] overall statistics
+[GAME STAT] player yyyyyr_1_0 wins -20 chips in this game
+[GAME STAT] player were_1_1 wins -20 chips in this game
+[GAME STAT] player Mars_1_2 wins -20 chips in this game
+[GAME STAT] player Jerry Xu_1_3 wins 0 chips in this game
+[GAME STAT] player The Joker_1_4 wins 80 chips in this game
+[GAME STAT] player courage_1_5 wins -20 chips in this game
+[GAME 11] game ends, invoking player.game_end()
+[GAME 12] game starts
+[GAME INFO] number of participants in this game = 6
+[GAME INFO] participant: yyyyyr_1_0, chip = 2973
+[GAME INFO] participant: were_1_1, chip = 574
+[GAME INFO] participant: Mars_1_2, chip = 584
+[GAME INFO] participant: Jerry Xu_1_3, chip = 2982
+[GAME INFO] participant: The Joker_1_4, chip = 7903
+[GAME INFO] participant: courage_1_5, chip = 2984
+[GAME INFO] blind is 10
+[GAME INFO] dealer is courage_1_5
+[GAME INFO] small blind 10 posted by yyyyyr_1_0
+[GAME INFO] big blind 20 posted by were_1_1
+[hole card] 9 diamond
+[hole card] 2 spade
+[preflop] round starts
+[preflop] player yyyyyr_1_0 has 2963 chips
+[preflop] player were_1_1 has 554 chips
+[preflop] player Mars_1_2 has 584 chips
+[preflop] player Jerry Xu_1_3 has 2982 chips
+[preflop] player The Joker_1_4 has 7903 chips
+[preflop] player courage_1_5 has 2984 chips
+[preflop] player Mars_1_2 folds
+[preflop] player Jerry Xu_1_3 calls. Total bet is 20
+[preflop] action
+[WARNING] CANNOT check when another player has raised
+[preflop] player The Joker_1_4 folds
+[preflop] player courage_1_5 folds
+[preflop] player yyyyyr_1_0 folds
+[preflop] player were_1_1 calls. Total bet is 20
+[flop] J spade
+[flop] Q spade
+[flop] 5 spade
+[flop] round starts
+[flop] player yyyyyr_1_0 has 2963 chips
+[flop] player were_1_1 has 554 chips
+[flop] player Mars_1_2 has 584 chips
+[flop] player Jerry Xu_1_3 has 2962 chips
+[flop] player The Joker_1_4 has 7903 chips
+[flop] player courage_1_5 has 2984 chips
+[flop] player were_1_1 checks
+[flop] player Jerry Xu_1_3 folds
+[flop] round ends
+[GAME STAT] pot 0 with 30 chips is shared by 1 players
+[GAME STAT] player were_1_1 gets 30 chips from pot 0
+[GAME STAT] pot 1 with 20 chips is shared by 1 players
+[GAME STAT] player were_1_1 gets 20 chips from pot 1
+[GAME STAT] overall statistics
+[GAME STAT] player yyyyyr_1_0 wins -10 chips in this game
+[GAME STAT] player were_1_1 wins 30 chips in this game
+[GAME STAT] player Mars_1_2 wins 0 chips in this game
+[GAME STAT] player Jerry Xu_1_3 wins -20 chips in this game
+[GAME STAT] player The Joker_1_4 wins 0 chips in this game
+[GAME STAT] player courage_1_5 wins 0 chips in this game
+[GAME 12] game ends, invoking player.game_end()
+[GAME 13] game starts
+[GAME INFO] number of participants in this game = 6
+[GAME INFO] participant: yyyyyr_1_0, chip = 2963
+[GAME INFO] participant: were_1_1, chip = 604
+[GAME INFO] participant: Mars_1_2, chip = 584
+[GAME INFO] participant: Jerry Xu_1_3, chip = 2962
+[GAME INFO] participant: The Joker_1_4, chip = 7903
+[GAME INFO] participant: courage_1_5, chip = 2984
+[GAME INFO] blind is 20
+[GAME INFO] dealer is yyyyyr_1_0
+[GAME INFO] small blind 20 posted by were_1_1
+[GAME INFO] big blind 40 posted by Mars_1_2
+[hole card] A diamond
+[hole card] 5 spade
+[preflop] round starts
+[preflop] player yyyyyr_1_0 has 2963 chips
+[preflop] player were_1_1 has 584 chips
+[preflop] player Mars_1_2 has 544 chips
+[preflop] player Jerry Xu_1_3 has 2962 chips
+[preflop] player The Joker_1_4 has 7903 chips
+[preflop] player courage_1_5 has 2984 chips
+[preflop] player Jerry Xu_1_3 folds
+[preflop] action
+[preflop] call (40 chips). 
+[preflop] player The Joker_1_4 calls. Total bet is 40
+[preflop] player courage_1_5 folds
+[preflop] player yyyyyr_1_0 folds
+[preflop] player were_1_1 calls. Total bet is 40
+[preflop] player Mars_1_2 calls. Total bet is 40
+[flop] 10 spade
+[flop] 9 heart
+[flop] 2 diamond
+[flop] round starts
+[flop] player yyyyyr_1_0 has 2963 chips
+[flop] player were_1_1 has 564 chips
+[flop] player Mars_1_2 has 544 chips
+[flop] player Jerry Xu_1_3 has 2962 chips
+[flop] player The Joker_1_4 has 7863 chips
+[flop] player courage_1_5 has 2984 chips
+[flop] player were_1_1 checks
+[flop] player Mars_1_2 checks
+[flop] action
+[flop] check
+[flop] player The Joker_1_4 checks
+[flop] round ends
+[turn] 8 diamond
+[turn] round starts
+[turn] player yyyyyr_1_0 has 2963 chips
+[turn] player were_1_1 has 564 chips
+[turn] player Mars_1_2 has 544 chips
+[turn] player Jerry Xu_1_3 has 2962 chips
+[turn] player The Joker_1_4 has 7863 chips
+[turn] player courage_1_5 has 2984 chips
+[turn] player were_1_1 checks
+[turn] player Mars_1_2 checks
+[turn] action
+[turn] check
+[turn] player The Joker_1_4 checks
+[turn] round ends
+[river] 8 spade
+[river] round starts
+[river] player yyyyyr_1_0 has 2963 chips
+[river] player were_1_1 has 564 chips
+[river] player Mars_1_2 has 544 chips
+[river] player Jerry Xu_1_3 has 2962 chips
+[river] player The Joker_1_4 has 7863 chips
+[river] player courage_1_5 has 2984 chips
+[river] player were_1_1 goes all in (564 chips). Total bet is 564
+[river] player Mars_1_2 goes all in (544 chips). Total bet is 544
+[river] action
+[WARNING] CANNOT check when another player has raised
+[river] player The Joker_1_4 folds
+[SHOWDOWN] showdown starts
+[SHOWDOWN] player were_1_1 shows K spade 10 club 10 spade 8 diamond 8 spade, which is two pair.
+[SHOWDOWN] player Mars_1_2 shows 2 diamond 2 heart 8 diamond 8 spade 10 spade, which is two pair.
+[GAME STAT] pot 0 with 120 chips is shared by 1 players
+[GAME STAT] player were_1_1 gets 120 chips from pot 0
+[GAME STAT] pot 1 with 1088 chips is shared by 1 players
+[GAME STAT] player were_1_1 gets 1088 chips from pot 1
+[GAME STAT] pot 2 with 20 chips is shared by 1 players
+[GAME STAT] player were_1_1 gets 20 chips from pot 2
+[GAME STAT] overall statistics
+[GAME STAT] player yyyyyr_1_0 wins 0 chips in this game
+[GAME STAT] player were_1_1 wins 624 chips in this game
+[GAME STAT] player Mars_1_2 wins -584 chips in this game
+[GAME STAT] player Jerry Xu_1_3 wins 0 chips in this game
+[GAME STAT] player The Joker_1_4 wins -40 chips in this game
+[GAME STAT] player courage_1_5 wins 0 chips in this game
+[GAME 13] game ends, invoking player.game_end()
+[GAME 14] game starts
+[GAME INFO] number of participants in this game = 5
+[GAME INFO] participant: yyyyyr_1_0, chip = 2963
+[GAME INFO] participant: were_1_1, chip = 1228
+[GAME INFO] participant: Jerry Xu_1_3, chip = 2962
+[GAME INFO] participant: The Joker_1_4, chip = 7863
+[GAME INFO] participant: courage_1_5, chip = 2984
+[GAME INFO] blind is 20
+[GAME INFO] dealer is were_1_1
+[GAME INFO] small blind 20 posted by Jerry Xu_1_3
+[GAME INFO] big blind 40 posted by The Joker_1_4
+[hole card] K heart
+[hole card] 9 club
+[preflop] round starts
+[preflop] player yyyyyr_1_0 has 2963 chips
+[preflop] player were_1_1 has 1228 chips
+[preflop] player Jerry Xu_1_3 has 2942 chips
+[preflop] player The Joker_1_4 has 7823 chips
+[preflop] player courage_1_5 has 2984 chips
+[preflop] player courage_1_5 folds
+[preflop] player yyyyyr_1_0 folds
+[preflop] player were_1_1 calls. Total bet is 40
+[preflop] player Jerry Xu_1_3 folds
+[preflop] action
+[preflop] call (0 chips). 
+[preflop] player The Joker_1_4 calls. Total bet is 40
+[flop] K club
+[flop] J heart
+[flop] 9 spade
+[flop] round starts
+[flop] player yyyyyr_1_0 has 2963 chips
+[flop] player were_1_1 has 1188 chips
+[flop] player Jerry Xu_1_3 has 2942 chips
+[flop] player The Joker_1_4 has 7823 chips
+[flop] player courage_1_5 has 2984 chips
+[flop] action
+[flop] check
+[flop] player The Joker_1_4 checks
+[flop] player were_1_1 checks
+[flop] round ends
+[turn] 6 heart
+[turn] round starts
+[turn] player yyyyyr_1_0 has 2963 chips
+[turn] player were_1_1 has 1188 chips
+[turn] player Jerry Xu_1_3 has 2942 chips
+[turn] player The Joker_1_4 has 7823 chips
+[turn] player courage_1_5 has 2984 chips
+[turn] action
+[turn] check
+[turn] player The Joker_1_4 checks
+[turn] player were_1_1 checks
+[turn] round ends
+[river] 3 spade
+[river] round starts
+[river] player yyyyyr_1_0 has 2963 chips
+[river] player were_1_1 has 1188 chips
+[river] player Jerry Xu_1_3 has 2942 chips
+[river] player The Joker_1_4 has 7823 chips
+[river] player courage_1_5 has 2984 chips
+[river] action
+[river] check
+[river] player The Joker_1_4 checks
+[river] player were_1_1 checks
+[river] round ends
+[SHOWDOWN] showdown starts
+[SHOWDOWN] showdown
+[SHOWDOWN] K club J heart 9 spade K heart 9 club
+[SHOWDOWN] player The Joker_1_4 shows K club J heart 9 spade K heart 9 club, which is two pair.
+[SHOWDOWN] player were_1_1 shows 9 diamond K club J heart 9 spade 6 heart, which is one pair.
+[GAME STAT] pot 0 with 60 chips is shared by 1 players
+[GAME STAT] player The Joker_1_4 gets 60 chips from pot 0
+[GAME STAT] pot 1 with 40 chips is shared by 1 players
+[GAME STAT] player The Joker_1_4 gets 40 chips from pot 1
+[GAME STAT] overall statistics
+[GAME STAT] player yyyyyr_1_0 wins 0 chips in this game
+[GAME STAT] player were_1_1 wins -40 chips in this game
+[GAME STAT] player Jerry Xu_1_3 wins -20 chips in this game
+[GAME STAT] player The Joker_1_4 wins 60 chips in this game
+[GAME STAT] player courage_1_5 wins 0 chips in this game
+[GAME 14] game ends, invoking player.game_end()
+[GAME 15] game starts
+[GAME INFO] number of participants in this game = 5
+[GAME INFO] participant: yyyyyr_1_0, chip = 2963
+[GAME INFO] participant: were_1_1, chip = 1188
+[GAME INFO] participant: Jerry Xu_1_3, chip = 2942
+[GAME INFO] participant: The Joker_1_4, chip = 7923
+[GAME INFO] participant: courage_1_5, chip = 2984
+[GAME INFO] blind is 20
+[GAME INFO] dealer is Jerry Xu_1_3
+[GAME INFO] small blind 20 posted by The Joker_1_4
+[GAME INFO] big blind 40 posted by courage_1_5
+[hole card] K spade
+[hole card] J spade
+[preflop] round starts
+[preflop] player yyyyyr_1_0 has 2963 chips
+[preflop] player were_1_1 has 1188 chips
+[preflop] player Jerry Xu_1_3 has 2942 chips
+[preflop] player The Joker_1_4 has 7903 chips
+[preflop] player courage_1_5 has 2944 chips
+[preflop] player yyyyyr_1_0 folds
+[preflop] player were_1_1 calls. Total bet is 40
+[preflop] player Jerry Xu_1_3 calls. Total bet is 40
+[preflop] action
+[preflop] call (20 chips). 
+[preflop] player The Joker_1_4 calls. Total bet is 40
+[preflop] player courage_1_5 calls. Total bet is 40
+[flop] 10 diamond
+[flop] 8 heart
+[flop] 9 heart
+[flop] round starts
+[flop] player yyyyyr_1_0 has 2963 chips
+[flop] player were_1_1 has 1148 chips
+[flop] player Jerry Xu_1_3 has 2902 chips
+[flop] player The Joker_1_4 has 7883 chips
+[flop] player courage_1_5 has 2944 chips
+[flop] action
+[flop] check
+[flop] player The Joker_1_4 checks
+[flop] player courage_1_5 checks
+[flop] player were_1_1 checks
+[flop] player Jerry Xu_1_3 checks
+[flop] round ends
+[turn] 5 club
+[turn] round starts
+[turn] player yyyyyr_1_0 has 2963 chips
+[turn] player were_1_1 has 1148 chips
+[turn] player Jerry Xu_1_3 has 2902 chips
+[turn] player The Joker_1_4 has 7883 chips
+[turn] player courage_1_5 has 2944 chips
+[turn] action
+[turn] check
+[turn] player The Joker_1_4 checks
+[turn] player courage_1_5 checks
+[turn] player were_1_1 checks
+[turn] player Jerry Xu_1_3 checks
+[turn] round ends
+[river] 7 heart
+[river] round starts
+[river] player yyyyyr_1_0 has 2963 chips
+[river] player were_1_1 has 1148 chips
+[river] player Jerry Xu_1_3 has 2902 chips
+[river] player The Joker_1_4 has 7883 chips
+[river] player courage_1_5 has 2944 chips
+[river] action
+[river] check
+[river] player The Joker_1_4 checks
+[river] player courage_1_5 goes all in (2944 chips). Total bet is 2944
+[river] player were_1_1 goes all in (1148 chips). Total bet is 1148
+[river] player Jerry Xu_1_3 goes all in (2902 chips). Total bet is 2902
+[river] action
+[WARNING] CANNOT check when another player has raised
+[river] player The Joker_1_4 folds
+[SHOWDOWN] showdown starts
+[SHOWDOWN] player courage_1_5 shows 10 heart Q heart 8 heart 9 heart 7 heart, which is flush.
+[SHOWDOWN] player Jerry Xu_1_3 shows K heart 8 heart 8 spade 5 club 7 heart, which is one pair.
+[SHOWDOWN] player were_1_1 shows 10 diamond 8 heart 9 heart 5 club 7 heart, which is high card.
+[GAME STAT] pot 0 with 160 chips is shared by 1 players
+[GAME STAT] player courage_1_5 gets 160 chips from pot 0
+[GAME STAT] pot 1 with 3444 chips is shared by 1 players
+[GAME STAT] player courage_1_5 gets 3444 chips from pot 1
+[GAME STAT] pot 2 with 3508 chips is shared by 1 players
+[GAME STAT] player courage_1_5 gets 3508 chips from pot 2
+[GAME STAT] pot 3 with 42 chips is shared by 1 players
+[GAME STAT] player courage_1_5 gets 42 chips from pot 3
+[GAME STAT] overall statistics
+[GAME STAT] player yyyyyr_1_0 wins 0 chips in this game
+[GAME STAT] player were_1_1 wins -1188 chips in this game
+[GAME STAT] player Jerry Xu_1_3 wins -2942 chips in this game
+[GAME STAT] player The Joker_1_4 wins -40 chips in this game
+[GAME STAT] player courage_1_5 wins 4170 chips in this game
+[GAME 15] game ends, invoking player.game_end()
+[GAME 16] game starts
+[GAME INFO] number of participants in this game = 3
+[GAME INFO] participant: yyyyyr_1_0, chip = 2963
+[GAME INFO] participant: The Joker_1_4, chip = 7883
+[GAME INFO] participant: courage_1_5, chip = 7154
+[GAME INFO] blind is 50
+[GAME INFO] dealer is The Joker_1_4
+[GAME INFO] small blind 50 posted by courage_1_5
+[GAME INFO] big blind 100 posted by yyyyyr_1_0
+[hole card] 4 club
+[hole card] 8 diamond
+[preflop] round starts
+[preflop] player yyyyyr_1_0 has 2863 chips
+[preflop] player The Joker_1_4 has 7883 chips
+[preflop] player courage_1_5 has 7104 chips
+[preflop] action
+[WARNING] CANNOT check when another player has raised
+[preflop] player The Joker_1_4 folds
+[preflop] player courage_1_5 calls. Total bet is 100
+[preflop] player yyyyyr_1_0 folds
+[GAME STAT] pot 0 with 200 chips is shared by 1 players
+[GAME STAT] player courage_1_5 gets 200 chips from pot 0
+[GAME STAT] overall statistics
+[GAME STAT] player yyyyyr_1_0 wins -100 chips in this game
+[GAME STAT] player The Joker_1_4 wins 0 chips in this game
+[GAME STAT] player courage_1_5 wins 100 chips in this game
+[GAME 16] game ends, invoking player.game_end()
+[GAME 17] game starts
+[GAME INFO] number of participants in this game = 3
+[GAME INFO] participant: yyyyyr_1_0, chip = 2863
+[GAME INFO] participant: The Joker_1_4, chip = 7883
+[GAME INFO] participant: courage_1_5, chip = 7254
+[GAME INFO] blind is 50
+[GAME INFO] dealer is courage_1_5
+[GAME INFO] small blind 50 posted by yyyyyr_1_0
+[GAME INFO] big blind 100 posted by The Joker_1_4
+[hole card] 5 club
+[hole card] A club
+[preflop] round starts
+[preflop] player yyyyyr_1_0 has 2813 chips
+[preflop] player The Joker_1_4 has 7783 chips
+[preflop] player courage_1_5 has 7254 chips
+[preflop] player courage_1_5 folds
+[preflop] player yyyyyr_1_0 calls. Total bet is 100
+[preflop] action
+[preflop] call (0 chips). 
+[preflop] player The Joker_1_4 calls. Total bet is 100
+[flop] 9 diamond
+[flop] 6 club
+[flop] 6 spade
+[flop] round starts
+[flop] player yyyyyr_1_0 has 2763 chips
+[flop] player The Joker_1_4 has 7783 chips
+[flop] player courage_1_5 has 7254 chips
+[flop] player yyyyyr_1_0 checks
+[flop] action
+[flop] check
+[flop] player The Joker_1_4 checks
+[flop] round ends
+[turn] 6 diamond
+[turn] round starts
+[turn] player yyyyyr_1_0 has 2763 chips
+[turn] player The Joker_1_4 has 7783 chips
+[turn] player courage_1_5 has 7254 chips
+[turn] player yyyyyr_1_0 checks
+[turn] action
+[turn] check
+[turn] player The Joker_1_4 checks
+[turn] round ends
+[river] 4 spade
+[river] round starts
+[river] player yyyyyr_1_0 has 2763 chips
+[river] player The Joker_1_4 has 7783 chips
+[river] player courage_1_5 has 7254 chips
+[river] player yyyyyr_1_0 checks
+[river] action
+[river] check
+[river] player The Joker_1_4 checks
+[river] round ends
+[SHOWDOWN] showdown starts
+[SHOWDOWN] showdown
+[SHOWDOWN] 9 diamond 6 club 6 spade 6 diamond A club
+[SHOWDOWN] player yyyyyr_1_0 shows K spade K diamond 6 club 6 spade 6 diamond, which is full house.
+[SHOWDOWN] player The Joker_1_4 shows 9 diamond 6 club 6 spade 6 diamond A club, which is three of a kind.
+[GAME STAT] pot 0 with 200 chips is shared by 1 players
+[GAME STAT] player yyyyyr_1_0 gets 200 chips from pot 0
+[GAME STAT] overall statistics
+[GAME STAT] player yyyyyr_1_0 wins 100 chips in this game
+[GAME STAT] player The Joker_1_4 wins -100 chips in this game
+[GAME STAT] player courage_1_5 wins 0 chips in this game
+[GAME 17] game ends, invoking player.game_end()
+[GAME 18] game starts
+[GAME INFO] number of participants in this game = 3
+[GAME INFO] participant: yyyyyr_1_0, chip = 2963
+[GAME INFO] participant: The Joker_1_4, chip = 7783
+[GAME INFO] participant: courage_1_5, chip = 7254
+[GAME INFO] blind is 50
+[GAME INFO] dealer is yyyyyr_1_0
+[GAME INFO] small blind 50 posted by The Joker_1_4
+[GAME INFO] big blind 100 posted by courage_1_5
+[hole card] A diamond
+[hole card] 5 diamond
+[preflop] round starts
+[preflop] player yyyyyr_1_0 has 2963 chips
+[preflop] player The Joker_1_4 has 7733 chips
+[preflop] player courage_1_5 has 7154 chips
+[preflop] player yyyyyr_1_0 folds
+[preflop] action
+[WARNING] CANNOT check when another player has raised
+[preflop] player The Joker_1_4 folds
+[GAME STAT] pot 0 with 100 chips is shared by 1 players
+[GAME STAT] player courage_1_5 gets 100 chips from pot 0
+[GAME STAT] pot 1 with 50 chips is shared by 1 players
+[GAME STAT] player courage_1_5 gets 50 chips from pot 1
+[GAME STAT] overall statistics
+[GAME STAT] player yyyyyr_1_0 wins 0 chips in this game
+[GAME STAT] player The Joker_1_4 wins -50 chips in this game
+[GAME STAT] player courage_1_5 wins 50 chips in this game
+[GAME 18] game ends, invoking player.game_end()
+[GAME 19] game starts
+[GAME INFO] number of participants in this game = 3
+[GAME INFO] participant: yyyyyr_1_0, chip = 2963
+[GAME INFO] participant: The Joker_1_4, chip = 7733
+[GAME INFO] participant: courage_1_5, chip = 7304
+[GAME INFO] blind is 100
+[GAME INFO] dealer is The Joker_1_4
+[GAME INFO] small blind 100 posted by courage_1_5
+[GAME INFO] big blind 200 posted by yyyyyr_1_0
+[hole card] 7 heart
+[hole card] 4 spade
+[preflop] round starts
+[preflop] player yyyyyr_1_0 has 2763 chips
+[preflop] player The Joker_1_4 has 7733 chips
+[preflop] player courage_1_5 has 7204 chips
+[preflop] action
+[WARNING] CANNOT check when another player has raised
+[preflop] player The Joker_1_4 folds
+[preflop] player courage_1_5 calls. Total bet is 200
+[preflop] player yyyyyr_1_0 folds
+[GAME STAT] pot 0 with 400 chips is shared by 1 players
+[GAME STAT] player courage_1_5 gets 400 chips from pot 0
+[GAME STAT] overall statistics
+[GAME STAT] player yyyyyr_1_0 wins -200 chips in this game
+[GAME STAT] player The Joker_1_4 wins 0 chips in this game
+[GAME STAT] player courage_1_5 wins 200 chips in this game
+[GAME 19] game ends, invoking player.game_end()
+[GAME 20] game starts
+[GAME INFO] number of participants in this game = 3
+[GAME INFO] participant: yyyyyr_1_0, chip = 2763
+[GAME INFO] participant: The Joker_1_4, chip = 7733
+[GAME INFO] participant: courage_1_5, chip = 7504
+[GAME INFO] blind is 100
+[GAME INFO] dealer is courage_1_5
+[GAME INFO] small blind 100 posted by yyyyyr_1_0
+[GAME INFO] big blind 200 posted by The Joker_1_4
+[hole card] A club
+[hole card] J spade
+[preflop] round starts
+[preflop] player yyyyyr_1_0 has 2663 chips
+[preflop] player The Joker_1_4 has 7533 chips
+[preflop] player courage_1_5 has 7504 chips
+[preflop] player courage_1_5 folds
+[preflop] player yyyyyr_1_0 folds
+[GAME STAT] pot 0 with 200 chips is shared by 1 players
+[GAME STAT] player The Joker_1_4 gets 200 chips from pot 0
+[GAME STAT] pot 1 with 100 chips is shared by 1 players
+[GAME STAT] player The Joker_1_4 gets 100 chips from pot 1
+[GAME STAT] overall statistics
+[GAME STAT] player yyyyyr_1_0 wins -100 chips in this game
+[GAME STAT] player The Joker_1_4 wins 100 chips in this game
+[GAME STAT] player courage_1_5 wins 0 chips in this game
+[GAME 20] game ends, invoking player.game_end()
+[GAME 21] game starts
+[GAME INFO] number of participants in this game = 3
+[GAME INFO] participant: yyyyyr_1_0, chip = 2663
+[GAME INFO] participant: The Joker_1_4, chip = 7833
+[GAME INFO] participant: courage_1_5, chip = 7504
+[GAME INFO] blind is 100
+[GAME INFO] dealer is yyyyyr_1_0
+[GAME INFO] small blind 100 posted by The Joker_1_4
+[GAME INFO] big blind 200 posted by courage_1_5
+[hole card] 3 spade
+[hole card] 8 spade
+[preflop] round starts
+[preflop] player yyyyyr_1_0 has 2663 chips
+[preflop] player The Joker_1_4 has 7733 chips
+[preflop] player courage_1_5 has 7304 chips
+[preflop] player yyyyyr_1_0 folds
+[preflop] action
+[WARNING] CANNOT check when another player has raised
+[preflop] player The Joker_1_4 folds
+[GAME STAT] pot 0 with 200 chips is shared by 1 players
+[GAME STAT] player courage_1_5 gets 200 chips from pot 0
+[GAME STAT] pot 1 with 100 chips is shared by 1 players
+[GAME STAT] player courage_1_5 gets 100 chips from pot 1
+[GAME STAT] overall statistics
+[GAME STAT] player yyyyyr_1_0 wins 0 chips in this game
+[GAME STAT] player The Joker_1_4 wins -100 chips in this game
+[GAME STAT] player courage_1_5 wins 100 chips in this game
+[GAME 21] game ends, invoking player.game_end()
+[GAME 22] game starts
+[GAME INFO] number of participants in this game = 3
+[GAME INFO] participant: yyyyyr_1_0, chip = 2663
+[GAME INFO] participant: The Joker_1_4, chip = 7733
+[GAME INFO] participant: courage_1_5, chip = 7604
+[GAME INFO] blind is 200
+[GAME INFO] dealer is The Joker_1_4
+[GAME INFO] small blind 200 posted by courage_1_5
+[GAME INFO] big blind 400 posted by yyyyyr_1_0
+[hole card] 10 spade
+[hole card] 5 heart
+[preflop] round starts
+[preflop] player yyyyyr_1_0 has 2263 chips
+[preflop] player The Joker_1_4 has 7733 chips
+[preflop] player courage_1_5 has 7404 chips
+[preflop] action
+[WARNING] CANNOT check when another player has raised
+[preflop] player The Joker_1_4 folds
+[preflop] player courage_1_5 folds
+[GAME STAT] pot 0 with 400 chips is shared by 1 players
+[GAME STAT] player yyyyyr_1_0 gets 400 chips from pot 0
+[GAME STAT] pot 1 with 200 chips is shared by 1 players
+[GAME STAT] player yyyyyr_1_0 gets 200 chips from pot 1
+[GAME STAT] overall statistics
+[GAME STAT] player yyyyyr_1_0 wins 200 chips in this game
+[GAME STAT] player The Joker_1_4 wins 0 chips in this game
+[GAME STAT] player courage_1_5 wins -200 chips in this game
+[GAME 22] game ends, invoking player.game_end()
+[GAME 23] game starts
+[GAME INFO] number of participants in this game = 3
+[GAME INFO] participant: yyyyyr_1_0, chip = 2863
+[GAME INFO] participant: The Joker_1_4, chip = 7733
+[GAME INFO] participant: courage_1_5, chip = 7404
+[GAME INFO] blind is 200
+[GAME INFO] dealer is courage_1_5
+[GAME INFO] small blind 200 posted by yyyyyr_1_0
+[GAME INFO] big blind 400 posted by The Joker_1_4
+[hole card] 9 club
+[hole card] K spade
+[preflop] round starts
+[preflop] player yyyyyr_1_0 has 2663 chips
+[preflop] player The Joker_1_4 has 7333 chips
+[preflop] player courage_1_5 has 7404 chips
+[preflop] player courage_1_5 folds
+[preflop] player yyyyyr_1_0 folds
+[GAME STAT] pot 0 with 400 chips is shared by 1 players
+[GAME STAT] player The Joker_1_4 gets 400 chips from pot 0
+[GAME STAT] pot 1 with 200 chips is shared by 1 players
+[GAME STAT] player The Joker_1_4 gets 200 chips from pot 1
+[GAME STAT] overall statistics
+[GAME STAT] player yyyyyr_1_0 wins -200 chips in this game
+[GAME STAT] player The Joker_1_4 wins 200 chips in this game
+[GAME STAT] player courage_1_5 wins 0 chips in this game
+[GAME 23] game ends, invoking player.game_end()
+[GAME 24] game starts
+[GAME INFO] number of participants in this game = 3
+[GAME INFO] participant: yyyyyr_1_0, chip = 2663
+[GAME INFO] participant: The Joker_1_4, chip = 7933
+[GAME INFO] participant: courage_1_5, chip = 7404
+[GAME INFO] blind is 200
+[GAME INFO] dealer is yyyyyr_1_0
+[GAME INFO] small blind 200 posted by The Joker_1_4
+[GAME INFO] big blind 400 posted by courage_1_5
+[hole card] 3 diamond
+[hole card] 8 heart
+[preflop] round starts
+[preflop] player yyyyyr_1_0 has 2663 chips
+[preflop] player The Joker_1_4 has 7733 chips
+[preflop] player courage_1_5 has 7004 chips
+[preflop] player yyyyyr_1_0 calls. Total bet is 400
+[preflop] action
+[WARNING] CANNOT check when another player has raised
+[preflop] player The Joker_1_4 folds
+[preflop] player courage_1_5 calls. Total bet is 400
+[flop] 10 spade
+[flop] Q heart
+[flop] 7 heart
+[flop] round starts
+[flop] player yyyyyr_1_0 has 2263 chips
+[flop] player The Joker_1_4 has 7733 chips
+[flop] player courage_1_5 has 7004 chips
+[flop] player courage_1_5 checks
+[flop] player yyyyyr_1_0 checks
+[flop] round ends
+[turn] 6 club
+[turn] round starts
+[turn] player yyyyyr_1_0 has 2263 chips
+[turn] player The Joker_1_4 has 7733 chips
+[turn] player courage_1_5 has 7004 chips
+[turn] player courage_1_5 checks
+[turn] player yyyyyr_1_0 checks
+[turn] round ends
+[river] 8 club
+[river] round starts
+[river] player yyyyyr_1_0 has 2263 chips
+[river] player The Joker_1_4 has 7733 chips
+[river] player courage_1_5 has 7004 chips
+[river] player courage_1_5 checks
+[river] player yyyyyr_1_0 checks
+[river] round ends
+[SHOWDOWN] showdown starts
+[SHOWDOWN] player yyyyyr_1_0 shows Q spade K club 10 spade Q heart 8 club, which is one pair.
+[SHOWDOWN] player courage_1_5 shows 7 diamond 9 club 10 spade Q heart 7 heart, which is one pair.
+[GAME STAT] pot 0 with 600 chips is shared by 1 players
+[GAME STAT] player yyyyyr_1_0 gets 600 chips from pot 0
+[GAME STAT] pot 1 with 400 chips is shared by 1 players
+[GAME STAT] player yyyyyr_1_0 gets 400 chips from pot 1
+[GAME STAT] overall statistics
+[GAME STAT] player yyyyyr_1_0 wins 600 chips in this game
+[GAME STAT] player The Joker_1_4 wins -200 chips in this game
+[GAME STAT] player courage_1_5 wins -400 chips in this game
+[GAME 24] game ends, invoking player.game_end()
+[GAME 25] game starts
+[GAME INFO] number of participants in this game = 3
+[GAME INFO] participant: yyyyyr_1_0, chip = 3263
+[GAME INFO] participant: The Joker_1_4, chip = 7733
+[GAME INFO] participant: courage_1_5, chip = 7004
+[GAME INFO] blind is 500
+[GAME INFO] dealer is The Joker_1_4
+[GAME INFO] small blind 500 posted by courage_1_5
+[GAME INFO] big blind 1000 posted by yyyyyr_1_0
+[hole card] K heart
+[hole card] 7 diamond
+[preflop] round starts
+[preflop] player yyyyyr_1_0 has 2263 chips
+[preflop] player The Joker_1_4 has 7733 chips
+[preflop] player courage_1_5 has 6504 chips
+[preflop] action
+[WARNING] CANNOT check when another player has raised
+[preflop] player The Joker_1_4 folds
+[preflop] player courage_1_5 calls. Total bet is 1000
+[preflop] player yyyyyr_1_0 folds
+[GAME STAT] pot 0 with 2000 chips is shared by 1 players
+[GAME STAT] player courage_1_5 gets 2000 chips from pot 0
+[GAME STAT] overall statistics
+[GAME STAT] player yyyyyr_1_0 wins -1000 chips in this game
+[GAME STAT] player The Joker_1_4 wins 0 chips in this game
+[GAME STAT] player courage_1_5 wins 1000 chips in this game
+[GAME 25] game ends, invoking player.game_end()
+[GAME 26] game starts
+[GAME INFO] number of participants in this game = 3
+[GAME INFO] participant: yyyyyr_1_0, chip = 2263
+[GAME INFO] participant: The Joker_1_4, chip = 7733
+[GAME INFO] participant: courage_1_5, chip = 8004
+[GAME INFO] blind is 500
+[GAME INFO] dealer is courage_1_5
+[GAME INFO] small blind 500 posted by yyyyyr_1_0
+[GAME INFO] big blind 1000 posted by The Joker_1_4
+[hole card] 4 diamond
+[hole card] 7 diamond
+[preflop] round starts
+[preflop] player yyyyyr_1_0 has 1763 chips
+[preflop] player The Joker_1_4 has 6733 chips
+[preflop] player courage_1_5 has 8004 chips
+[preflop] player courage_1_5 folds
+[preflop] player yyyyyr_1_0 folds
+[GAME STAT] pot 0 with 1000 chips is shared by 1 players
+[GAME STAT] player The Joker_1_4 gets 1000 chips from pot 0
+[GAME STAT] pot 1 with 500 chips is shared by 1 players
+[GAME STAT] player The Joker_1_4 gets 500 chips from pot 1
+[GAME STAT] overall statistics
+[GAME STAT] player yyyyyr_1_0 wins -500 chips in this game
+[GAME STAT] player The Joker_1_4 wins 500 chips in this game
+[GAME STAT] player courage_1_5 wins 0 chips in this game
+[GAME 26] game ends, invoking player.game_end()
+[GAME 27] game starts
+[GAME INFO] number of participants in this game = 3
+[GAME INFO] participant: yyyyyr_1_0, chip = 1763
+[GAME INFO] participant: The Joker_1_4, chip = 8233
+[GAME INFO] participant: courage_1_5, chip = 8004
+[GAME INFO] blind is 500
+[GAME INFO] dealer is yyyyyr_1_0
+[GAME INFO] small blind 500 posted by The Joker_1_4
+[GAME INFO] big blind 1000 posted by courage_1_5
+[hole card] 4 diamond
+[hole card] 3 diamond
+[preflop] round starts
+[preflop] player yyyyyr_1_0 has 1763 chips
+[preflop] player The Joker_1_4 has 7733 chips
+[preflop] player courage_1_5 has 7004 chips
+[preflop] player yyyyyr_1_0 folds
+[preflop] action
+[WARNING] CANNOT check when another player has raised
+[preflop] player The Joker_1_4 folds
+[GAME STAT] pot 0 with 1000 chips is shared by 1 players
+[GAME STAT] player courage_1_5 gets 1000 chips from pot 0
+[GAME STAT] pot 1 with 500 chips is shared by 1 players
+[GAME STAT] player courage_1_5 gets 500 chips from pot 1
+[GAME STAT] overall statistics
+[GAME STAT] player yyyyyr_1_0 wins 0 chips in this game
+[GAME STAT] player The Joker_1_4 wins -500 chips in this game
+[GAME STAT] player courage_1_5 wins 500 chips in this game
+[GAME 27] game ends, invoking player.game_end()
+[END]
+[FINAL STAT] chips
+[FINAL STAT] yyyyyr_1_0 has 1763 chips
+[FINAL STAT] were_1_1 has 0 chips
+[FINAL STAT] Mars_1_2 has 0 chips
+[FINAL STAT] Jerry Xu_1_3 has 0 chips
+[FINAL STAT] The Joker_1_4 has 7733 chips
+[FINAL STAT] courage_1_5 has 8504 chips

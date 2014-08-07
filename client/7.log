@@ -1,0 +1,1896 @@
+[UI] login name: [UI] succefully login as The Joker_6_7
+[login] The Joker_6_7
+[player 0] yi95yi_6_0
+[player 1] yyyyyr_6_1
+[player 2] Jerry_Xu_6_2
+[player 3] Minty_6_3
+[player 4] BigNews!_6_4
+[player 5] taring_6_5
+[player 6] Kasin1_6_6
+[player 7] The Joker_6_7
+[GAME INFO] number of players = 8
+[GAME INFO] initial chips = 3000
+[GAME 1] game starts
+[GAME INFO] number of participants in this game = 8
+[GAME INFO] participant: yi95yi_6_0, chip = 3000
+[GAME INFO] participant: yyyyyr_6_1, chip = 3000
+[GAME INFO] participant: Jerry_Xu_6_2, chip = 3000
+[GAME INFO] participant: Minty_6_3, chip = 3000
+[GAME INFO] participant: BigNews!_6_4, chip = 3000
+[GAME INFO] participant: taring_6_5, chip = 3000
+[GAME INFO] participant: Kasin1_6_6, chip = 3000
+[GAME INFO] participant: The Joker_6_7, chip = 3000
+[GAME INFO] blind is 1
+[GAME INFO] dealer is The Joker_6_7
+[GAME INFO] small blind 1 posted by yi95yi_6_0
+[GAME INFO] big blind 2 posted by yyyyyr_6_1
+[hole card] J heart
+[hole card] 3 heart
+[preflop] round starts
+[preflop] player yi95yi_6_0 has 2999 chips
+[preflop] player yyyyyr_6_1 has 2998 chips
+[preflop] player Jerry_Xu_6_2 has 3000 chips
+[preflop] player Minty_6_3 has 3000 chips
+[preflop] player BigNews!_6_4 has 3000 chips
+[preflop] player taring_6_5 has 3000 chips
+[preflop] player Kasin1_6_6 has 3000 chips
+[preflop] player The Joker_6_7 has 3000 chips
+[preflop] player Jerry_Xu_6_2 calls. Total bet is 2
+[preflop] player Minty_6_3 folds
+[preflop] player BigNews!_6_4 calls. Total bet is 2
+[preflop] player taring_6_5 folds
+[preflop] player Kasin1_6_6 folds
+[preflop] action
+[preflop] call (2 chips). 
+[preflop] player The Joker_6_7 calls. Total bet is 2
+[preflop] player yi95yi_6_0 folds
+[preflop] player yyyyyr_6_1 folds
+[flop] 8 heart
+[flop] 5 spade
+[flop] 10 diamond
+[flop] round starts
+[flop] player yi95yi_6_0 has 2999 chips
+[flop] player yyyyyr_6_1 has 2998 chips
+[flop] player Jerry_Xu_6_2 has 2998 chips
+[flop] player Minty_6_3 has 3000 chips
+[flop] player BigNews!_6_4 has 2998 chips
+[flop] player taring_6_5 has 3000 chips
+[flop] player Kasin1_6_6 has 3000 chips
+[flop] player The Joker_6_7 has 2998 chips
+[flop] player Jerry_Xu_6_2 checks
+[flop] player BigNews!_6_4 folds
+[flop] action
+[flop] check
+[flop] player The Joker_6_7 checks
+[flop] round ends
+[turn] A diamond
+[turn] round starts
+[turn] player yi95yi_6_0 has 2999 chips
+[turn] player yyyyyr_6_1 has 2998 chips
+[turn] player Jerry_Xu_6_2 has 2998 chips
+[turn] player Minty_6_3 has 3000 chips
+[turn] player BigNews!_6_4 has 2998 chips
+[turn] player taring_6_5 has 3000 chips
+[turn] player Kasin1_6_6 has 3000 chips
+[turn] player The Joker_6_7 has 2998 chips
+[turn] player Jerry_Xu_6_2 checks
+[turn] action
+[turn] check
+[turn] player The Joker_6_7 checks
+[turn] round ends
+[river] 6 heart
+[river] round starts
+[river] player yi95yi_6_0 has 2999 chips
+[river] player yyyyyr_6_1 has 2998 chips
+[river] player Jerry_Xu_6_2 has 2998 chips
+[river] player Minty_6_3 has 3000 chips
+[river] player BigNews!_6_4 has 2998 chips
+[river] player taring_6_5 has 3000 chips
+[river] player Kasin1_6_6 has 3000 chips
+[river] player The Joker_6_7 has 2998 chips
+[river] player Jerry_Xu_6_2 checks
+[river] action
+[river] check
+[river] player The Joker_6_7 checks
+[river] round ends
+[SHOWDOWN] showdown starts
+[SHOWDOWN] showdown
+[SHOWDOWN] 8 heart 10 diamond A diamond 6 heart J heart
+[SHOWDOWN] player Jerry_Xu_6_2 shows K diamond 9 heart 10 diamond A diamond 6 heart, which is high card.
+[SHOWDOWN] player The Joker_6_7 shows 8 heart 10 diamond A diamond 6 heart J heart, which is high card.
+[GAME STAT] pot 0 with 5 chips is shared by 1 players
+[GAME STAT] player Jerry_Xu_6_2 gets 5 chips from pot 0
+[GAME STAT] pot 1 with 4 chips is shared by 1 players
+[GAME STAT] player Jerry_Xu_6_2 gets 4 chips from pot 1
+[GAME STAT] overall statistics
+[GAME STAT] player yi95yi_6_0 wins -1 chips in this game
+[GAME STAT] player yyyyyr_6_1 wins -2 chips in this game
+[GAME STAT] player Jerry_Xu_6_2 wins 7 chips in this game
+[GAME STAT] player Minty_6_3 wins 0 chips in this game
+[GAME STAT] player BigNews!_6_4 wins -2 chips in this game
+[GAME STAT] player taring_6_5 wins 0 chips in this game
+[GAME STAT] player Kasin1_6_6 wins 0 chips in this game
+[GAME STAT] player The Joker_6_7 wins -2 chips in this game
+[GAME 1] game ends, invoking player.game_end()
+[GAME 2] game starts
+[GAME INFO] number of participants in this game = 8
+[GAME INFO] participant: yi95yi_6_0, chip = 2999
+[GAME INFO] participant: yyyyyr_6_1, chip = 2998
+[GAME INFO] participant: Jerry_Xu_6_2, chip = 3007
+[GAME INFO] participant: Minty_6_3, chip = 3000
+[GAME INFO] participant: BigNews!_6_4, chip = 2998
+[GAME INFO] participant: taring_6_5, chip = 3000
+[GAME INFO] participant: Kasin1_6_6, chip = 3000
+[GAME INFO] participant: The Joker_6_7, chip = 2998
+[GAME INFO] blind is 1
+[GAME INFO] dealer is yi95yi_6_0
+[GAME INFO] small blind 1 posted by yyyyyr_6_1
+[GAME INFO] big blind 2 posted by Jerry_Xu_6_2
+[hole card] Q heart
+[hole card] 4 diamond
+[preflop] round starts
+[preflop] player yi95yi_6_0 has 2999 chips
+[preflop] player yyyyyr_6_1 has 2997 chips
+[preflop] player Jerry_Xu_6_2 has 3005 chips
+[preflop] player Minty_6_3 has 3000 chips
+[preflop] player BigNews!_6_4 has 2998 chips
+[preflop] player taring_6_5 has 3000 chips
+[preflop] player Kasin1_6_6 has 3000 chips
+[preflop] player The Joker_6_7 has 2998 chips
+[preflop] player Minty_6_3 folds
+[preflop] player BigNews!_6_4 calls. Total bet is 2
+[preflop] player taring_6_5 folds
+[preflop] player Kasin1_6_6 calls. Total bet is 2
+[preflop] action
+[WARNING] CANNOT check when another player has raised
+[preflop] player The Joker_6_7 folds
+[preflop] player yi95yi_6_0 folds
+[preflop] player yyyyyr_6_1 folds
+[preflop] player Jerry_Xu_6_2 calls. Total bet is 2
+[flop] 7 heart
+[flop] Q diamond
+[flop] 10 heart
+[flop] round starts
+[flop] player yi95yi_6_0 has 2999 chips
+[flop] player yyyyyr_6_1 has 2997 chips
+[flop] player Jerry_Xu_6_2 has 3005 chips
+[flop] player Minty_6_3 has 3000 chips
+[flop] player BigNews!_6_4 has 2996 chips
+[flop] player taring_6_5 has 3000 chips
+[flop] player Kasin1_6_6 has 2998 chips
+[flop] player The Joker_6_7 has 2998 chips
+[flop] player Jerry_Xu_6_2 checks
+[flop] player BigNews!_6_4 checks
+[flop] player Kasin1_6_6 checks
+[flop] round ends
+[turn] 7 diamond
+[turn] round starts
+[turn] player yi95yi_6_0 has 2999 chips
+[turn] player yyyyyr_6_1 has 2997 chips
+[turn] player Jerry_Xu_6_2 has 3005 chips
+[turn] player Minty_6_3 has 3000 chips
+[turn] player BigNews!_6_4 has 2996 chips
+[turn] player taring_6_5 has 3000 chips
+[turn] player Kasin1_6_6 has 2998 chips
+[turn] player The Joker_6_7 has 2998 chips
+[turn] player Jerry_Xu_6_2 goes all in (3005 chips). Total bet is 3005
+[turn] player BigNews!_6_4 folds
+[turn] player Kasin1_6_6 goes all in (2998 chips). Total bet is 2998
+[river] A club
+[river] round starts
+[river] player yi95yi_6_0 has 2999 chips
+[river] player yyyyyr_6_1 has 2997 chips
+[river] player Jerry_Xu_6_2 has 0 chips
+[river] player Minty_6_3 has 3000 chips
+[river] player BigNews!_6_4 has 2996 chips
+[river] player taring_6_5 has 3000 chips
+[river] player Kasin1_6_6 has 0 chips
+[river] player The Joker_6_7 has 2998 chips
+[river] player Jerry_Xu_6_2 checks
+[river] player Jerry_Xu_6_2 goes all in (0 chips). Total bet is 0
+[river] player Kasin1_6_6 checks
+[river] player Kasin1_6_6 goes all in (0 chips). Total bet is 0
+[river] round ends
+[SHOWDOWN] showdown starts
+[SHOWDOWN] player Jerry_Xu_6_2 shows 7 heart 10 diamond 10 heart 7 diamond 7 spade, which is full house.
+[SHOWDOWN] player Kasin1_6_6 shows A club Q diamond 10 heart 8 heart 8 diamond, which is one pair.
+[GAME STAT] pot 0 with 4 chips is shared by 1 players
+[GAME STAT] player Jerry_Xu_6_2 gets 4 chips from pot 0
+[GAME STAT] pot 1 with 3 chips is shared by 1 players
+[GAME STAT] player Jerry_Xu_6_2 gets 3 chips from pot 1
+[GAME STAT] pot 2 with 5996 chips is shared by 1 players
+[GAME STAT] player Jerry_Xu_6_2 gets 5996 chips from pot 2
+[GAME STAT] pot 3 with 7 chips is shared by 1 players
+[GAME STAT] player Jerry_Xu_6_2 gets 7 chips from pot 3
+[GAME STAT] overall statistics
+[GAME STAT] player yi95yi_6_0 wins 0 chips in this game
+[GAME STAT] player yyyyyr_6_1 wins -1 chips in this game
+[GAME STAT] player Jerry_Xu_6_2 wins 3003 chips in this game
+[GAME STAT] player Minty_6_3 wins 0 chips in this game
+[GAME STAT] player BigNews!_6_4 wins -2 chips in this game
+[GAME STAT] player taring_6_5 wins 0 chips in this game
+[GAME STAT] player Kasin1_6_6 wins -3000 chips in this game
+[GAME STAT] player The Joker_6_7 wins 0 chips in this game
+[GAME 2] game ends, invoking player.game_end()
+[GAME 3] game starts
+[GAME INFO] number of participants in this game = 7
+[GAME INFO] participant: yi95yi_6_0, chip = 2999
+[GAME INFO] participant: yyyyyr_6_1, chip = 2997
+[GAME INFO] participant: Jerry_Xu_6_2, chip = 6010
+[GAME INFO] participant: Minty_6_3, chip = 3000
+[GAME INFO] participant: BigNews!_6_4, chip = 2996
+[GAME INFO] participant: taring_6_5, chip = 3000
+[GAME INFO] participant: The Joker_6_7, chip = 2998
+[GAME INFO] blind is 1
+[GAME INFO] dealer is yyyyyr_6_1
+[GAME INFO] small blind 1 posted by Jerry_Xu_6_2
+[GAME INFO] big blind 2 posted by Minty_6_3
+[hole card] 6 spade
+[hole card] J club
+[preflop] round starts
+[preflop] player yi95yi_6_0 has 2999 chips
+[preflop] player yyyyyr_6_1 has 2997 chips
+[preflop] player Jerry_Xu_6_2 has 6009 chips
+[preflop] player Minty_6_3 has 2998 chips
+[preflop] player BigNews!_6_4 has 2996 chips
+[preflop] player taring_6_5 has 3000 chips
+[preflop] player The Joker_6_7 has 2998 chips
+[preflop] player BigNews!_6_4 calls. Total bet is 2
+[preflop] player taring_6_5 folds
+[preflop] action
+[WARNING] CANNOT check when another player has raised
+[preflop] player The Joker_6_7 folds
+[preflop] player yi95yi_6_0 folds
+[preflop] player yyyyyr_6_1 folds
+[preflop] player Jerry_Xu_6_2 calls. Total bet is 2
+[preflop] player Minty_6_3 folds
+[flop] K diamond
+[flop] J spade
+[flop] K spade
+[flop] round starts
+[flop] player yi95yi_6_0 has 2999 chips
+[flop] player yyyyyr_6_1 has 2997 chips
+[flop] player Jerry_Xu_6_2 has 6008 chips
+[flop] player Minty_6_3 has 2998 chips
+[flop] player BigNews!_6_4 has 2994 chips
+[flop] player taring_6_5 has 3000 chips
+[flop] player The Joker_6_7 has 2998 chips
+[flop] player Jerry_Xu_6_2 checks
+[flop] player BigNews!_6_4 checks
+[flop] round ends
+[turn] Q spade
+[turn] round starts
+[turn] player yi95yi_6_0 has 2999 chips
+[turn] player yyyyyr_6_1 has 2997 chips
+[turn] player Jerry_Xu_6_2 has 6008 chips
+[turn] player Minty_6_3 has 2998 chips
+[turn] player BigNews!_6_4 has 2994 chips
+[turn] player taring_6_5 has 3000 chips
+[turn] player The Joker_6_7 has 2998 chips
+[turn] player Jerry_Xu_6_2 checks
+[turn] player BigNews!_6_4 folds
+[turn] round ends
+[GAME STAT] pot 0 with 6 chips is shared by 1 players
+[GAME STAT] player Jerry_Xu_6_2 gets 6 chips from pot 0
+[GAME STAT] overall statistics
+[GAME STAT] player yi95yi_6_0 wins 0 chips in this game
+[GAME STAT] player yyyyyr_6_1 wins 0 chips in this game
+[GAME STAT] player Jerry_Xu_6_2 wins 4 chips in this game
+[GAME STAT] player Minty_6_3 wins -2 chips in this game
+[GAME STAT] player BigNews!_6_4 wins -2 chips in this game
+[GAME STAT] player taring_6_5 wins 0 chips in this game
+[GAME STAT] player The Joker_6_7 wins 0 chips in this game
+[GAME 3] game ends, invoking player.game_end()
+[GAME 4] game starts
+[GAME INFO] number of participants in this game = 7
+[GAME INFO] participant: yi95yi_6_0, chip = 2999
+[GAME INFO] participant: yyyyyr_6_1, chip = 2997
+[GAME INFO] participant: Jerry_Xu_6_2, chip = 6014
+[GAME INFO] participant: Minty_6_3, chip = 2998
+[GAME INFO] participant: BigNews!_6_4, chip = 2994
+[GAME INFO] participant: taring_6_5, chip = 3000
+[GAME INFO] participant: The Joker_6_7, chip = 2998
+[GAME INFO] blind is 2
+[GAME INFO] dealer is Jerry_Xu_6_2
+[GAME INFO] small blind 2 posted by Minty_6_3
+[GAME INFO] big blind 4 posted by BigNews!_6_4
+[hole card] K club
+[hole card] 5 heart
+[preflop] round starts
+[preflop] player yi95yi_6_0 has 2999 chips
+[preflop] player yyyyyr_6_1 has 2997 chips
+[preflop] player Jerry_Xu_6_2 has 6014 chips
+[preflop] player Minty_6_3 has 2996 chips
+[preflop] player BigNews!_6_4 has 2990 chips
+[preflop] player taring_6_5 has 3000 chips
+[preflop] player The Joker_6_7 has 2998 chips
+[preflop] player taring_6_5 folds
+[preflop] action
+[WARNING] CANNOT check when another player has raised
+[preflop] player The Joker_6_7 folds
+[preflop] player yi95yi_6_0 goes all in (2999 chips). Total bet is 2999
+[preflop] player yyyyyr_6_1 folds
+[preflop] player Jerry_Xu_6_2 folds
+[preflop] player Minty_6_3 folds
+[preflop] player BigNews!_6_4 folds
+[GAME STAT] pot 0 with 6 chips is shared by 1 players
+[GAME STAT] player yi95yi_6_0 gets 6 chips from pot 0
+[GAME STAT] pot 1 with 4 chips is shared by 1 players
+[GAME STAT] player yi95yi_6_0 gets 4 chips from pot 1
+[GAME STAT] pot 2 with 2995 chips is shared by 1 players
+[GAME STAT] player yi95yi_6_0 gets 2995 chips from pot 2
+[GAME STAT] overall statistics
+[GAME STAT] player yi95yi_6_0 wins 6 chips in this game
+[GAME STAT] player yyyyyr_6_1 wins 0 chips in this game
+[GAME STAT] player Jerry_Xu_6_2 wins 0 chips in this game
+[GAME STAT] player Minty_6_3 wins -2 chips in this game
+[GAME STAT] player BigNews!_6_4 wins -4 chips in this game
+[GAME STAT] player taring_6_5 wins 0 chips in this game
+[GAME STAT] player The Joker_6_7 wins 0 chips in this game
+[GAME 4] game ends, invoking player.game_end()
+[GAME 5] game starts
+[GAME INFO] number of participants in this game = 7
+[GAME INFO] participant: yi95yi_6_0, chip = 3005
+[GAME INFO] participant: yyyyyr_6_1, chip = 2997
+[GAME INFO] participant: Jerry_Xu_6_2, chip = 6014
+[GAME INFO] participant: Minty_6_3, chip = 2996
+[GAME INFO] participant: BigNews!_6_4, chip = 2990
+[GAME INFO] participant: taring_6_5, chip = 3000
+[GAME INFO] participant: The Joker_6_7, chip = 2998
+[GAME INFO] blind is 2
+[GAME INFO] dealer is Minty_6_3
+[GAME INFO] small blind 2 posted by BigNews!_6_4
+[GAME INFO] big blind 4 posted by taring_6_5
+[hole card] Q diamond
+[hole card] 5 heart
+[preflop] round starts
+[preflop] player yi95yi_6_0 has 3005 chips
+[preflop] player yyyyyr_6_1 has 2997 chips
+[preflop] player Jerry_Xu_6_2 has 6014 chips
+[preflop] player Minty_6_3 has 2996 chips
+[preflop] player BigNews!_6_4 has 2988 chips
+[preflop] player taring_6_5 has 2996 chips
+[preflop] player The Joker_6_7 has 2998 chips
+[preflop] action
+[WARNING] CANNOT check when another player has raised
+[preflop] player The Joker_6_7 folds
+[preflop] player yi95yi_6_0 folds
+[preflop] player yyyyyr_6_1 folds
+[preflop] player Jerry_Xu_6_2 folds
+[preflop] player Minty_6_3 folds
+[preflop] player BigNews!_6_4 calls. Total bet is 4
+[preflop] player taring_6_5 folds
+[GAME STAT] pot 0 with 8 chips is shared by 1 players
+[GAME STAT] player BigNews!_6_4 gets 8 chips from pot 0
+[GAME STAT] overall statistics
+[GAME STAT] player yi95yi_6_0 wins 0 chips in this game
+[GAME STAT] player yyyyyr_6_1 wins 0 chips in this game
+[GAME STAT] player Jerry_Xu_6_2 wins 0 chips in this game
+[GAME STAT] player Minty_6_3 wins 0 chips in this game
+[GAME STAT] player BigNews!_6_4 wins 4 chips in this game
+[GAME STAT] player taring_6_5 wins -4 chips in this game
+[GAME STAT] player The Joker_6_7 wins 0 chips in this game
+[GAME 5] game ends, invoking player.game_end()
+[GAME 6] game starts
+[GAME INFO] number of participants in this game = 7
+[GAME INFO] participant: yi95yi_6_0, chip = 3005
+[GAME INFO] participant: yyyyyr_6_1, chip = 2997
+[GAME INFO] participant: Jerry_Xu_6_2, chip = 6014
+[GAME INFO] participant: Minty_6_3, chip = 2996
+[GAME INFO] participant: BigNews!_6_4, chip = 2994
+[GAME INFO] participant: taring_6_5, chip = 2996
+[GAME INFO] participant: The Joker_6_7, chip = 2998
+[GAME INFO] blind is 2
+[GAME INFO] dealer is BigNews!_6_4
+[GAME INFO] small blind 2 posted by taring_6_5
+[GAME INFO] big blind 4 posted by The Joker_6_7
+[hole card] 2 diamond
+[hole card] Q club
+[preflop] round starts
+[preflop] player yi95yi_6_0 has 3005 chips
+[preflop] player yyyyyr_6_1 has 2997 chips
+[preflop] player Jerry_Xu_6_2 has 6014 chips
+[preflop] player Minty_6_3 has 2996 chips
+[preflop] player BigNews!_6_4 has 2994 chips
+[preflop] player taring_6_5 has 2994 chips
+[preflop] player The Joker_6_7 has 2994 chips
+[preflop] player yi95yi_6_0 folds
+[preflop] player yyyyyr_6_1 folds
+[preflop] player Jerry_Xu_6_2 folds
+[preflop] player Minty_6_3 folds
+[preflop] player BigNews!_6_4 calls. Total bet is 4
+[preflop] player taring_6_5 folds
+[preflop] action
+[preflop] call (0 chips). 
+[preflop] player The Joker_6_7 calls. Total bet is 4
+[flop] 7 spade
+[flop] 9 heart
+[flop] 2 club
+[flop] round starts
+[flop] player yi95yi_6_0 has 3005 chips
+[flop] player yyyyyr_6_1 has 2997 chips
+[flop] player Jerry_Xu_6_2 has 6014 chips
+[flop] player Minty_6_3 has 2996 chips
+[flop] player BigNews!_6_4 has 2990 chips
+[flop] player taring_6_5 has 2994 chips
+[flop] player The Joker_6_7 has 2994 chips
+[flop] action
+[flop] check
+[flop] player The Joker_6_7 checks
+[flop] player BigNews!_6_4 folds
+[flop] round ends
+[GAME STAT] pot 0 with 6 chips is shared by 1 players
+[GAME STAT] player The Joker_6_7 gets 6 chips from pot 0
+[GAME STAT] pot 1 with 4 chips is shared by 1 players
+[GAME STAT] player The Joker_6_7 gets 4 chips from pot 1
+[GAME STAT] overall statistics
+[GAME STAT] player yi95yi_6_0 wins 0 chips in this game
+[GAME STAT] player yyyyyr_6_1 wins 0 chips in this game
+[GAME STAT] player Jerry_Xu_6_2 wins 0 chips in this game
+[GAME STAT] player Minty_6_3 wins 0 chips in this game
+[GAME STAT] player BigNews!_6_4 wins -4 chips in this game
+[GAME STAT] player taring_6_5 wins -2 chips in this game
+[GAME STAT] player The Joker_6_7 wins 6 chips in this game
+[GAME 6] game ends, invoking player.game_end()
+[GAME 7] game starts
+[GAME INFO] number of participants in this game = 7
+[GAME INFO] participant: yi95yi_6_0, chip = 3005
+[GAME INFO] participant: yyyyyr_6_1, chip = 2997
+[GAME INFO] participant: Jerry_Xu_6_2, chip = 6014
+[GAME INFO] participant: Minty_6_3, chip = 2996
+[GAME INFO] participant: BigNews!_6_4, chip = 2990
+[GAME INFO] participant: taring_6_5, chip = 2994
+[GAME INFO] participant: The Joker_6_7, chip = 3004
+[GAME INFO] blind is 5
+[GAME INFO] dealer is taring_6_5
+[GAME INFO] small blind 5 posted by The Joker_6_7
+[GAME INFO] big blind 10 posted by yi95yi_6_0
+[hole card] 6 diamond
+[hole card] 3 club
+[preflop] round starts
+[preflop] player yi95yi_6_0 has 2995 chips
+[preflop] player yyyyyr_6_1 has 2997 chips
+[preflop] player Jerry_Xu_6_2 has 6014 chips
+[preflop] player Minty_6_3 has 2996 chips
+[preflop] player BigNews!_6_4 has 2990 chips
+[preflop] player taring_6_5 has 2994 chips
+[preflop] player The Joker_6_7 has 2999 chips
+[preflop] player yyyyyr_6_1 folds
+[preflop] player Jerry_Xu_6_2 folds
+[preflop] player Minty_6_3 folds
+[preflop] player BigNews!_6_4 calls. Total bet is 10
+[preflop] player taring_6_5 folds
+[preflop] action
+[WARNING] CANNOT check when another player has raised
+[preflop] player The Joker_6_7 folds
+[preflop] player yi95yi_6_0 folds
+[GAME STAT] pot 0 with 15 chips is shared by 1 players
+[GAME STAT] player BigNews!_6_4 gets 15 chips from pot 0
+[GAME STAT] pot 1 with 10 chips is shared by 1 players
+[GAME STAT] player BigNews!_6_4 gets 10 chips from pot 1
+[GAME STAT] overall statistics
+[GAME STAT] player yi95yi_6_0 wins -10 chips in this game
+[GAME STAT] player yyyyyr_6_1 wins 0 chips in this game
+[GAME STAT] player Jerry_Xu_6_2 wins 0 chips in this game
+[GAME STAT] player Minty_6_3 wins 0 chips in this game
+[GAME STAT] player BigNews!_6_4 wins 15 chips in this game
+[GAME STAT] player taring_6_5 wins 0 chips in this game
+[GAME STAT] player The Joker_6_7 wins -5 chips in this game
+[GAME 7] game ends, invoking player.game_end()
+[GAME 8] game starts
+[GAME INFO] number of participants in this game = 7
+[GAME INFO] participant: yi95yi_6_0, chip = 2995
+[GAME INFO] participant: yyyyyr_6_1, chip = 2997
+[GAME INFO] participant: Jerry_Xu_6_2, chip = 6014
+[GAME INFO] participant: Minty_6_3, chip = 2996
+[GAME INFO] participant: BigNews!_6_4, chip = 3005
+[GAME INFO] participant: taring_6_5, chip = 2994
+[GAME INFO] participant: The Joker_6_7, chip = 2999
+[GAME INFO] blind is 5
+[GAME INFO] dealer is The Joker_6_7
+[GAME INFO] small blind 5 posted by yi95yi_6_0
+[GAME INFO] big blind 10 posted by yyyyyr_6_1
+[hole card] 5 spade
+[hole card] 9 club
+[preflop] round starts
+[preflop] player yi95yi_6_0 has 2990 chips
+[preflop] player yyyyyr_6_1 has 2987 chips
+[preflop] player Jerry_Xu_6_2 has 6014 chips
+[preflop] player Minty_6_3 has 2996 chips
+[preflop] player BigNews!_6_4 has 3005 chips
+[preflop] player taring_6_5 has 2994 chips
+[preflop] player The Joker_6_7 has 2999 chips
+[preflop] player Jerry_Xu_6_2 folds
+[preflop] player Minty_6_3 folds
+[preflop] player BigNews!_6_4 calls. Total bet is 10
+[preflop] player taring_6_5 folds
+[preflop] action
+[WARNING] CANNOT check when another player has raised
+[preflop] player The Joker_6_7 folds
+[preflop] player yi95yi_6_0 folds
+[preflop] player yyyyyr_6_1 folds
+[GAME STAT] pot 0 with 15 chips is shared by 1 players
+[GAME STAT] player BigNews!_6_4 gets 15 chips from pot 0
+[GAME STAT] pot 1 with 10 chips is shared by 1 players
+[GAME STAT] player BigNews!_6_4 gets 10 chips from pot 1
+[GAME STAT] overall statistics
+[GAME STAT] player yi95yi_6_0 wins -5 chips in this game
+[GAME STAT] player yyyyyr_6_1 wins -10 chips in this game
+[GAME STAT] player Jerry_Xu_6_2 wins 0 chips in this game
+[GAME STAT] player Minty_6_3 wins 0 chips in this game
+[GAME STAT] player BigNews!_6_4 wins 15 chips in this game
+[GAME STAT] player taring_6_5 wins 0 chips in this game
+[GAME STAT] player The Joker_6_7 wins 0 chips in this game
+[GAME 8] game ends, invoking player.game_end()
+[GAME 9] game starts
+[GAME INFO] number of participants in this game = 7
+[GAME INFO] participant: yi95yi_6_0, chip = 2990
+[GAME INFO] participant: yyyyyr_6_1, chip = 2987
+[GAME INFO] participant: Jerry_Xu_6_2, chip = 6014
+[GAME INFO] participant: Minty_6_3, chip = 2996
+[GAME INFO] participant: BigNews!_6_4, chip = 3020
+[GAME INFO] participant: taring_6_5, chip = 2994
+[GAME INFO] participant: The Joker_6_7, chip = 2999
+[GAME INFO] blind is 5
+[GAME INFO] dealer is yi95yi_6_0
+[GAME INFO] small blind 5 posted by yyyyyr_6_1
+[GAME INFO] big blind 10 posted by Jerry_Xu_6_2
+[hole card] J diamond
+[hole card] 9 diamond
+[preflop] round starts
+[preflop] player yi95yi_6_0 has 2990 chips
+[preflop] player yyyyyr_6_1 has 2982 chips
+[preflop] player Jerry_Xu_6_2 has 6004 chips
+[preflop] player Minty_6_3 has 2996 chips
+[preflop] player BigNews!_6_4 has 3020 chips
+[preflop] player taring_6_5 has 2994 chips
+[preflop] player The Joker_6_7 has 2999 chips
+[preflop] player Minty_6_3 folds
+[preflop] player BigNews!_6_4 calls. Total bet is 10
+[preflop] player taring_6_5 folds
+[preflop] action
+[preflop] call (10 chips). 
+[preflop] player The Joker_6_7 calls. Total bet is 10
+[preflop] player yi95yi_6_0 folds
+[preflop] player yyyyyr_6_1 folds
+[preflop] player Jerry_Xu_6_2 calls. Total bet is 10
+[flop] 10 heart
+[flop] 10 spade
+[flop] 7 diamond
+[flop] round starts
+[flop] player yi95yi_6_0 has 2990 chips
+[flop] player yyyyyr_6_1 has 2982 chips
+[flop] player Jerry_Xu_6_2 has 6004 chips
+[flop] player Minty_6_3 has 2996 chips
+[flop] player BigNews!_6_4 has 3010 chips
+[flop] player taring_6_5 has 2994 chips
+[flop] player The Joker_6_7 has 2989 chips
+[flop] player Jerry_Xu_6_2 checks
+[flop] player BigNews!_6_4 checks
+[flop] action
+[flop] check
+[flop] player The Joker_6_7 checks
+[flop] round ends
+[turn] 4 spade
+[turn] round starts
+[turn] player yi95yi_6_0 has 2990 chips
+[turn] player yyyyyr_6_1 has 2982 chips
+[turn] player Jerry_Xu_6_2 has 6004 chips
+[turn] player Minty_6_3 has 2996 chips
+[turn] player BigNews!_6_4 has 3010 chips
+[turn] player taring_6_5 has 2994 chips
+[turn] player The Joker_6_7 has 2989 chips
+[turn] player Jerry_Xu_6_2 checks
+[turn] player BigNews!_6_4 folds
+[turn] action
+[turn] check
+[turn] player The Joker_6_7 checks
+[turn] round ends
+[river] K spade
+[river] round starts
+[river] player yi95yi_6_0 has 2990 chips
+[river] player yyyyyr_6_1 has 2982 chips
+[river] player Jerry_Xu_6_2 has 6004 chips
+[river] player Minty_6_3 has 2996 chips
+[river] player BigNews!_6_4 has 3010 chips
+[river] player taring_6_5 has 2994 chips
+[river] player The Joker_6_7 has 2989 chips
+[river] player Jerry_Xu_6_2 checks
+[river] action
+[river] check
+[river] player The Joker_6_7 checks
+[river] round ends
+[SHOWDOWN] showdown starts
+[SHOWDOWN] showdown
+[SHOWDOWN] 10 heart 10 spade K spade J diamond 9 diamond
+[SHOWDOWN] player Jerry_Xu_6_2 shows 10 heart 10 spade Q club J spade K spade, which is one pair.
+[SHOWDOWN] player The Joker_6_7 shows 10 heart 10 spade K spade J diamond 9 diamond, which is one pair.
+[GAME STAT] pot 0 with 20 chips is shared by 1 players
+[GAME STAT] player Jerry_Xu_6_2 gets 20 chips from pot 0
+[GAME STAT] pot 1 with 15 chips is shared by 1 players
+[GAME STAT] player Jerry_Xu_6_2 gets 15 chips from pot 1
+[GAME STAT] overall statistics
+[GAME STAT] player yi95yi_6_0 wins 0 chips in this game
+[GAME STAT] player yyyyyr_6_1 wins -5 chips in this game
+[GAME STAT] player Jerry_Xu_6_2 wins 25 chips in this game
+[GAME STAT] player Minty_6_3 wins 0 chips in this game
+[GAME STAT] player BigNews!_6_4 wins -10 chips in this game
+[GAME STAT] player taring_6_5 wins 0 chips in this game
+[GAME STAT] player The Joker_6_7 wins -10 chips in this game
+[GAME 9] game ends, invoking player.game_end()
+[GAME 10] game starts
+[GAME INFO] number of participants in this game = 7
+[GAME INFO] participant: yi95yi_6_0, chip = 2990
+[GAME INFO] participant: yyyyyr_6_1, chip = 2982
+[GAME INFO] participant: Jerry_Xu_6_2, chip = 6039
+[GAME INFO] participant: Minty_6_3, chip = 2996
+[GAME INFO] participant: BigNews!_6_4, chip = 3010
+[GAME INFO] participant: taring_6_5, chip = 2994
+[GAME INFO] participant: The Joker_6_7, chip = 2989
+[GAME INFO] blind is 10
+[GAME INFO] dealer is yyyyyr_6_1
+[GAME INFO] small blind 10 posted by Jerry_Xu_6_2
+[GAME INFO] big blind 20 posted by Minty_6_3
+[hole card] 4 spade
+[hole card] 10 diamond
+[preflop] round starts
+[preflop] player yi95yi_6_0 has 2990 chips
+[preflop] player yyyyyr_6_1 has 2982 chips
+[preflop] player Jerry_Xu_6_2 has 6029 chips
+[preflop] player Minty_6_3 has 2976 chips
+[preflop] player BigNews!_6_4 has 3010 chips
+[preflop] player taring_6_5 has 2994 chips
+[preflop] player The Joker_6_7 has 2989 chips
+[preflop] player BigNews!_6_4 calls. Total bet is 20
+[preflop] player taring_6_5 folds
+[preflop] action
+[WARNING] CANNOT check when another player has raised
+[preflop] player The Joker_6_7 folds
+[preflop] player yi95yi_6_0 folds
+[preflop] player yyyyyr_6_1 folds
+[preflop] player Jerry_Xu_6_2 calls. Total bet is 20
+[preflop] player Minty_6_3 folds
+[flop] A club
+[flop] 3 heart
+[flop] A diamond
+[flop] round starts
+[flop] player yi95yi_6_0 has 2990 chips
+[flop] player yyyyyr_6_1 has 2982 chips
+[flop] player Jerry_Xu_6_2 has 6019 chips
+[flop] player Minty_6_3 has 2976 chips
+[flop] player BigNews!_6_4 has 2990 chips
+[flop] player taring_6_5 has 2994 chips
+[flop] player The Joker_6_7 has 2989 chips
+[flop] player Jerry_Xu_6_2 checks
+[flop] player BigNews!_6_4 folds
+[flop] round ends
+[GAME STAT] pot 0 with 60 chips is shared by 1 players
+[GAME STAT] player Jerry_Xu_6_2 gets 60 chips from pot 0
+[GAME STAT] overall statistics
+[GAME STAT] player yi95yi_6_0 wins 0 chips in this game
+[GAME STAT] player yyyyyr_6_1 wins 0 chips in this game
+[GAME STAT] player Jerry_Xu_6_2 wins 40 chips in this game
+[GAME STAT] player Minty_6_3 wins -20 chips in this game
+[GAME STAT] player BigNews!_6_4 wins -20 chips in this game
+[GAME STAT] player taring_6_5 wins 0 chips in this game
+[GAME STAT] player The Joker_6_7 wins 0 chips in this game
+[GAME 10] game ends, invoking player.game_end()
+[GAME 11] game starts
+[GAME INFO] number of participants in this game = 7
+[GAME INFO] participant: yi95yi_6_0, chip = 2990
+[GAME INFO] participant: yyyyyr_6_1, chip = 2982
+[GAME INFO] participant: Jerry_Xu_6_2, chip = 6079
+[GAME INFO] participant: Minty_6_3, chip = 2976
+[GAME INFO] participant: BigNews!_6_4, chip = 2990
+[GAME INFO] participant: taring_6_5, chip = 2994
+[GAME INFO] participant: The Joker_6_7, chip = 2989
+[GAME INFO] blind is 10
+[GAME INFO] dealer is Jerry_Xu_6_2
+[GAME INFO] small blind 10 posted by Minty_6_3
+[GAME INFO] big blind 20 posted by BigNews!_6_4
+[hole card] 10 spade
+[hole card] J heart
+[preflop] round starts
+[preflop] player yi95yi_6_0 has 2990 chips
+[preflop] player yyyyyr_6_1 has 2982 chips
+[preflop] player Jerry_Xu_6_2 has 6079 chips
+[preflop] player Minty_6_3 has 2966 chips
+[preflop] player BigNews!_6_4 has 2970 chips
+[preflop] player taring_6_5 has 2994 chips
+[preflop] player The Joker_6_7 has 2989 chips
+[preflop] player taring_6_5 folds
+[preflop] action
+[preflop] call (20 chips). 
+[preflop] player The Joker_6_7 calls. Total bet is 20
+[preflop] player yi95yi_6_0 folds
+[preflop] player yyyyyr_6_1 folds
+[preflop] player Jerry_Xu_6_2 folds
+[preflop] player Minty_6_3 folds
+[preflop] player BigNews!_6_4 calls. Total bet is 20
+[flop] 3 club
+[flop] J club
+[flop] 9 club
+[flop] round starts
+[flop] player yi95yi_6_0 has 2990 chips
+[flop] player yyyyyr_6_1 has 2982 chips
+[flop] player Jerry_Xu_6_2 has 6079 chips
+[flop] player Minty_6_3 has 2966 chips
+[flop] player BigNews!_6_4 has 2970 chips
+[flop] player taring_6_5 has 2994 chips
+[flop] player The Joker_6_7 has 2969 chips
+[flop] player BigNews!_6_4 folds
+[flop] round ends
+[GAME STAT] pot 0 with 30 chips is shared by 1 players
+[GAME STAT] player The Joker_6_7 gets 30 chips from pot 0
+[GAME STAT] pot 1 with 20 chips is shared by 1 players
+[GAME STAT] player The Joker_6_7 gets 20 chips from pot 1
+[GAME STAT] overall statistics
+[GAME STAT] player yi95yi_6_0 wins 0 chips in this game
+[GAME STAT] player yyyyyr_6_1 wins 0 chips in this game
+[GAME STAT] player Jerry_Xu_6_2 wins 0 chips in this game
+[GAME STAT] player Minty_6_3 wins -10 chips in this game
+[GAME STAT] player BigNews!_6_4 wins -20 chips in this game
+[GAME STAT] player taring_6_5 wins 0 chips in this game
+[GAME STAT] player The Joker_6_7 wins 30 chips in this game
+[GAME 11] game ends, invoking player.game_end()
+[GAME 12] game starts
+[GAME INFO] number of participants in this game = 7
+[GAME INFO] participant: yi95yi_6_0, chip = 2990
+[GAME INFO] participant: yyyyyr_6_1, chip = 2982
+[GAME INFO] participant: Jerry_Xu_6_2, chip = 6079
+[GAME INFO] participant: Minty_6_3, chip = 2966
+[GAME INFO] participant: BigNews!_6_4, chip = 2970
+[GAME INFO] participant: taring_6_5, chip = 2994
+[GAME INFO] participant: The Joker_6_7, chip = 3019
+[GAME INFO] blind is 10
+[GAME INFO] dealer is Minty_6_3
+[GAME INFO] small blind 10 posted by BigNews!_6_4
+[GAME INFO] big blind 20 posted by taring_6_5
+[hole card] K spade
+[hole card] J diamond
+[preflop] round starts
+[preflop] player yi95yi_6_0 has 2990 chips
+[preflop] player yyyyyr_6_1 has 2982 chips
+[preflop] player Jerry_Xu_6_2 has 6079 chips
+[preflop] player Minty_6_3 has 2966 chips
+[preflop] player BigNews!_6_4 has 2960 chips
+[preflop] player taring_6_5 has 2974 chips
+[preflop] player The Joker_6_7 has 3019 chips
+[preflop] action
+[preflop] call (20 chips). 
+[preflop] player The Joker_6_7 calls. Total bet is 20
+[preflop] player yi95yi_6_0 folds
+[preflop] player yyyyyr_6_1 folds
+[preflop] player Jerry_Xu_6_2 folds
+[preflop] player Minty_6_3 folds
+[preflop] player BigNews!_6_4 calls. Total bet is 20
+[preflop] player taring_6_5 folds
+[flop] 6 diamond
+[flop] 4 heart
+[flop] 10 club
+[flop] round starts
+[flop] player yi95yi_6_0 has 2990 chips
+[flop] player yyyyyr_6_1 has 2982 chips
+[flop] player Jerry_Xu_6_2 has 6079 chips
+[flop] player Minty_6_3 has 2966 chips
+[flop] player BigNews!_6_4 has 2950 chips
+[flop] player taring_6_5 has 2974 chips
+[flop] player The Joker_6_7 has 2999 chips
+[flop] player BigNews!_6_4 folds
+[flop] round ends
+[GAME STAT] pot 0 with 60 chips is shared by 1 players
+[GAME STAT] player The Joker_6_7 gets 60 chips from pot 0
+[GAME STAT] overall statistics
+[GAME STAT] player yi95yi_6_0 wins 0 chips in this game
+[GAME STAT] player yyyyyr_6_1 wins 0 chips in this game
+[GAME STAT] player Jerry_Xu_6_2 wins 0 chips in this game
+[GAME STAT] player Minty_6_3 wins 0 chips in this game
+[GAME STAT] player BigNews!_6_4 wins -20 chips in this game
+[GAME STAT] player taring_6_5 wins -20 chips in this game
+[GAME STAT] player The Joker_6_7 wins 40 chips in this game
+[GAME 12] game ends, invoking player.game_end()
+[GAME 13] game starts
+[GAME INFO] number of participants in this game = 7
+[GAME INFO] participant: yi95yi_6_0, chip = 2990
+[GAME INFO] participant: yyyyyr_6_1, chip = 2982
+[GAME INFO] participant: Jerry_Xu_6_2, chip = 6079
+[GAME INFO] participant: Minty_6_3, chip = 2966
+[GAME INFO] participant: BigNews!_6_4, chip = 2950
+[GAME INFO] participant: taring_6_5, chip = 2974
+[GAME INFO] participant: The Joker_6_7, chip = 3059
+[GAME INFO] blind is 20
+[GAME INFO] dealer is BigNews!_6_4
+[GAME INFO] small blind 20 posted by taring_6_5
+[GAME INFO] big blind 40 posted by The Joker_6_7
+[hole card] 9 spade
+[hole card] K diamond
+[preflop] round starts
+[preflop] player yi95yi_6_0 has 2990 chips
+[preflop] player yyyyyr_6_1 has 2982 chips
+[preflop] player Jerry_Xu_6_2 has 6079 chips
+[preflop] player Minty_6_3 has 2966 chips
+[preflop] player BigNews!_6_4 has 2950 chips
+[preflop] player taring_6_5 has 2954 chips
+[preflop] player The Joker_6_7 has 3019 chips
+[preflop] player yi95yi_6_0 folds
+[preflop] player yyyyyr_6_1 calls. Total bet is 40
+[preflop] player Jerry_Xu_6_2 folds
+[preflop] player Minty_6_3 folds
+[preflop] player BigNews!_6_4 calls. Total bet is 40
+[preflop] player taring_6_5 folds
+[preflop] action
+[preflop] call (0 chips). 
+[preflop] player The Joker_6_7 calls. Total bet is 40
+[flop] Q diamond
+[flop] 10 heart
+[flop] 6 club
+[flop] round starts
+[flop] player yi95yi_6_0 has 2990 chips
+[flop] player yyyyyr_6_1 has 2942 chips
+[flop] player Jerry_Xu_6_2 has 6079 chips
+[flop] player Minty_6_3 has 2966 chips
+[flop] player BigNews!_6_4 has 2910 chips
+[flop] player taring_6_5 has 2954 chips
+[flop] player The Joker_6_7 has 3019 chips
+[flop] action
+[flop] check
+[flop] player The Joker_6_7 checks
+[flop] player yyyyyr_6_1 checks
+[flop] player BigNews!_6_4 checks
+[flop] round ends
+[turn] 3 spade
+[turn] round starts
+[turn] player yi95yi_6_0 has 2990 chips
+[turn] player yyyyyr_6_1 has 2942 chips
+[turn] player Jerry_Xu_6_2 has 6079 chips
+[turn] player Minty_6_3 has 2966 chips
+[turn] player BigNews!_6_4 has 2910 chips
+[turn] player taring_6_5 has 2954 chips
+[turn] player The Joker_6_7 has 3019 chips
+[turn] action
+[turn] check
+[turn] player The Joker_6_7 checks
+[turn] player yyyyyr_6_1 checks
+[turn] player BigNews!_6_4 folds
+[turn] round ends
+[river] 7 diamond
+[river] round starts
+[river] player yi95yi_6_0 has 2990 chips
+[river] player yyyyyr_6_1 has 2942 chips
+[river] player Jerry_Xu_6_2 has 6079 chips
+[river] player Minty_6_3 has 2966 chips
+[river] player BigNews!_6_4 has 2910 chips
+[river] player taring_6_5 has 2954 chips
+[river] player The Joker_6_7 has 3019 chips
+[river] action
+[river] check
+[river] player The Joker_6_7 checks
+[river] player yyyyyr_6_1 checks
+[river] round ends
+[SHOWDOWN] showdown starts
+[SHOWDOWN] showdown
+[SHOWDOWN] Q diamond 10 heart 7 diamond 9 spade K diamond
+[SHOWDOWN] player yyyyyr_6_1 shows 6 heart A diamond Q diamond 10 heart 6 club, which is one pair.
+[SHOWDOWN] player The Joker_6_7 shows Q diamond 10 heart 7 diamond 9 spade K diamond, which is high card.
+[GAME STAT] pot 0 with 80 chips is shared by 1 players
+[GAME STAT] player yyyyyr_6_1 gets 80 chips from pot 0
+[GAME STAT] pot 1 with 60 chips is shared by 1 players
+[GAME STAT] player yyyyyr_6_1 gets 60 chips from pot 1
+[GAME STAT] overall statistics
+[GAME STAT] player yi95yi_6_0 wins 0 chips in this game
+[GAME STAT] player yyyyyr_6_1 wins 100 chips in this game
+[GAME STAT] player Jerry_Xu_6_2 wins 0 chips in this game
+[GAME STAT] player Minty_6_3 wins 0 chips in this game
+[GAME STAT] player BigNews!_6_4 wins -40 chips in this game
+[GAME STAT] player taring_6_5 wins -20 chips in this game
+[GAME STAT] player The Joker_6_7 wins -40 chips in this game
+[GAME 13] game ends, invoking player.game_end()
+[GAME 14] game starts
+[GAME INFO] number of participants in this game = 7
+[GAME INFO] participant: yi95yi_6_0, chip = 2990
+[GAME INFO] participant: yyyyyr_6_1, chip = 3082
+[GAME INFO] participant: Jerry_Xu_6_2, chip = 6079
+[GAME INFO] participant: Minty_6_3, chip = 2966
+[GAME INFO] participant: BigNews!_6_4, chip = 2910
+[GAME INFO] participant: taring_6_5, chip = 2954
+[GAME INFO] participant: The Joker_6_7, chip = 3019
+[GAME INFO] blind is 20
+[GAME INFO] dealer is taring_6_5
+[GAME INFO] small blind 20 posted by The Joker_6_7
+[GAME INFO] big blind 40 posted by yi95yi_6_0
+[hole card] 8 diamond
+[hole card] 6 heart
+[preflop] round starts
+[preflop] player yi95yi_6_0 has 2950 chips
+[preflop] player yyyyyr_6_1 has 3082 chips
+[preflop] player Jerry_Xu_6_2 has 6079 chips
+[preflop] player Minty_6_3 has 2966 chips
+[preflop] player BigNews!_6_4 has 2910 chips
+[preflop] player taring_6_5 has 2954 chips
+[preflop] player The Joker_6_7 has 2999 chips
+[preflop] player yyyyyr_6_1 folds
+[preflop] player Jerry_Xu_6_2 folds
+[preflop] player Minty_6_3 folds
+[preflop] player BigNews!_6_4 calls. Total bet is 40
+[preflop] player taring_6_5 folds
+[preflop] action
+[preflop] call (20 chips). 
+[preflop] player The Joker_6_7 calls. Total bet is 40
+[preflop] player yi95yi_6_0 folds
+[flop] 6 diamond
+[flop] 9 spade
+[flop] 6 club
+[flop] round starts
+[flop] player yi95yi_6_0 has 2950 chips
+[flop] player yyyyyr_6_1 has 3082 chips
+[flop] player Jerry_Xu_6_2 has 6079 chips
+[flop] player Minty_6_3 has 2966 chips
+[flop] player BigNews!_6_4 has 2870 chips
+[flop] player taring_6_5 has 2954 chips
+[flop] player The Joker_6_7 has 2979 chips
+[flop] action
+[flop] check
+[flop] player The Joker_6_7 checks
+[flop] player BigNews!_6_4 checks
+[flop] round ends
+[turn] 5 heart
+[turn] round starts
+[turn] player yi95yi_6_0 has 2950 chips
+[turn] player yyyyyr_6_1 has 3082 chips
+[turn] player Jerry_Xu_6_2 has 6079 chips
+[turn] player Minty_6_3 has 2966 chips
+[turn] player BigNews!_6_4 has 2870 chips
+[turn] player taring_6_5 has 2954 chips
+[turn] player The Joker_6_7 has 2979 chips
+[turn] action
+[turn] check
+[turn] player The Joker_6_7 checks
+[turn] player BigNews!_6_4 folds
+[turn] round ends
+[GAME STAT] pot 0 with 120 chips is shared by 1 players
+[GAME STAT] player The Joker_6_7 gets 120 chips from pot 0
+[GAME STAT] overall statistics
+[GAME STAT] player yi95yi_6_0 wins -40 chips in this game
+[GAME STAT] player yyyyyr_6_1 wins 0 chips in this game
+[GAME STAT] player Jerry_Xu_6_2 wins 0 chips in this game
+[GAME STAT] player Minty_6_3 wins 0 chips in this game
+[GAME STAT] player BigNews!_6_4 wins -40 chips in this game
+[GAME STAT] player taring_6_5 wins 0 chips in this game
+[GAME STAT] player The Joker_6_7 wins 80 chips in this game
+[GAME 14] game ends, invoking player.game_end()
+[GAME 15] game starts
+[GAME INFO] number of participants in this game = 7
+[GAME INFO] participant: yi95yi_6_0, chip = 2950
+[GAME INFO] participant: yyyyyr_6_1, chip = 3082
+[GAME INFO] participant: Jerry_Xu_6_2, chip = 6079
+[GAME INFO] participant: Minty_6_3, chip = 2966
+[GAME INFO] participant: BigNews!_6_4, chip = 2870
+[GAME INFO] participant: taring_6_5, chip = 2954
+[GAME INFO] participant: The Joker_6_7, chip = 3099
+[GAME INFO] blind is 20
+[GAME INFO] dealer is The Joker_6_7
+[GAME INFO] small blind 20 posted by yi95yi_6_0
+[GAME INFO] big blind 40 posted by yyyyyr_6_1
+[hole card] 8 spade
+[hole card] 6 diamond
+[preflop] round starts
+[preflop] player yi95yi_6_0 has 2930 chips
+[preflop] player yyyyyr_6_1 has 3042 chips
+[preflop] player Jerry_Xu_6_2 has 6079 chips
+[preflop] player Minty_6_3 has 2966 chips
+[preflop] player BigNews!_6_4 has 2870 chips
+[preflop] player taring_6_5 has 2954 chips
+[preflop] player The Joker_6_7 has 3099 chips
+[preflop] player Jerry_Xu_6_2 folds
+[preflop] player Minty_6_3 folds
+[preflop] player BigNews!_6_4 calls. Total bet is 40
+[preflop] player taring_6_5 folds
+[preflop] action
+[WARNING] CANNOT check when another player has raised
+[preflop] player The Joker_6_7 folds
+[preflop] player yi95yi_6_0 folds
+[preflop] player yyyyyr_6_1 folds
+[GAME STAT] pot 0 with 60 chips is shared by 1 players
+[GAME STAT] player BigNews!_6_4 gets 60 chips from pot 0
+[GAME STAT] pot 1 with 40 chips is shared by 1 players
+[GAME STAT] player BigNews!_6_4 gets 40 chips from pot 1
+[GAME STAT] overall statistics
+[GAME STAT] player yi95yi_6_0 wins -20 chips in this game
+[GAME STAT] player yyyyyr_6_1 wins -40 chips in this game
+[GAME STAT] player Jerry_Xu_6_2 wins 0 chips in this game
+[GAME STAT] player Minty_6_3 wins 0 chips in this game
+[GAME STAT] player BigNews!_6_4 wins 60 chips in this game
+[GAME STAT] player taring_6_5 wins 0 chips in this game
+[GAME STAT] player The Joker_6_7 wins 0 chips in this game
+[GAME 15] game ends, invoking player.game_end()
+[GAME 16] game starts
+[GAME INFO] number of participants in this game = 7
+[GAME INFO] participant: yi95yi_6_0, chip = 2930
+[GAME INFO] participant: yyyyyr_6_1, chip = 3042
+[GAME INFO] participant: Jerry_Xu_6_2, chip = 6079
+[GAME INFO] participant: Minty_6_3, chip = 2966
+[GAME INFO] participant: BigNews!_6_4, chip = 2930
+[GAME INFO] participant: taring_6_5, chip = 2954
+[GAME INFO] participant: The Joker_6_7, chip = 3099
+[GAME INFO] blind is 50
+[GAME INFO] dealer is yi95yi_6_0
+[GAME INFO] small blind 50 posted by yyyyyr_6_1
+[GAME INFO] big blind 100 posted by Jerry_Xu_6_2
+[hole card] 5 spade
+[hole card] Q club
+[preflop] round starts
+[preflop] player yi95yi_6_0 has 2930 chips
+[preflop] player yyyyyr_6_1 has 2992 chips
+[preflop] player Jerry_Xu_6_2 has 5979 chips
+[preflop] player Minty_6_3 has 2966 chips
+[preflop] player BigNews!_6_4 has 2930 chips
+[preflop] player taring_6_5 has 2954 chips
+[preflop] player The Joker_6_7 has 3099 chips
+[preflop] player Minty_6_3 folds
+[preflop] player BigNews!_6_4 calls. Total bet is 100
+[preflop] player taring_6_5 folds
+[preflop] action
+[WARNING] CANNOT check when another player has raised
+[preflop] player The Joker_6_7 folds
+[preflop] player yi95yi_6_0 folds
+[preflop] player yyyyyr_6_1 calls. Total bet is 100
+[preflop] player Jerry_Xu_6_2 calls. Total bet is 100
+[flop] A spade
+[flop] A club
+[flop] Q spade
+[flop] round starts
+[flop] player yi95yi_6_0 has 2930 chips
+[flop] player yyyyyr_6_1 has 2942 chips
+[flop] player Jerry_Xu_6_2 has 5979 chips
+[flop] player Minty_6_3 has 2966 chips
+[flop] player BigNews!_6_4 has 2830 chips
+[flop] player taring_6_5 has 2954 chips
+[flop] player The Joker_6_7 has 3099 chips
+[flop] player yyyyyr_6_1 checks
+[flop] player Jerry_Xu_6_2 raises 2989. Total bet is 2989
+[flop] player BigNews!_6_4 folds
+[flop] player yyyyyr_6_1 goes all in (2942 chips). Total bet is 2942
+[turn] 4 spade
+[turn] round starts
+[turn] player yi95yi_6_0 has 2930 chips
+[turn] player yyyyyr_6_1 has 0 chips
+[turn] player Jerry_Xu_6_2 has 2990 chips
+[turn] player Minty_6_3 has 2966 chips
+[turn] player BigNews!_6_4 has 2830 chips
+[turn] player taring_6_5 has 2954 chips
+[turn] player The Joker_6_7 has 3099 chips
+[turn] player yyyyyr_6_1 checks
+[turn] player Jerry_Xu_6_2 raises 1495. Total bet is 1495
+[turn] player yyyyyr_6_1 goes all in (0 chips). Total bet is 0
+[river] 3 heart
+[river] round starts
+[river] player yi95yi_6_0 has 2930 chips
+[river] player yyyyyr_6_1 has 0 chips
+[river] player Jerry_Xu_6_2 has 1495 chips
+[river] player Minty_6_3 has 2966 chips
+[river] player BigNews!_6_4 has 2830 chips
+[river] player taring_6_5 has 2954 chips
+[river] player The Joker_6_7 has 3099 chips
+[river] player yyyyyr_6_1 checks
+[river] player Jerry_Xu_6_2 raises 747. Total bet is 747
+[river] player yyyyyr_6_1 goes all in (0 chips). Total bet is 0
+[SHOWDOWN] showdown starts
+[SHOWDOWN] player yyyyyr_6_1 shows A diamond 9 spade A spade A club Q spade, which is three of a kind.
+[SHOWDOWN] player Jerry_Xu_6_2 shows A spade A club A heart 9 diamond 3 heart, which is three of a kind.
+[GAME STAT] pot 0 with 300 chips is shared by 1 players
+[GAME STAT] player yyyyyr_6_1 gets 300 chips from pot 0
+[GAME STAT] pot 1 with 5884 chips is shared by 1 players
+[GAME STAT] player yyyyyr_6_1 gets 5884 chips from pot 1
+[GAME STAT] pot 2 with 2289 chips is shared by 1 players
+[GAME STAT] player Jerry_Xu_6_2 gets 2289 chips from pot 2
+[GAME STAT] overall statistics
+[GAME STAT] player yi95yi_6_0 wins 0 chips in this game
+[GAME STAT] player yyyyyr_6_1 wins 3142 chips in this game
+[GAME STAT] player Jerry_Xu_6_2 wins -3042 chips in this game
+[GAME STAT] player Minty_6_3 wins 0 chips in this game
+[GAME STAT] player BigNews!_6_4 wins -100 chips in this game
+[GAME STAT] player taring_6_5 wins 0 chips in this game
+[GAME STAT] player The Joker_6_7 wins 0 chips in this game
+[GAME 16] game ends, invoking player.game_end()
+[GAME 17] game starts
+[GAME INFO] number of participants in this game = 7
+[GAME INFO] participant: yi95yi_6_0, chip = 2930
+[GAME INFO] participant: yyyyyr_6_1, chip = 6184
+[GAME INFO] participant: Jerry_Xu_6_2, chip = 3037
+[GAME INFO] participant: Minty_6_3, chip = 2966
+[GAME INFO] participant: BigNews!_6_4, chip = 2830
+[GAME INFO] participant: taring_6_5, chip = 2954
+[GAME INFO] participant: The Joker_6_7, chip = 3099
+[GAME INFO] blind is 50
+[GAME INFO] dealer is yyyyyr_6_1
+[GAME INFO] small blind 50 posted by Jerry_Xu_6_2
+[GAME INFO] big blind 100 posted by Minty_6_3
+[hole card] 2 spade
+[hole card] 10 spade
+[preflop] round starts
+[preflop] player yi95yi_6_0 has 2930 chips
+[preflop] player yyyyyr_6_1 has 6184 chips
+[preflop] player Jerry_Xu_6_2 has 2987 chips
+[preflop] player Minty_6_3 has 2866 chips
+[preflop] player BigNews!_6_4 has 2830 chips
+[preflop] player taring_6_5 has 2954 chips
+[preflop] player The Joker_6_7 has 3099 chips
+[preflop] player BigNews!_6_4 calls. Total bet is 100
+[preflop] player taring_6_5 folds
+[preflop] action
+[WARNING] CANNOT check when another player has raised
+[preflop] player The Joker_6_7 folds
+[preflop] player yi95yi_6_0 folds
+[preflop] player yyyyyr_6_1 folds
+[preflop] player Jerry_Xu_6_2 calls. Total bet is 100
+[preflop] player Minty_6_3 folds
+[flop] J spade
+[flop] 5 club
+[flop] 9 club
+[flop] round starts
+[flop] player yi95yi_6_0 has 2930 chips
+[flop] player yyyyyr_6_1 has 6184 chips
+[flop] player Jerry_Xu_6_2 has 2937 chips
+[flop] player Minty_6_3 has 2866 chips
+[flop] player BigNews!_6_4 has 2730 chips
+[flop] player taring_6_5 has 2954 chips
+[flop] player The Joker_6_7 has 3099 chips
+[flop] player Jerry_Xu_6_2 checks
+[flop] player BigNews!_6_4 folds
+[flop] round ends
+[GAME STAT] pot 0 with 300 chips is shared by 1 players
+[GAME STAT] player Jerry_Xu_6_2 gets 300 chips from pot 0
+[GAME STAT] overall statistics
+[GAME STAT] player yi95yi_6_0 wins 0 chips in this game
+[GAME STAT] player yyyyyr_6_1 wins 0 chips in this game
+[GAME STAT] player Jerry_Xu_6_2 wins 200 chips in this game
+[GAME STAT] player Minty_6_3 wins -100 chips in this game
+[GAME STAT] player BigNews!_6_4 wins -100 chips in this game
+[GAME STAT] player taring_6_5 wins 0 chips in this game
+[GAME STAT] player The Joker_6_7 wins 0 chips in this game
+[GAME 17] game ends, invoking player.game_end()
+[GAME 18] game starts
+[GAME INFO] number of participants in this game = 7
+[GAME INFO] participant: yi95yi_6_0, chip = 2930
+[GAME INFO] participant: yyyyyr_6_1, chip = 6184
+[GAME INFO] participant: Jerry_Xu_6_2, chip = 3237
+[GAME INFO] participant: Minty_6_3, chip = 2866
+[GAME INFO] participant: BigNews!_6_4, chip = 2730
+[GAME INFO] participant: taring_6_5, chip = 2954
+[GAME INFO] participant: The Joker_6_7, chip = 3099
+[GAME INFO] blind is 50
+[GAME INFO] dealer is Jerry_Xu_6_2
+[GAME INFO] small blind 50 posted by Minty_6_3
+[GAME INFO] big blind 100 posted by BigNews!_6_4
+[hole card] 8 diamond
+[hole card] A spade
+[preflop] round starts
+[preflop] player yi95yi_6_0 has 2930 chips
+[preflop] player yyyyyr_6_1 has 6184 chips
+[preflop] player Jerry_Xu_6_2 has 3237 chips
+[preflop] player Minty_6_3 has 2816 chips
+[preflop] player BigNews!_6_4 has 2630 chips
+[preflop] player taring_6_5 has 2954 chips
+[preflop] player The Joker_6_7 has 3099 chips
+[preflop] player taring_6_5 folds
+[preflop] action
+[WARNING] CANNOT check when another player has raised
+[preflop] player The Joker_6_7 folds
+[preflop] player yi95yi_6_0 folds
+[preflop] player yyyyyr_6_1 calls. Total bet is 100
+[preflop] player Jerry_Xu_6_2 folds
+[preflop] player Minty_6_3 folds
+[preflop] player BigNews!_6_4 calls. Total bet is 100
+[flop] 10 club
+[flop] 3 spade
+[flop] 4 club
+[flop] round starts
+[flop] player yi95yi_6_0 has 2930 chips
+[flop] player yyyyyr_6_1 has 6084 chips
+[flop] player Jerry_Xu_6_2 has 3237 chips
+[flop] player Minty_6_3 has 2816 chips
+[flop] player BigNews!_6_4 has 2630 chips
+[flop] player taring_6_5 has 2954 chips
+[flop] player The Joker_6_7 has 3099 chips
+[flop] player BigNews!_6_4 folds
+[flop] round ends
+[GAME STAT] pot 0 with 150 chips is shared by 1 players
+[GAME STAT] player yyyyyr_6_1 gets 150 chips from pot 0
+[GAME STAT] pot 1 with 100 chips is shared by 1 players
+[GAME STAT] player yyyyyr_6_1 gets 100 chips from pot 1
+[GAME STAT] overall statistics
+[GAME STAT] player yi95yi_6_0 wins 0 chips in this game
+[GAME STAT] player yyyyyr_6_1 wins 150 chips in this game
+[GAME STAT] player Jerry_Xu_6_2 wins 0 chips in this game
+[GAME STAT] player Minty_6_3 wins -50 chips in this game
+[GAME STAT] player BigNews!_6_4 wins -100 chips in this game
+[GAME STAT] player taring_6_5 wins 0 chips in this game
+[GAME STAT] player The Joker_6_7 wins 0 chips in this game
+[GAME 18] game ends, invoking player.game_end()
+[GAME 19] game starts
+[GAME INFO] number of participants in this game = 7
+[GAME INFO] participant: yi95yi_6_0, chip = 2930
+[GAME INFO] participant: yyyyyr_6_1, chip = 6334
+[GAME INFO] participant: Jerry_Xu_6_2, chip = 3237
+[GAME INFO] participant: Minty_6_3, chip = 2816
+[GAME INFO] participant: BigNews!_6_4, chip = 2630
+[GAME INFO] participant: taring_6_5, chip = 2954
+[GAME INFO] participant: The Joker_6_7, chip = 3099
+[GAME INFO] blind is 100
+[GAME INFO] dealer is Minty_6_3
+[GAME INFO] small blind 100 posted by BigNews!_6_4
+[GAME INFO] big blind 200 posted by taring_6_5
+[hole card] K spade
+[hole card] 2 spade
+[preflop] round starts
+[preflop] player yi95yi_6_0 has 2930 chips
+[preflop] player yyyyyr_6_1 has 6334 chips
+[preflop] player Jerry_Xu_6_2 has 3237 chips
+[preflop] player Minty_6_3 has 2816 chips
+[preflop] player BigNews!_6_4 has 2530 chips
+[preflop] player taring_6_5 has 2754 chips
+[preflop] player The Joker_6_7 has 3099 chips
+[preflop] action
+[WARNING] CANNOT check when another player has raised
+[preflop] player The Joker_6_7 folds
+[preflop] player yi95yi_6_0 folds
+[preflop] player yyyyyr_6_1 calls. Total bet is 200
+[preflop] player Jerry_Xu_6_2 calls. Total bet is 200
+[preflop] player Minty_6_3 folds
+[preflop] player BigNews!_6_4 calls. Total bet is 200
+[preflop] player taring_6_5 folds
+[flop] 8 diamond
+[flop] 3 club
+[flop] 9 heart
+[flop] round starts
+[flop] player yi95yi_6_0 has 2930 chips
+[flop] player yyyyyr_6_1 has 6134 chips
+[flop] player Jerry_Xu_6_2 has 3037 chips
+[flop] player Minty_6_3 has 2816 chips
+[flop] player BigNews!_6_4 has 2430 chips
+[flop] player taring_6_5 has 2754 chips
+[flop] player The Joker_6_7 has 3099 chips
+[flop] player BigNews!_6_4 folds
+[flop] player yyyyyr_6_1 checks
+[flop] player Jerry_Xu_6_2 checks
+[flop] round ends
+[turn] 3 diamond
+[turn] round starts
+[turn] player yi95yi_6_0 has 2930 chips
+[turn] player yyyyyr_6_1 has 6134 chips
+[turn] player Jerry_Xu_6_2 has 3037 chips
+[turn] player Minty_6_3 has 2816 chips
+[turn] player BigNews!_6_4 has 2430 chips
+[turn] player taring_6_5 has 2754 chips
+[turn] player The Joker_6_7 has 3099 chips
+[turn] player yyyyyr_6_1 checks
+[turn] player Jerry_Xu_6_2 checks
+[turn] round ends
+[river] 4 diamond
+[river] round starts
+[river] player yi95yi_6_0 has 2930 chips
+[river] player yyyyyr_6_1 has 6134 chips
+[river] player Jerry_Xu_6_2 has 3037 chips
+[river] player Minty_6_3 has 2816 chips
+[river] player BigNews!_6_4 has 2430 chips
+[river] player taring_6_5 has 2754 chips
+[river] player The Joker_6_7 has 3099 chips
+[river] player yyyyyr_6_1 checks
+[river] player Jerry_Xu_6_2 checks
+[river] round ends
+[SHOWDOWN] showdown starts
+[SHOWDOWN] player yyyyyr_6_1 shows 9 spade 9 club 3 club 9 heart 3 diamond, which is full house.
+[SHOWDOWN] player Jerry_Xu_6_2 shows 10 club 3 club K club 3 diamond 4 diamond, which is one pair.
+[GAME STAT] pot 0 with 800 chips is shared by 1 players
+[GAME STAT] player yyyyyr_6_1 gets 800 chips from pot 0
+[GAME STAT] overall statistics
+[GAME STAT] player yi95yi_6_0 wins 0 chips in this game
+[GAME STAT] player yyyyyr_6_1 wins 600 chips in this game
+[GAME STAT] player Jerry_Xu_6_2 wins -200 chips in this game
+[GAME STAT] player Minty_6_3 wins 0 chips in this game
+[GAME STAT] player BigNews!_6_4 wins -200 chips in this game
+[GAME STAT] player taring_6_5 wins -200 chips in this game
+[GAME STAT] player The Joker_6_7 wins 0 chips in this game
+[GAME 19] game ends, invoking player.game_end()
+[GAME 20] game starts
+[GAME INFO] number of participants in this game = 7
+[GAME INFO] participant: yi95yi_6_0, chip = 2930
+[GAME INFO] participant: yyyyyr_6_1, chip = 6934
+[GAME INFO] participant: Jerry_Xu_6_2, chip = 3037
+[GAME INFO] participant: Minty_6_3, chip = 2816
+[GAME INFO] participant: BigNews!_6_4, chip = 2430
+[GAME INFO] participant: taring_6_5, chip = 2754
+[GAME INFO] participant: The Joker_6_7, chip = 3099
+[GAME INFO] blind is 100
+[GAME INFO] dealer is BigNews!_6_4
+[GAME INFO] small blind 100 posted by taring_6_5
+[GAME INFO] big blind 200 posted by The Joker_6_7
+[hole card] 8 club
+[hole card] J diamond
+[preflop] round starts
+[preflop] player yi95yi_6_0 has 2930 chips
+[preflop] player yyyyyr_6_1 has 6934 chips
+[preflop] player Jerry_Xu_6_2 has 3037 chips
+[preflop] player Minty_6_3 has 2816 chips
+[preflop] player BigNews!_6_4 has 2430 chips
+[preflop] player taring_6_5 has 2654 chips
+[preflop] player The Joker_6_7 has 2899 chips
+[preflop] player yi95yi_6_0 folds
+[preflop] player yyyyyr_6_1 folds
+[preflop] player Jerry_Xu_6_2 folds
+[preflop] player Minty_6_3 folds
+[preflop] player BigNews!_6_4 calls. Total bet is 200
+[preflop] player taring_6_5 folds
+[preflop] action
+[preflop] call (0 chips). 
+[preflop] player The Joker_6_7 calls. Total bet is 200
+[flop] 3 diamond
+[flop] 2 heart
+[flop] 10 diamond
+[flop] round starts
+[flop] player yi95yi_6_0 has 2930 chips
+[flop] player yyyyyr_6_1 has 6934 chips
+[flop] player Jerry_Xu_6_2 has 3037 chips
+[flop] player Minty_6_3 has 2816 chips
+[flop] player BigNews!_6_4 has 2230 chips
+[flop] player taring_6_5 has 2654 chips
+[flop] player The Joker_6_7 has 2899 chips
+[flop] action
+[flop] check
+[flop] player The Joker_6_7 checks
+[flop] player BigNews!_6_4 folds
+[flop] round ends
+[GAME STAT] pot 0 with 300 chips is shared by 1 players
+[GAME STAT] player The Joker_6_7 gets 300 chips from pot 0
+[GAME STAT] pot 1 with 200 chips is shared by 1 players
+[GAME STAT] player The Joker_6_7 gets 200 chips from pot 1
+[GAME STAT] overall statistics
+[GAME STAT] player yi95yi_6_0 wins 0 chips in this game
+[GAME STAT] player yyyyyr_6_1 wins 0 chips in this game
+[GAME STAT] player Jerry_Xu_6_2 wins 0 chips in this game
+[GAME STAT] player Minty_6_3 wins 0 chips in this game
+[GAME STAT] player BigNews!_6_4 wins -200 chips in this game
+[GAME STAT] player taring_6_5 wins -100 chips in this game
+[GAME STAT] player The Joker_6_7 wins 300 chips in this game
+[GAME 20] game ends, invoking player.game_end()
+[GAME 21] game starts
+[GAME INFO] number of participants in this game = 7
+[GAME INFO] participant: yi95yi_6_0, chip = 2930
+[GAME INFO] participant: yyyyyr_6_1, chip = 6934
+[GAME INFO] participant: Jerry_Xu_6_2, chip = 3037
+[GAME INFO] participant: Minty_6_3, chip = 2816
+[GAME INFO] participant: BigNews!_6_4, chip = 2230
+[GAME INFO] participant: taring_6_5, chip = 2654
+[GAME INFO] participant: The Joker_6_7, chip = 3399
+[GAME INFO] blind is 100
+[GAME INFO] dealer is taring_6_5
+[GAME INFO] small blind 100 posted by The Joker_6_7
+[GAME INFO] big blind 200 posted by yi95yi_6_0
+[hole card] 6 spade
+[hole card] A spade
+[preflop] round starts
+[preflop] player yi95yi_6_0 has 2730 chips
+[preflop] player yyyyyr_6_1 has 6934 chips
+[preflop] player Jerry_Xu_6_2 has 3037 chips
+[preflop] player Minty_6_3 has 2816 chips
+[preflop] player BigNews!_6_4 has 2230 chips
+[preflop] player taring_6_5 has 2654 chips
+[preflop] player The Joker_6_7 has 3299 chips
+[preflop] player yyyyyr_6_1 folds
+[preflop] player Jerry_Xu_6_2 calls. Total bet is 200
+[preflop] player Minty_6_3 folds
+[preflop] player BigNews!_6_4 folds
+[preflop] player taring_6_5 folds
+[preflop] action
+[preflop] call (100 chips). 
+[preflop] player The Joker_6_7 calls. Total bet is 200
+[preflop] player yi95yi_6_0 folds
+[flop] 8 club
+[flop] 5 spade
+[flop] 2 diamond
+[flop] round starts
+[flop] player yi95yi_6_0 has 2730 chips
+[flop] player yyyyyr_6_1 has 6934 chips
+[flop] player Jerry_Xu_6_2 has 2837 chips
+[flop] player Minty_6_3 has 2816 chips
+[flop] player BigNews!_6_4 has 2230 chips
+[flop] player taring_6_5 has 2654 chips
+[flop] player The Joker_6_7 has 3199 chips
+[flop] action
+[flop] check
+[flop] player The Joker_6_7 checks
+[flop] player Jerry_Xu_6_2 checks
+[flop] round ends
+[turn] K heart
+[turn] round starts
+[turn] player yi95yi_6_0 has 2730 chips
+[turn] player yyyyyr_6_1 has 6934 chips
+[turn] player Jerry_Xu_6_2 has 2837 chips
+[turn] player Minty_6_3 has 2816 chips
+[turn] player BigNews!_6_4 has 2230 chips
+[turn] player taring_6_5 has 2654 chips
+[turn] player The Joker_6_7 has 3199 chips
+[turn] action
+[turn] check
+[turn] player The Joker_6_7 checks
+[turn] player Jerry_Xu_6_2 checks
+[turn] round ends
+[river] J spade
+[river] round starts
+[river] player yi95yi_6_0 has 2730 chips
+[river] player yyyyyr_6_1 has 6934 chips
+[river] player Jerry_Xu_6_2 has 2837 chips
+[river] player Minty_6_3 has 2816 chips
+[river] player BigNews!_6_4 has 2230 chips
+[river] player taring_6_5 has 2654 chips
+[river] player The Joker_6_7 has 3199 chips
+[river] action
+[river] check
+[river] player The Joker_6_7 checks
+[river] player Jerry_Xu_6_2 checks
+[river] round ends
+[SHOWDOWN] showdown starts
+[SHOWDOWN] showdown
+[SHOWDOWN] 8 club K heart J spade 6 spade A spade
+[SHOWDOWN] player The Joker_6_7 shows 8 club K heart J spade 6 spade A spade, which is high card.
+[SHOWDOWN] player Jerry_Xu_6_2 shows 7 diamond A club 2 diamond K heart J spade, which is high card.
+[GAME STAT] pot 0 with 600 chips is shared by 1 players
+[GAME STAT] player The Joker_6_7 gets 600 chips from pot 0
+[GAME STAT] overall statistics
+[GAME STAT] player yi95yi_6_0 wins -200 chips in this game
+[GAME STAT] player yyyyyr_6_1 wins 0 chips in this game
+[GAME STAT] player Jerry_Xu_6_2 wins -200 chips in this game
+[GAME STAT] player Minty_6_3 wins 0 chips in this game
+[GAME STAT] player BigNews!_6_4 wins 0 chips in this game
+[GAME STAT] player taring_6_5 wins 0 chips in this game
+[GAME STAT] player The Joker_6_7 wins 400 chips in this game
+[GAME 21] game ends, invoking player.game_end()
+[GAME 22] game starts
+[GAME INFO] number of participants in this game = 7
+[GAME INFO] participant: yi95yi_6_0, chip = 2730
+[GAME INFO] participant: yyyyyr_6_1, chip = 6934
+[GAME INFO] participant: Jerry_Xu_6_2, chip = 2837
+[GAME INFO] participant: Minty_6_3, chip = 2816
+[GAME INFO] participant: BigNews!_6_4, chip = 2230
+[GAME INFO] participant: taring_6_5, chip = 2654
+[GAME INFO] participant: The Joker_6_7, chip = 3799
+[GAME INFO] blind is 200
+[GAME INFO] dealer is The Joker_6_7
+[GAME INFO] small blind 200 posted by yi95yi_6_0
+[GAME INFO] big blind 400 posted by yyyyyr_6_1
+[hole card] J heart
+[hole card] 7 diamond
+[preflop] round starts
+[preflop] player yi95yi_6_0 has 2530 chips
+[preflop] player yyyyyr_6_1 has 6534 chips
+[preflop] player Jerry_Xu_6_2 has 2837 chips
+[preflop] player Minty_6_3 has 2816 chips
+[preflop] player BigNews!_6_4 has 2230 chips
+[preflop] player taring_6_5 has 2654 chips
+[preflop] player The Joker_6_7 has 3799 chips
+[preflop] player Jerry_Xu_6_2 folds
+[preflop] player Minty_6_3 folds
+[preflop] player BigNews!_6_4 calls. Total bet is 400
+[preflop] player taring_6_5 folds
+[preflop] action
+[preflop] call (400 chips). 
+[preflop] player The Joker_6_7 calls. Total bet is 400
+[preflop] player yi95yi_6_0 folds
+[preflop] player yyyyyr_6_1 folds
+[flop] J spade
+[flop] K heart
+[flop] 3 club
+[flop] round starts
+[flop] player yi95yi_6_0 has 2530 chips
+[flop] player yyyyyr_6_1 has 6534 chips
+[flop] player Jerry_Xu_6_2 has 2837 chips
+[flop] player Minty_6_3 has 2816 chips
+[flop] player BigNews!_6_4 has 1830 chips
+[flop] player taring_6_5 has 2654 chips
+[flop] player The Joker_6_7 has 3399 chips
+[flop] player BigNews!_6_4 folds
+[flop] round ends
+[GAME STAT] pot 0 with 800 chips is shared by 1 players
+[GAME STAT] player The Joker_6_7 gets 800 chips from pot 0
+[GAME STAT] pot 1 with 600 chips is shared by 1 players
+[GAME STAT] player The Joker_6_7 gets 600 chips from pot 1
+[GAME STAT] overall statistics
+[GAME STAT] player yi95yi_6_0 wins -200 chips in this game
+[GAME STAT] player yyyyyr_6_1 wins -400 chips in this game
+[GAME STAT] player Jerry_Xu_6_2 wins 0 chips in this game
+[GAME STAT] player Minty_6_3 wins 0 chips in this game
+[GAME STAT] player BigNews!_6_4 wins -400 chips in this game
+[GAME STAT] player taring_6_5 wins 0 chips in this game
+[GAME STAT] player The Joker_6_7 wins 1000 chips in this game
+[GAME 22] game ends, invoking player.game_end()
+[GAME 23] game starts
+[GAME INFO] number of participants in this game = 7
+[GAME INFO] participant: yi95yi_6_0, chip = 2530
+[GAME INFO] participant: yyyyyr_6_1, chip = 6534
+[GAME INFO] participant: Jerry_Xu_6_2, chip = 2837
+[GAME INFO] participant: Minty_6_3, chip = 2816
+[GAME INFO] participant: BigNews!_6_4, chip = 1830
+[GAME INFO] participant: taring_6_5, chip = 2654
+[GAME INFO] participant: The Joker_6_7, chip = 4799
+[GAME INFO] blind is 200
+[GAME INFO] dealer is yi95yi_6_0
+[GAME INFO] small blind 200 posted by yyyyyr_6_1
+[GAME INFO] big blind 400 posted by Jerry_Xu_6_2
+[hole card] A spade
+[hole card] 7 diamond
+[preflop] round starts
+[preflop] player yi95yi_6_0 has 2530 chips
+[preflop] player yyyyyr_6_1 has 6334 chips
+[preflop] player Jerry_Xu_6_2 has 2437 chips
+[preflop] player Minty_6_3 has 2816 chips
+[preflop] player BigNews!_6_4 has 1830 chips
+[preflop] player taring_6_5 has 2654 chips
+[preflop] player The Joker_6_7 has 4799 chips
+[preflop] player Minty_6_3 folds
+[preflop] player BigNews!_6_4 calls. Total bet is 400
+[preflop] player taring_6_5 folds
+[preflop] action
+[preflop] call (400 chips). 
+[preflop] player The Joker_6_7 calls. Total bet is 400
+[preflop] player yi95yi_6_0 folds
+[preflop] player yyyyyr_6_1 calls. Total bet is 400
+[preflop] player Jerry_Xu_6_2 calls. Total bet is 400
+[flop] 8 diamond
+[flop] K diamond
+[flop] 3 diamond
+[flop] round starts
+[flop] player yi95yi_6_0 has 2530 chips
+[flop] player yyyyyr_6_1 has 6134 chips
+[flop] player Jerry_Xu_6_2 has 2437 chips
+[flop] player Minty_6_3 has 2816 chips
+[flop] player BigNews!_6_4 has 1430 chips
+[flop] player taring_6_5 has 2654 chips
+[flop] player The Joker_6_7 has 4399 chips
+[flop] player yyyyyr_6_1 checks
+[flop] player Jerry_Xu_6_2 checks
+[flop] player BigNews!_6_4 checks
+[flop] action
+[flop] check
+[flop] player The Joker_6_7 checks
+[flop] round ends
+[turn] 4 club
+[turn] round starts
+[turn] player yi95yi_6_0 has 2530 chips
+[turn] player yyyyyr_6_1 has 6134 chips
+[turn] player Jerry_Xu_6_2 has 2437 chips
+[turn] player Minty_6_3 has 2816 chips
+[turn] player BigNews!_6_4 has 1430 chips
+[turn] player taring_6_5 has 2654 chips
+[turn] player The Joker_6_7 has 4399 chips
+[turn] player yyyyyr_6_1 checks
+[turn] player Jerry_Xu_6_2 checks
+[turn] player BigNews!_6_4 folds
+[turn] action
+[turn] check
+[turn] player The Joker_6_7 checks
+[turn] round ends
+[river] 6 diamond
+[river] round starts
+[river] player yi95yi_6_0 has 2530 chips
+[river] player yyyyyr_6_1 has 6134 chips
+[river] player Jerry_Xu_6_2 has 2437 chips
+[river] player Minty_6_3 has 2816 chips
+[river] player BigNews!_6_4 has 1430 chips
+[river] player taring_6_5 has 2654 chips
+[river] player The Joker_6_7 has 4399 chips
+[river] player yyyyyr_6_1 checks
+[river] player Jerry_Xu_6_2 raises 1218. Total bet is 1218
+[river] action
+[river] call (1218 chips). 
+[river] player The Joker_6_7 calls. Total bet is 1218
+[river] player yyyyyr_6_1 folds
+[SHOWDOWN] showdown starts
+[SHOWDOWN] showdown
+[SHOWDOWN] 8 diamond K diamond 3 diamond 6 diamond 7 diamond
+[SHOWDOWN] player The Joker_6_7 shows 8 diamond K diamond 3 diamond 6 diamond 7 diamond, which is flush.
+[SHOWDOWN] player Jerry_Xu_6_2 shows 8 diamond 4 spade 8 heart 4 club 6 diamond, which is two pair.
+[GAME STAT] pot 0 with 1600 chips is shared by 1 players
+[GAME STAT] player The Joker_6_7 gets 1600 chips from pot 0
+[GAME STAT] pot 1 with 2436 chips is shared by 1 players
+[GAME STAT] player The Joker_6_7 gets 2436 chips from pot 1
+[GAME STAT] overall statistics
+[GAME STAT] player yi95yi_6_0 wins 0 chips in this game
+[GAME STAT] player yyyyyr_6_1 wins -400 chips in this game
+[GAME STAT] player Jerry_Xu_6_2 wins -1618 chips in this game
+[GAME STAT] player Minty_6_3 wins 0 chips in this game
+[GAME STAT] player BigNews!_6_4 wins -400 chips in this game
+[GAME STAT] player taring_6_5 wins 0 chips in this game
+[GAME STAT] player The Joker_6_7 wins 2418 chips in this game
+[GAME 23] game ends, invoking player.game_end()
+[GAME 24] game starts
+[GAME INFO] number of participants in this game = 7
+[GAME INFO] participant: yi95yi_6_0, chip = 2530
+[GAME INFO] participant: yyyyyr_6_1, chip = 6134
+[GAME INFO] participant: Jerry_Xu_6_2, chip = 1219
+[GAME INFO] participant: Minty_6_3, chip = 2816
+[GAME INFO] participant: BigNews!_6_4, chip = 1430
+[GAME INFO] participant: taring_6_5, chip = 2654
+[GAME INFO] participant: The Joker_6_7, chip = 7217
+[GAME INFO] blind is 200
+[GAME INFO] dealer is yyyyyr_6_1
+[GAME INFO] small blind 200 posted by Jerry_Xu_6_2
+[GAME INFO] big blind 400 posted by Minty_6_3
+[hole card] 10 club
+[hole card] 4 club
+[preflop] round starts
+[preflop] player yi95yi_6_0 has 2530 chips
+[preflop] player yyyyyr_6_1 has 6134 chips
+[preflop] player Jerry_Xu_6_2 has 1019 chips
+[preflop] player Minty_6_3 has 2416 chips
+[preflop] player BigNews!_6_4 has 1430 chips
+[preflop] player taring_6_5 has 2654 chips
+[preflop] player The Joker_6_7 has 7217 chips
+[preflop] player BigNews!_6_4 calls. Total bet is 400
+[preflop] player taring_6_5 folds
+[preflop] action
+[WARNING] CANNOT check when another player has raised
+[preflop] player The Joker_6_7 folds
+[preflop] player yi95yi_6_0 folds
+[preflop] player yyyyyr_6_1 calls. Total bet is 400
+[preflop] player Jerry_Xu_6_2 calls. Total bet is 400
+[preflop] player Minty_6_3 folds
+[flop] 6 heart
+[flop] A spade
+[flop] K club
+[flop] round starts
+[flop] player yi95yi_6_0 has 2530 chips
+[flop] player yyyyyr_6_1 has 5734 chips
+[flop] player Jerry_Xu_6_2 has 819 chips
+[flop] player Minty_6_3 has 2416 chips
+[flop] player BigNews!_6_4 has 1030 chips
+[flop] player taring_6_5 has 2654 chips
+[flop] player The Joker_6_7 has 7217 chips
+[flop] player Jerry_Xu_6_2 checks
+[flop] player BigNews!_6_4 folds
+[flop] player yyyyyr_6_1 checks
+[flop] round ends
+[turn] 7 heart
+[turn] round starts
+[turn] player yi95yi_6_0 has 2530 chips
+[turn] player yyyyyr_6_1 has 5734 chips
+[turn] player Jerry_Xu_6_2 has 819 chips
+[turn] player Minty_6_3 has 2416 chips
+[turn] player BigNews!_6_4 has 1030 chips
+[turn] player taring_6_5 has 2654 chips
+[turn] player The Joker_6_7 has 7217 chips
+[turn] player Jerry_Xu_6_2 checks
+[turn] player yyyyyr_6_1 checks
+[turn] round ends
+[river] 8 heart
+[river] round starts
+[river] player yi95yi_6_0 has 2530 chips
+[river] player yyyyyr_6_1 has 5734 chips
+[river] player Jerry_Xu_6_2 has 819 chips
+[river] player Minty_6_3 has 2416 chips
+[river] player BigNews!_6_4 has 1030 chips
+[river] player taring_6_5 has 2654 chips
+[river] player The Joker_6_7 has 7217 chips
+[river] player Jerry_Xu_6_2 checks
+[river] player yyyyyr_6_1 checks
+[river] round ends
+[SHOWDOWN] showdown starts
+[SHOWDOWN] player Jerry_Xu_6_2 shows A heart A spade 2 diamond 7 heart 8 heart, which is one pair.
+[SHOWDOWN] player yyyyyr_6_1 shows Q club 10 spade A spade K club 8 heart, which is high card.
+[GAME STAT] pot 0 with 1600 chips is shared by 1 players
+[GAME STAT] player Jerry_Xu_6_2 gets 1600 chips from pot 0
+[GAME STAT] overall statistics
+[GAME STAT] player yi95yi_6_0 wins 0 chips in this game
+[GAME STAT] player yyyyyr_6_1 wins -400 chips in this game
+[GAME STAT] player Jerry_Xu_6_2 wins 1200 chips in this game
+[GAME STAT] player Minty_6_3 wins -400 chips in this game
+[GAME STAT] player BigNews!_6_4 wins -400 chips in this game
+[GAME STAT] player taring_6_5 wins 0 chips in this game
+[GAME STAT] player The Joker_6_7 wins 0 chips in this game
+[GAME 24] game ends, invoking player.game_end()
+[GAME 25] game starts
+[GAME INFO] number of participants in this game = 7
+[GAME INFO] participant: yi95yi_6_0, chip = 2530
+[GAME INFO] participant: yyyyyr_6_1, chip = 5734
+[GAME INFO] participant: Jerry_Xu_6_2, chip = 2419
+[GAME INFO] participant: Minty_6_3, chip = 2416
+[GAME INFO] participant: BigNews!_6_4, chip = 1030
+[GAME INFO] participant: taring_6_5, chip = 2654
+[GAME INFO] participant: The Joker_6_7, chip = 7217
+[GAME INFO] blind is 500
+[GAME INFO] dealer is Jerry_Xu_6_2
+[GAME INFO] small blind 500 posted by Minty_6_3
+[GAME INFO] big blind 1000 posted by BigNews!_6_4
+[hole card] 5 spade
+[hole card] 4 diamond
+[preflop] round starts
+[preflop] player yi95yi_6_0 has 2530 chips
+[preflop] player yyyyyr_6_1 has 5734 chips
+[preflop] player Jerry_Xu_6_2 has 2419 chips
+[preflop] player Minty_6_3 has 1916 chips
+[preflop] player BigNews!_6_4 has 30 chips
+[preflop] player taring_6_5 has 2654 chips
+[preflop] player The Joker_6_7 has 7217 chips
+[preflop] player taring_6_5 folds
+[preflop] action
+[WARNING] CANNOT check when another player has raised
+[preflop] player The Joker_6_7 folds
+[preflop] player yi95yi_6_0 folds
+[preflop] player yyyyyr_6_1 folds
+[preflop] player Jerry_Xu_6_2 calls. Total bet is 1000
+[preflop] player Minty_6_3 folds
+[preflop] player BigNews!_6_4 calls. Total bet is 1000
+[flop] 10 heart
+[flop] 2 diamond
+[flop] Q spade
+[flop] round starts
+[flop] player yi95yi_6_0 has 2530 chips
+[flop] player yyyyyr_6_1 has 5734 chips
+[flop] player Jerry_Xu_6_2 has 1419 chips
+[flop] player Minty_6_3 has 1916 chips
+[flop] player BigNews!_6_4 has 30 chips
+[flop] player taring_6_5 has 2654 chips
+[flop] player The Joker_6_7 has 7217 chips
+[flop] player BigNews!_6_4 folds
+[flop] round ends
+[GAME STAT] pot 0 with 1500 chips is shared by 1 players
+[GAME STAT] player Jerry_Xu_6_2 gets 1500 chips from pot 0
+[GAME STAT] pot 1 with 1000 chips is shared by 1 players
+[GAME STAT] player Jerry_Xu_6_2 gets 1000 chips from pot 1
+[GAME STAT] overall statistics
+[GAME STAT] player yi95yi_6_0 wins 0 chips in this game
+[GAME STAT] player yyyyyr_6_1 wins 0 chips in this game
+[GAME STAT] player Jerry_Xu_6_2 wins 1500 chips in this game
+[GAME STAT] player Minty_6_3 wins -500 chips in this game
+[GAME STAT] player BigNews!_6_4 wins -1000 chips in this game
+[GAME STAT] player taring_6_5 wins 0 chips in this game
+[GAME STAT] player The Joker_6_7 wins 0 chips in this game
+[GAME 25] game ends, invoking player.game_end()
+[GAME 26] game starts
+[GAME INFO] number of participants in this game = 7
+[GAME INFO] participant: yi95yi_6_0, chip = 2530
+[GAME INFO] participant: yyyyyr_6_1, chip = 5734
+[GAME INFO] participant: Jerry_Xu_6_2, chip = 3919
+[GAME INFO] participant: Minty_6_3, chip = 1916
+[GAME INFO] participant: BigNews!_6_4, chip = 30
+[GAME INFO] participant: taring_6_5, chip = 2654
+[GAME INFO] participant: The Joker_6_7, chip = 7217
+[GAME INFO] blind is 500
+[GAME INFO] dealer is Minty_6_3
+[GAME INFO] small blind 30 posted by BigNews!_6_4
+[GAME INFO] big blind 1000 posted by taring_6_5
+[hole card] 9 heart
+[hole card] 4 heart
+[preflop] round starts
+[preflop] player yi95yi_6_0 has 2530 chips
+[preflop] player yyyyyr_6_1 has 5734 chips
+[preflop] player Jerry_Xu_6_2 has 3919 chips
+[preflop] player Minty_6_3 has 1916 chips
+[preflop] player BigNews!_6_4 has 0 chips
+[preflop] player taring_6_5 has 1654 chips
+[preflop] player The Joker_6_7 has 7217 chips
+[preflop] action
+[WARNING] CANNOT check when another player has raised
+[preflop] player The Joker_6_7 folds
+[preflop] player yi95yi_6_0 folds
+[preflop] player yyyyyr_6_1 folds
+[preflop] player Jerry_Xu_6_2 folds
+[preflop] player Minty_6_3 folds
+[preflop] player BigNews!_6_4 goes all in (0 chips). Total bet is 30
+[preflop] player taring_6_5 folds
+[GAME STAT] pot 0 with 60 chips is shared by 1 players
+[GAME STAT] player BigNews!_6_4 gets 60 chips from pot 0
+[GAME STAT] pot 1 with 970 chips is shared by 1 players
+[GAME STAT] player taring_6_5 gets 970 chips from pot 1
+[GAME STAT] overall statistics
+[GAME STAT] player yi95yi_6_0 wins 0 chips in this game
+[GAME STAT] player yyyyyr_6_1 wins 0 chips in this game
+[GAME STAT] player Jerry_Xu_6_2 wins 0 chips in this game
+[GAME STAT] player Minty_6_3 wins 0 chips in this game
+[GAME STAT] player BigNews!_6_4 wins 30 chips in this game
+[GAME STAT] player taring_6_5 wins -30 chips in this game
+[GAME STAT] player The Joker_6_7 wins 0 chips in this game
+[GAME 26] game ends, invoking player.game_end()
+[GAME 27] game starts
+[GAME INFO] number of participants in this game = 7
+[GAME INFO] participant: yi95yi_6_0, chip = 2530
+[GAME INFO] participant: yyyyyr_6_1, chip = 5734
+[GAME INFO] participant: Jerry_Xu_6_2, chip = 3919
+[GAME INFO] participant: Minty_6_3, chip = 1916
+[GAME INFO] participant: BigNews!_6_4, chip = 60
+[GAME INFO] participant: taring_6_5, chip = 2624
+[GAME INFO] participant: The Joker_6_7, chip = 7217
+[GAME INFO] blind is 500
+[GAME INFO] dealer is BigNews!_6_4
+[GAME INFO] small blind 500 posted by taring_6_5
+[GAME INFO] big blind 1000 posted by The Joker_6_7
+[hole card] 2 spade
+[hole card] 3 diamond
+[preflop] round starts
+[preflop] player yi95yi_6_0 has 2530 chips
+[preflop] player yyyyyr_6_1 has 5734 chips
+[preflop] player Jerry_Xu_6_2 has 3919 chips
+[preflop] player Minty_6_3 has 1916 chips
+[preflop] player BigNews!_6_4 has 60 chips
+[preflop] player taring_6_5 has 2124 chips
+[preflop] player The Joker_6_7 has 6217 chips
+[preflop] player yi95yi_6_0 folds
+[preflop] player yyyyyr_6_1 calls. Total bet is 1000
+[preflop] player Jerry_Xu_6_2 folds
+[preflop] player Minty_6_3 folds
+[preflop] player BigNews!_6_4 folds
+[preflop] player taring_6_5 folds
+[preflop] action
+[preflop] call (0 chips). 
+[preflop] player The Joker_6_7 calls. Total bet is 1000
+[flop] 4 club
+[flop] Q club
+[flop] 4 heart
+[flop] round starts
+[flop] player yi95yi_6_0 has 2530 chips
+[flop] player yyyyyr_6_1 has 4734 chips
+[flop] player Jerry_Xu_6_2 has 3919 chips
+[flop] player Minty_6_3 has 1916 chips
+[flop] player BigNews!_6_4 has 60 chips
+[flop] player taring_6_5 has 2124 chips
+[flop] player The Joker_6_7 has 6217 chips
+[flop] action
+[flop] check
+[flop] player The Joker_6_7 checks
+[flop] player yyyyyr_6_1 checks
+[flop] round ends
+[turn] J diamond
+[turn] round starts
+[turn] player yi95yi_6_0 has 2530 chips
+[turn] player yyyyyr_6_1 has 4734 chips
+[turn] player Jerry_Xu_6_2 has 3919 chips
+[turn] player Minty_6_3 has 1916 chips
+[turn] player BigNews!_6_4 has 60 chips
+[turn] player taring_6_5 has 2124 chips
+[turn] player The Joker_6_7 has 6217 chips
+[turn] action
+[turn] check
+[turn] player The Joker_6_7 checks
+[turn] player yyyyyr_6_1 checks
+[turn] round ends
+[river] 6 spade
+[river] round starts
+[river] player yi95yi_6_0 has 2530 chips
+[river] player yyyyyr_6_1 has 4734 chips
+[river] player Jerry_Xu_6_2 has 3919 chips
+[river] player Minty_6_3 has 1916 chips
+[river] player BigNews!_6_4 has 60 chips
+[river] player taring_6_5 has 2124 chips
+[river] player The Joker_6_7 has 6217 chips
+[river] action
+[river] check
+[river] player The Joker_6_7 checks
+[river] player yyyyyr_6_1 checks
+[river] round ends
+[SHOWDOWN] showdown starts
+[SHOWDOWN] showdown
+[SHOWDOWN] 4 club Q club 4 heart J diamond 6 spade
+[SHOWDOWN] player yyyyyr_6_1 shows Q heart K diamond 4 club Q club 4 heart, which is two pair.
+[SHOWDOWN] player The Joker_6_7 shows 4 club Q club 4 heart J diamond 6 spade, which is one pair.
+[GAME STAT] pot 0 with 1500 chips is shared by 1 players
+[GAME STAT] player yyyyyr_6_1 gets 1500 chips from pot 0
+[GAME STAT] pot 1 with 1000 chips is shared by 1 players
+[GAME STAT] player yyyyyr_6_1 gets 1000 chips from pot 1
+[GAME STAT] overall statistics
+[GAME STAT] player yi95yi_6_0 wins 0 chips in this game
+[GAME STAT] player yyyyyr_6_1 wins 1500 chips in this game
+[GAME STAT] player Jerry_Xu_6_2 wins 0 chips in this game
+[GAME STAT] player Minty_6_3 wins 0 chips in this game
+[GAME STAT] player BigNews!_6_4 wins 0 chips in this game
+[GAME STAT] player taring_6_5 wins -500 chips in this game
+[GAME STAT] player The Joker_6_7 wins -1000 chips in this game
+[GAME 27] game ends, invoking player.game_end()
+[END]
+[FINAL STAT] chips
+[FINAL STAT] yi95yi_6_0 has 2530 chips
+[FINAL STAT] yyyyyr_6_1 has 7234 chips
+[FINAL STAT] Jerry_Xu_6_2 has 3919 chips
+[FINAL STAT] Minty_6_3 has 1916 chips
+[FINAL STAT] BigNews!_6_4 has 60 chips
+[FINAL STAT] taring_6_5 has 2124 chips
+[FINAL STAT] Kasin1_6_6 has 0 chips
+[FINAL STAT] The Joker_6_7 has 6217 chips
