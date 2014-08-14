@@ -2,173 +2,257 @@
 3
 ========================================
 pot size is0
-rasie is287
-myBets is1
-totalTokens is7
-POD is0.979592
-currentBet is1
-=========================
-=========================
-pot size is0
-rasie is1
-myBets is1
-totalTokens is7
-POD is0.25
-currentBet is1
-=========================
-=====================
-6 D
-K D
-HS is0.286875
-RR is0.292852
-RRCall is1.1475
-=====================
-=======================PREFLOP=================
-CALL
-=============================================
-===============
-3
-==============================
-3
-========================================
-pot size is1
-rasie is249
-myBets is2
-totalTokens is8
-POD is0.976654
-currentBet is0
-=========================
-=========================
-pot size is1
-rasie is0
-myBets is2
-totalTokens is8
-POD is0.25
-currentBet is0
-=========================
-=====================
-6 D
-K D
-HS is0.249083
-RR is0.255038
-RRCall is0.996333
-=====================
-=======================FLOP=================
-CHECK
-=============================================
-===============
-3
-========================================
-pot size is1
-rasie is155
-myBets is2
-totalTokens is8
-POD is0.96319
-currentBet is0
-=========================
-=========================
-pot size is1
-rasie is0
-myBets is2
-totalTokens is8
-POD is0.25
-currentBet is0
-=========================
-=====================
-6 D
-K D
-HS is0.155792
-RR is0.161745
-RRCall is0.623167
-=====================
-=======================TURN=================
-CHECK
-=============================================
-===============
-3
-========================================
-pot size is1
-rasie is5
-myBets is2
-totalTokens is8
-POD is0.538462
-currentBet is0
-=========================
-=========================
-pot size is1
-rasie is0
-myBets is2
-totalTokens is8
-POD is0.25
-currentBet is0
-=========================
-=====================
-6 D
-K D
-HS is0.00558333
-RR is0.010369
-RRCall is0.0223333
-=====================
-=======================RIVER=================
-CHECK
-=============================================
-===============
-6
-========================================
-pot size is0
-rasie is142
+rasie is275
 myBets is0
-totalTokens is11
-POD is0.928105
+totalTokens is3
+POD is0.989209
 currentBet is2
 =========================
 =========================
 pot size is0
 rasie is2
 myBets is0
-totalTokens is11
-POD is0.153846
+totalTokens is3
+POD is0.4
 currentBet is2
 =========================
 =====================
-8 H
+K H
+4 H
+HS is0.273208
+RR is0.276189
+RRCall is0.683021
+=====================
+=======================PREFLOP=================
+CHECK
+=============================================
+===============
+3
+==============================
+2
+========================================
+pot size is1
+rasie is627
+myBets is2
+totalTokens is6
+POD is0.993681
+currentBet is0
+=========================
+=========================
+pot size is1
+rasie is0
+myBets is2
+totalTokens is6
+POD is0.333333
+currentBet is0
+=========================
+=====================
+K H
+4 H
+HS is0.627667
+RR is0.631658
+RRCall is1.883
+=====================
+=======================FLOP=================
+CALL
+=============================================
+===============
+2
+========================================
+pot size is1
+rasie is476
+myBets is2
+totalTokens is6
+POD is0.991701
+currentBet is0
+=========================
+=========================
+pot size is1
+rasie is0
+myBets is2
+totalTokens is6
+POD is0.333333
+currentBet is0
+=========================
+=====================
+K H
+4 H
+HS is0.476
+RR is0.479983
+RRCall is1.428
+=====================
+=======================TURN=================
+CALL
+=============================================
+===============
+2
+========================================
+pot size is1
+rasie is342
+myBets is2
+totalTokens is6
+POD is0.988506
+currentBet is0
+=========================
+=========================
+pot size is1
+rasie is0
+myBets is2
+totalTokens is6
+POD is0.333333
+currentBet is0
+=========================
+=====================
+K H
+4 H
+HS is0.342333
+RR is0.346314
+RRCall is1.027
+=====================
+=======================RIVER=================
+CALL
+=============================================
+===============
+4
+========================================
+pot size is0
+rasie is147
+myBets is0
+totalTokens is3
+POD is0.98
+currentBet is2
+=========================
+=========================
+pot size is0
+rasie is2
+myBets is0
+totalTokens is3
+POD is0.4
+currentBet is2
+=========================
+=====================
 Q D
-HS is0.140536
-RR is0.151422
-RRCall is0.913482
+2 S
+HS is0.145833
+RR is0.14881
+RRCall is0.364583
 =====================
 =======================PREFLOP=================
 CHECK
 =============================================
 ===============
-6
+4
 ==============================
+3
+========================================
+pot size is1
+rasie is255
+myBets is2
+totalTokens is8
+POD is0.977186
+currentBet is0
+=========================
+=========================
+pot size is1
+rasie is0
+myBets is2
+totalTokens is8
+POD is0.25
+currentBet is0
+=========================
+=====================
+Q D
+2 S
+HS is0.255083
+RR is0.261039
+RRCall is1.02033
+=====================
+=======================FLOP=================
+CALL
+=============================================
+===============
+3
+========================================
+pot size is1
+rasie is168
+myBets is2
+totalTokens is8
+POD is0.965909
+currentBet is0
+=========================
+=========================
+pot size is1
+rasie is0
+myBets is2
+totalTokens is8
+POD is0.25
+currentBet is0
+=========================
+=====================
+Q D
+2 S
+HS is0.16875
+RR is0.174706
+RRCall is0.675
+=====================
+=======================TURN=================
+CHECK
+=============================================
+===============
+3
+========================================
+pot size is1
+rasie is31
+myBets is2
+totalTokens is8
+POD is0.846154
+currentBet is0
+=========================
+=========================
+pot size is1
+rasie is0
+myBets is2
+totalTokens is8
+POD is0.25
+currentBet is0
+=========================
+=====================
+Q D
+2 S
+HS is0.03125
+RR is0.0369318
+RRCall is0.125
+=====================
+=======================RIVER=================
+CHECK
+=============================================
+===============
 5
 ========================================
 pot size is0
-rasie is174
+rasie is425
 myBets is0
-totalTokens is7
-POD is0.961326
+totalTokens is3
+POD is0.992991
 currentBet is2
 =========================
 =========================
 pot size is0
 rasie is2
 myBets is0
-totalTokens is7
-POD is0.222222
+totalTokens is3
+POD is0.4
 currentBet is2
 =========================
 =====================
-5 S
-J S
-HS is0.172167
-RR is0.179093
-RRCall is0.77475
+K H
+K C
+HS is0.423
+RR is0.425986
+RRCall is1.0575
 =====================
 =======================PREFLOP=================
-CHECK
+CALL
 =============================================
 ===============
 5
@@ -176,26 +260,26 @@ CHECK
 3
 ========================================
 pot size is2
-rasie is400
+rasie is571
 myBets is2
-totalTokens is11
-POD is0.978102
+totalTokens is9
+POD is0.987931
 currentBet is0
 =========================
 =========================
 pot size is2
 rasie is0
 myBets is2
-totalTokens is11
-POD is0.181818
+totalTokens is9
+POD is0.222222
 currentBet is0
 =========================
 =====================
-5 S
-J S
-HS is0.400667
-RR is0.409637
-RRCall is2.20367
+K H
+K C
+HS is0.571
+RR is0.577976
+RRCall is2.5695
 =====================
 =======================FLOP=================
 CALL
@@ -204,26 +288,26 @@ CALL
 3
 ========================================
 pot size is2
-rasie is309
+rasie is463
 myBets is2
-totalTokens is11
-POD is0.971875
+totalTokens is9
+POD is0.985169
 currentBet is0
 =========================
 =========================
 pot size is2
 rasie is0
 myBets is2
-totalTokens is11
-POD is0.181818
+totalTokens is9
+POD is0.222222
 currentBet is0
 =========================
 =====================
-5 S
-J S
-HS is0.309
-RR is0.317942
-RRCall is1.6995
+K H
+K C
+HS is0.4635
+RR is0.470477
+RRCall is2.08575
 =====================
 =======================TURN=================
 CALL
@@ -232,98 +316,38 @@ CALL
 3
 ========================================
 pot size is2
-rasie is800
+rasie is174
 myBets is2
-totalTokens is11
-POD is0.988903
+totalTokens is9
+POD is0.961749
 currentBet is0
 =========================
 =========================
 pot size is2
 rasie is0
 myBets is2
-totalTokens is11
-POD is0.181818
+totalTokens is9
+POD is0.222222
 currentBet is0
 =========================
 =====================
-5 S
-J S
-HS is0.800417
-RR is0.809399
-RRCall is4.40229
+K H
+K C
+HS is0.174
+RR is0.18092
+RRCall is0.783
 =====================
 =======================RIVER=================
-CALL
-=============================================
-===============
-5
-========================================
-pot size is0
-rasie is109
-myBets is0
-totalTokens is10
-POD is0.915966
-currentBet is4
-=========================
-=========================
-pot size is0
-rasie is4
-myBets is0
-totalTokens is10
-POD is0.285714
-currentBet is4
-=========================
-=====================
-Q S
-2 C
-HS is0.105833
-RR is0.115543
-RRCall is0.370417
-=====================
-=======================PREFLOP=================
 CHECK
 =============================================
 ===============
-5
-==============================
-7
-========================================
-pot size is0
-rasie is82
-myBets is0
-totalTokens is14
-POD is0.854167
-currentBet is4
-=========================
-=========================
-pot size is0
-rasie is4
-myBets is0
-totalTokens is14
-POD is0.222222
-currentBet is4
-=========================
-=====================
-Q S
-3 C
-HS is0.0787708
-RR is0.0922195
-RRCall is0.354469
-=====================
-=======================PREFLOP=================
-CHECK
-=============================================
-===============
-7
-==============================
 6
 ========================================
 pot size is0
-rasie is127
+rasie is173
 myBets is0
 totalTokens is6
-POD is0.954887
+POD is0.96648
 currentBet is4
 =========================
 =========================
@@ -335,11 +359,11 @@ POD is0.4
 currentBet is4
 =========================
 =====================
-7 H
 6 C
-HS is0.123119
-RR is0.128936
-RRCall is0.307798
+Q C
+HS is0.169464
+RR is0.175342
+RRCall is0.423661
 =====================
 =======================PREFLOP=================
 CHECK
@@ -347,29 +371,113 @@ CHECK
 ===============
 6
 ==============================
+3
+========================================
+pot size is1
+rasie is93
+myBets is4
+totalTokens is20
+POD is0.858407
+currentBet is0
+=========================
+=========================
+pot size is1
+rasie is0
+myBets is4
+totalTokens is20
+POD is0.2
+currentBet is0
+=========================
+=====================
+6 C
+Q C
+HS is0.09325
+RR is0.108631
+RRCall is0.46625
+=====================
+=======================FLOP=================
+CHECK
+=============================================
+===============
+3
+========================================
+pot size is1
+rasie is44
+myBets is4
+totalTokens is20
+POD is0.75
+currentBet is0
+=========================
+=========================
+pot size is1
+rasie is0
+myBets is4
+totalTokens is20
+POD is0.2
+currentBet is0
+=========================
+=====================
+6 C
+Q C
+HS is0.0445833
+RR is0.0594444
+RRCall is0.222917
+=====================
+=======================TURN=================
+CHECK
+=============================================
+===============
+3
+========================================
+pot size is1
+rasie is25
+myBets is4
+totalTokens is20
+POD is0.644444
+currentBet is0
+=========================
+=========================
+pot size is1
+rasie is0
+myBets is4
+totalTokens is20
+POD is0.2
+currentBet is0
+=========================
+=====================
+6 C
+Q C
+HS is0.0255
+RR is0.039569
+RRCall is0.1275
+=====================
+=======================RIVER=================
+CHECK
+=============================================
+===============
 7
 ========================================
 pot size is0
-rasie is113
+rasie is181
 myBets is0
-totalTokens is13
-POD is0.896825
-currentBet is8
+totalTokens is6
+POD is0.967914
+currentBet is4
 =========================
 =========================
 pot size is0
-rasie is8
+rasie is4
 myBets is0
-totalTokens is13
-POD is0.380952
-currentBet is8
+totalTokens is6
+POD is0.4
+currentBet is4
 =========================
 =====================
-K S
-5 D
-HS is0.105
-RR is0.11708
-RRCall is0.275625
+K D
+9 D
+HS is0.1775
+RR is0.183384
+RRCall is0.44375
 =====================
 =======================PREFLOP=================
 CHECK
@@ -377,237 +485,429 @@ CHECK
 ===============
 7
 ==============================
-6
+3
+========================================
+pot size is2
+rasie is215
+myBets is4
+totalTokens is22
+POD is0.924051
+currentBet is0
+=========================
+=========================
+pot size is2
+rasie is0
+myBets is4
+totalTokens is22
+POD is0.181818
+currentBet is0
+=========================
+=====================
+K D
+9 D
+HS is0.215167
+RR is0.232852
+RRCall is1.18342
+=====================
+=======================FLOP=================
+CALL
+=============================================
+===============
+3
+========================================
+pot size is2
+rasie is254
+myBets is4
+totalTokens is22
+POD is0.934783
+currentBet is0
+=========================
+=========================
+pot size is2
+rasie is0
+myBets is4
+totalTokens is22
+POD is0.181818
+currentBet is0
+=========================
+=====================
+K D
+9 D
+HS is0.254333
+RR is0.272078
+RRCall is1.39883
+=====================
+=======================TURN=================
+CALL
+=============================================
+===============
+3
+========================================
+pot size is2
+rasie is526
+myBets is4
+totalTokens is22
+POD is0.967153
+currentBet is0
+=========================
+=========================
+pot size is2
+rasie is0
+myBets is4
+totalTokens is22
+POD is0.181818
+currentBet is0
+=========================
+=====================
+K D
+9 D
+HS is0.526
+RR is0.543864
+RRCall is2.893
+=====================
+=======================RIVER=================
+CALL
+=============================================
+===============
+1
 ========================================
 pot size is0
-rasie is123
+rasie is526
+myBets is4
+totalTokens is10
+POD is0.988806
+currentBet is0
+=========================
+=========================
+pot size is0
+rasie is0
+myBets is4
+totalTokens is10
+POD is0.4
+currentBet is0
+=========================
+=====================
+T S
+8 S
+HS is0.526
+RR is0.531955
+RRCall is1.315
+=====================
+=======================PREFLOP=================
+CALL
+=============================================
+===============
+1
+==============================
+1
+========================================
+pot size is2
+rasie is397
+myBets is4
+totalTokens is10
+POD is0.985258
+currentBet is0
+=========================
+=========================
+pot size is2
+rasie is0
+myBets is4
+totalTokens is10
+POD is0.4
+currentBet is0
+=========================
+=====================
+T S
+8 S
+HS is0.39775
+RR is0.403701
+RRCall is0.994375
+=====================
+=======================FLOP=================
+CHECK
+=============================================
+===============
+1
+========================================
+pot size is2
+rasie is309
+myBets is4
+totalTokens is10
+POD is0.981191
+currentBet is0
+=========================
+=========================
+pot size is2
+rasie is0
+myBets is4
+totalTokens is10
+POD is0.4
+currentBet is0
+=========================
+=====================
+T S
+8 S
+HS is0.309
+RR is0.314923
+RRCall is0.7725
+=====================
+=======================TURN=================
+CHECK
+=============================================
+===============
+1
+========================================
+pot size is2
+rasie is202
+myBets is4
+totalTokens is10
+POD is0.971698
+currentBet is0
+=========================
+=========================
+pot size is2
+rasie is0
+myBets is4
+totalTokens is10
+POD is0.4
+currentBet is0
+=========================
+=====================
+T S
+8 S
+HS is0.20225
+RR is0.208141
+RRCall is0.505625
+=====================
+=======================RIVER=================
+CHECK
+=============================================
+===============
+4
+========================================
+pot size is0
+rasie is121
 myBets is5
-totalTokens is55
-POD is0.719101
+totalTokens is45
+POD is0.759036
 currentBet is5
 =========================
 =========================
 pot size is0
 rasie is5
 myBets is5
-totalTokens is55
-POD is0.166667
+totalTokens is45
+POD is0.2
 currentBet is5
 =========================
 =====================
-3 H
-K S
-HS is0.11881
-RR is0.165219
-RRCall is0.712857
+4 D
+2 H
+HS is0.116217
+RR is0.153111
+RRCall is0.581083
 =====================
 =======================PREFLOP=================
 CHECK
 =============================================
 ===============
-6
+4
 ==============================
-5
+3
 ========================================
 pot size is0
-rasie is140
+rasie is337
 myBets is0
-totalTokens is35
-POD is0.8
+totalTokens is15
+POD is0.957386
 currentBet is10
 =========================
 =========================
 pot size is0
 rasie is10
 myBets is0
-totalTokens is35
-POD is0.222222
+totalTokens is15
+POD is0.4
 currentBet is10
 =========================
 =====================
-3 D
-9 D
-HS is0.130958
-RR is0.163698
-RRCall is0.589312
-=====================
-=======================PREFLOP=================
-CHECK
-=============================================
-===============
-5
-==============================
-6
-========================================
-pot size is0
-rasie is179
-myBets is0
-totalTokens is70
-POD is0.718876
-currentBet is20
-=========================
-=========================
-pot size is0
-rasie is20
-myBets is0
-totalTokens is70
-POD is0.222222
-currentBet is20
-=========================
-=====================
-5 H
-7 H
-HS is0.159131
-RR is0.221361
-RRCall is0.716089
-=====================
-=======================PREFLOP=================
-CHECK
-=============================================
-===============
-6
-==============================
-6
-========================================
-pot size is0
-rasie is186
-myBets is0
-totalTokens is50
-POD is0.788136
-currentBet is20
-=========================
-=========================
-pot size is0
-rasie is20
-myBets is0
-totalTokens is50
-POD is0.285714
-currentBet is20
-=========================
-=====================
-9 C
+Q C
 J D
-HS is0.166167
-RR is0.210835
-RRCall is0.581583
+HS is0.327167
+RR is0.341729
+RRCall is0.817917
 =====================
 =======================PREFLOP=================
 CHECK
 =============================================
 ===============
-6
+3
 ==============================
-7
+2
 ========================================
-pot size is0
-rasie is122
-myBets is0
-totalTokens is50
-POD is0.709302
-currentBet is20
-=========================
-=========================
-pot size is0
-rasie is20
-myBets is0
-totalTokens is50
-POD is0.285714
-currentBet is20
-=========================
-=====================
-3 H
-K C
-HS is0.102167
-RR is0.144038
-RRCall is0.357583
-=====================
-=======================PREFLOP=================
-CHECK
-=============================================
-===============
-7
-==============================
-7
-========================================
-pot size is0
-rasie is220
-myBets is0
-totalTokens is60
-POD is0.785714
-currentBet is40
-=========================
-=========================
-pot size is0
-rasie is40
-myBets is0
-totalTokens is60
-POD is0.4
-currentBet is40
-=========================
-=====================
-Q C
-A H
-HS is0.180354
-RR is0.229542
-RRCall is0.450885
-=====================
-=======================PREFLOP=================
-CHECK
-=============================================
-===============
-7
-==============================
-5
-========================================
-pot size is3
-rasie is115
-myBets is40
-totalTokens is204
-POD is0.485893
+pot size is2
+rasie is369
+myBets is10
+totalTokens is25
+POD is0.961929
 currentBet is0
 =========================
 =========================
-pot size is3
+pot size is2
 rasie is0
-myBets is40
-totalTokens is204
-POD is0.196078
+myBets is10
+totalTokens is25
+POD is0.4
 currentBet is0
 =========================
 =====================
 Q C
-A H
-HS is0.115667
-RR is0.238049
-RRCall is0.5899
+J D
+HS is0.36975
+RR is0.384384
+RRCall is0.924375
 =====================
 =======================FLOP=================
 CHECK
 =============================================
 ===============
-5
+2
 ========================================
-pot size is3
-rasie is66
-myBets is40
-totalTokens is204
-POD is0.392593
+pot size is2
+rasie is207
+myBets is10
+totalTokens is25
+POD is0.935345
 currentBet is0
 =========================
 =========================
-pot size is3
+pot size is2
 rasie is0
-myBets is40
-totalTokens is204
-POD is0.196078
+myBets is10
+totalTokens is25
+POD is0.4
 currentBet is0
 =========================
 =====================
 Q C
-A H
-HS is0.0661667
-RR is0.168538
-RRCall is0.33745
+J D
+HS is0.2075
+RR is0.221843
+RRCall is0.51875
+=====================
+=======================TURN=================
+CHECK
+=============================================
+===============
+2
+========================================
+pot size is2
+rasie is59
+myBets is10
+totalTokens is25
+POD is0.821429
+currentBet is0
+=========================
+=========================
+pot size is2
+rasie is0
+myBets is10
+totalTokens is25
+POD is0.4
+currentBet is0
+=========================
+=====================
+Q C
+J D
+HS is0.059
+RR is0.0718261
+RRCall is0.1475
+=====================
+=======================RIVER=================
+CHECK
+=============================================
+===============
+4
+========================================
+pot size is0
+rasie is258
+myBets is0
+totalTokens is15
+POD is0.945055
+currentBet is10
+=========================
+=========================
+pot size is0
+rasie is10
+myBets is0
+totalTokens is15
+POD is0.4
+currentBet is10
+=========================
+=====================
+K C
+9 S
+HS is0.2484
+RR is0.262842
+RRCall is0.621
+=====================
+=======================PREFLOP=================
+CHECK
+=============================================
+===============
+4
+==============================
+4
+========================================
+pot size is1
+rasie is107
+myBets is10
+totalTokens is40
+POD is0.795918
+currentBet is0
+=========================
+=========================
+pot size is1
+rasie is0
+myBets is10
+totalTokens is40
+POD is0.25
+currentBet is0
+=========================
+=====================
+K C
+9 S
+HS is0.107417
+RR is0.134959
+RRCall is0.429667
+=====================
+=======================FLOP=================
+CHECK
+=============================================
+===============
+4
+========================================
+pot size is1
+rasie is96
+myBets is10
+totalTokens is40
+POD is0.779412
+currentBet is0
+=========================
+=========================
+pot size is1
+rasie is0
+myBets is10
+totalTokens is40
+POD is0.25
+currentBet is0
+=========================
+=====================
+K C
+9 S
+HS is0.0969583
+RR is0.124399
+RRCall is0.387833
 =====================
 =======================TURN=================
 CHECK
@@ -615,151 +915,213 @@ CHECK
 ===============
 4
 ========================================
-pot size is3
-rasie is40
-myBets is40
-totalTokens is204
-POD is0.327869
+pot size is1
+rasie is10
+myBets is10
+totalTokens is40
+POD is0.4
 currentBet is0
 =========================
 =========================
-pot size is3
+pot size is1
 rasie is0
-myBets is40
-totalTokens is204
-POD is0.196078
+myBets is10
+totalTokens is40
+POD is0.25
 currentBet is0
 =========================
 =====================
-Q C
-A H
-HS is0.02725
-RR is0.0831125
-RRCall is0.138975
+K C
+9 S
+HS is0.00575
+RR is0.014375
+RRCall is0.023
 =====================
 =======================RIVER=================
 CHECK
 =============================================
 ===============
+5
+========================================
+pot size is0
+rasie is114
+myBets is0
+totalTokens is30
+POD is0.791667
+currentBet is20
+=========================
+=========================
+pot size is0
+rasie is20
+myBets is0
+totalTokens is30
+POD is0.4
+currentBet is20
+=========================
+=====================
+3 C
+9 D
+HS is0.094625
+RR is0.119526
+RRCall is0.236562
+=====================
+=======================PREFLOP=================
+CHECK
+=============================================
+===============
+5
+==============================
 6
 ========================================
 pot size is0
-rasie is105
-myBets is40
-totalTokens is200
-POD is0.47541
-currentBet is0
+rasie is194
+myBets is0
+totalTokens is30
+POD is0.866071
+currentBet is20
 =========================
 =========================
 pot size is0
-rasie is0
-myBets is40
-totalTokens is200
-POD is0.2
-currentBet is0
+rasie is20
+myBets is0
+totalTokens is30
+POD is0.4
+currentBet is20
 =========================
 =====================
-2 C
+T D
 Q S
-HS is0.105952
-RR is0.222865
-RRCall is0.529762
+HS is0.1745
+RR is0.201485
+RRCall is0.43625
 =====================
 =======================PREFLOP=================
 CHECK
 =============================================
 ===============
 6
+==============================
+2
 ========================================
-pot size is1
-rasie is300
-myBets is40
-totalTokens is200
-POD is0.68
+pot size is2
+rasie is452
+myBets is20
+totalTokens is70
+POD is0.904215
 currentBet is0
 =========================
 =========================
-pot size is1
+pot size is2
 rasie is0
-myBets is40
-totalTokens is200
-POD is0.2
+myBets is20
+totalTokens is70
+POD is0.285714
 currentBet is0
 =========================
 =====================
-2 C
+T D
 Q S
-HS is0.300167
-RR is0.441422
-RRCall is1.50083
+HS is0.452
+RR is0.499881
+RRCall is1.582
 =====================
 =======================FLOP=================
 CALL
 =============================================
 ===============
-6
+2
 ========================================
-pot size is1
-rasie is262
-myBets is40
-totalTokens is200
-POD is0.65368
+pot size is2
+rasie is459
+myBets is20
+totalTokens is70
+POD is0.905482
 currentBet is0
 =========================
 =========================
-pot size is1
+pot size is2
 rasie is0
-myBets is40
-totalTokens is200
-POD is0.2
+myBets is20
+totalTokens is70
+POD is0.285714
 currentBet is0
 =========================
 =====================
-2 C
+T D
 Q S
-HS is0.26275
-RR is0.401955
-RRCall is1.31375
+HS is0.459583
+RR is0.507557
+RRCall is1.60854
 =====================
 =======================TURN=================
 CALL
 =============================================
 ===============
-6
+2
 ========================================
-pot size is1
-rasie is207
-myBets is40
-totalTokens is200
-POD is0.60688
+pot size is2
+rasie is774
+myBets is20
+totalTokens is70
+POD is0.940758
 currentBet is0
 =========================
 =========================
-pot size is1
+pot size is2
 rasie is0
-myBets is40
-totalTokens is200
-POD is0.2
+myBets is20
+totalTokens is70
+POD is0.285714
 currentBet is0
 =========================
 =====================
-2 C
+T D
 Q S
-HS is0.2075
-RR is0.341913
-RRCall is1.0375
+HS is0.77475
+RR is0.823538
+RRCall is2.71162
 =====================
 =======================RIVER=================
 CALL
 =============================================
 ===============
+7
+========================================
+pot size is0
+rasie is131
+myBets is0
+totalTokens is30
+POD is0.813665
+currentBet is20
+=========================
+=========================
+pot size is0
+rasie is20
+myBets is0
+totalTokens is30
+POD is0.4
+currentBet is20
+=========================
+=====================
+4 S
+9 S
+HS is0.111729
+RR is0.137316
+RRCall is0.279323
+=====================
+=======================PREFLOP=================
+CHECK
+=============================================
+===============
+7
+==============================
 5
 ========================================
 pot size is0
-rasie is173
+rasie is132
 myBets is20
 totalTokens is140
-POD is0.616613
+POD is0.558824
 currentBet is20
 =========================
 =========================
@@ -771,11 +1133,71 @@ POD is0.25
 currentBet is20
 =========================
 =====================
-T D
-6 D
-HS is0.153125
-RR is0.248332
-RRCall is0.6125
+T S
+2 D
+HS is0.112083
+RR is0.20057
+RRCall is0.448333
+=====================
+=======================PREFLOP=================
+CHECK
+=============================================
+===============
+5
+==============================
+4
+========================================
+pot size is0
+rasie is208
+myBets is0
+totalTokens is60
+POD is0.776119
+currentBet is40
+=========================
+=========================
+pot size is0
+rasie is40
+myBets is0
+totalTokens is60
+POD is0.4
+currentBet is40
+=========================
+=====================
+5 C
+J S
+HS is0.168533
+RR is0.217149
+RRCall is0.421333
+=====================
+=======================PREFLOP=================
+CHECK
+=============================================
+===============
+4
+==============================
+5
+========================================
+pot size is0
+rasie is159
+myBets is0
+totalTokens is60
+POD is0.726027
+currentBet is40
+=========================
+=========================
+pot size is0
+rasie is40
+myBets is0
+totalTokens is60
+POD is0.4
+currentBet is40
+=========================
+=====================
+5 H
+8 C
+HS is0.119333
+RR is0.164365
+RRCall is0.298333
 =====================
 =======================PREFLOP=================
 CHECK
@@ -786,26 +1208,26 @@ CHECK
 6
 ========================================
 pot size is0
-rasie is252
+rasie is330
 myBets is0
-totalTokens is350
-POD is0.418605
+totalTokens is150
+POD is0.6875
 currentBet is100
 =========================
 =========================
 pot size is0
 rasie is100
 myBets is0
-totalTokens is350
-POD is0.222222
+totalTokens is150
+POD is0.4
 currentBet is100
 =========================
 =====================
-7 S
-A H
-HS is0.152619
-RR is0.36459
-RRCall is0.686786
+Q D
+A S
+HS is0.230685
+RR is0.335541
+RRCall is0.576711
 =====================
 =======================PREFLOP=================
 CHECK
@@ -813,59 +1235,113 @@ CHECK
 ===============
 6
 ==============================
-7
+4
 ========================================
-pot size is0
-rasie is188
-myBets is0
-totalTokens is350
-POD is0.349442
-currentBet is100
+pot size is2
+rasie is428
+myBets is100
+totalTokens is450
+POD is0.601367
+currentBet is0
 =========================
 =========================
-pot size is0
-rasie is100
-myBets is0
-totalTokens is350
+pot size is2
+rasie is0
+myBets is100
+totalTokens is450
 POD is0.222222
-currentBet is100
+currentBet is0
 =========================
 =====================
-3 D
-T C
-HS is0.0885208
-RR is0.25332
-RRCall is0.398344
+Q D
+A S
+HS is0.428333
+RR is0.712266
+RRCall is1.9275
 =====================
-=======================PREFLOP=================
-CHECK
+=======================FLOP=================
+CALL
 =============================================
 ===============
-7
-==============================
+4
+========================================
+pot size is2
+rasie is421
+myBets is100
+totalTokens is450
+POD is0.598163
+currentBet is0
+=========================
+=========================
+pot size is2
+rasie is0
+myBets is100
+totalTokens is450
+POD is0.222222
+currentBet is0
+=========================
+=====================
+Q D
+A S
+HS is0.4215
+RR is0.704657
+RRCall is1.89675
+=====================
+=======================TURN=================
+CALL
+=============================================
+===============
+4
+========================================
+pot size is2
+rasie is320
+myBets is100
+totalTokens is450
+POD is0.545455
+currentBet is0
+=========================
+=========================
+pot size is2
+rasie is0
+myBets is100
+totalTokens is450
+POD is0.222222
+currentBet is0
+=========================
+=====================
+Q D
+A S
+HS is0.320417
+RR is0.587431
+RRCall is1.44187
+=====================
+=======================RIVER=================
+CALL
+=============================================
+===============
 7
 ========================================
 pot size is0
 rasie is200
 myBets is0
-totalTokens is250
-POD is0.444444
+totalTokens is150
+POD is0.571429
 currentBet is100
 =========================
 =========================
 pot size is0
 rasie is100
 myBets is0
-totalTokens is250
-POD is0.285714
+totalTokens is150
+POD is0.4
 currentBet is100
 =========================
 =====================
-8 D
-3 S
-HS is0.06025
-RR is0.135562
-RRCall is0.210875
+4 C
+9 S
+HS is0.0748333
+RR is0.130958
+RRCall is0.187083
 =====================
 =======================PREFLOP=================
 CHECK
@@ -873,7 +1349,263 @@ CHECK
 ===============
 7
 ==============================
-7
+3
+========================================
+pot size is0
+rasie is237
+myBets is100
+totalTokens is250
+POD is0.691992
+currentBet is0
+=========================
+=========================
+pot size is0
+rasie is0
+myBets is100
+totalTokens is250
+POD is0.4
+currentBet is0
+=========================
+=====================
+5 H
+8 H
+HS is0.237292
+RR is0.342911
+RRCall is0.593229
+=====================
+=======================PREFLOP=================
+CHECK
+=============================================
+===============
+3
+========================================
+pot size is2
+rasie is201
+myBets is100
+totalTokens is250
+POD is0.667406
+currentBet is0
+=========================
+=========================
+pot size is2
+rasie is0
+myBets is100
+totalTokens is250
+POD is0.4
+currentBet is0
+=========================
+=====================
+5 H
+8 H
+HS is0.202
+RR is0.302664
+RRCall is0.505
+=====================
+=======================FLOP=================
+CHECK
+=============================================
+===============
+3
+========================================
+pot size is2
+rasie is752
+myBets is100
+totalTokens is250
+POD is0.850299
+currentBet is0
+=========================
+=========================
+pot size is2
+rasie is0
+myBets is100
+totalTokens is250
+POD is0.4
+currentBet is0
+=========================
+=====================
+5 H
+8 H
+HS is0.752083
+RR is0.884492
+RRCall is1.88021
+=====================
+=======================TURN=================
+CALL
+=============================================
+===============
+3
+========================================
+pot size is2
+rasie is629
+myBets is100
+totalTokens is250
+POD is0.829352
+currentBet is0
+=========================
+=========================
+pot size is2
+rasie is0
+myBets is100
+totalTokens is250
+POD is0.4
+currentBet is0
+=========================
+=====================
+5 H
+8 H
+HS is0.629417
+RR is0.758926
+RRCall is1.57354
+=====================
+=======================RIVER=================
+CALL
+=============================================
+===============
+4
+========================================
+pot size is0
+rasie is300
+myBets is100
+totalTokens is500
+POD is0.5
+currentBet is100
+=========================
+=========================
+pot size is0
+rasie is100
+myBets is100
+totalTokens is500
+POD is0.333333
+currentBet is100
+=========================
+=====================
+9 S
+3 H
+HS is0.12285
+RR is0.2457
+RRCall is0.36855
+=====================
+=======================PREFLOP=================
+CHECK
+=============================================
+===============
+4
+==============================
+4
+========================================
+pot size is0
+rasie is462
+myBets is0
+totalTokens is300
+POD is0.606299
+currentBet is200
+=========================
+=========================
+pot size is0
+rasie is200
+myBets is0
+totalTokens is300
+POD is0.4
+currentBet is200
+=========================
+=====================
+K H
+T C
+HS is0.262667
+RR is0.433229
+RRCall is0.656667
+=====================
+=======================PREFLOP=================
+CHECK
+=============================================
+===============
+4
+==============================
+4
+========================================
+pot size is1
+rasie is200
+myBets is200
+totalTokens is600
+POD is0.5
+currentBet is0
+=========================
+=========================
+pot size is1
+rasie is0
+myBets is200
+totalTokens is600
+POD is0.333333
+currentBet is0
+=========================
+=====================
+K H
+T C
+HS is0.133833
+RR is0.267667
+RRCall is0.4015
+=====================
+=======================FLOP=================
+CHECK
+=============================================
+===============
+4
+========================================
+pot size is1
+rasie is200
+myBets is200
+totalTokens is600
+POD is0.5
+currentBet is0
+=========================
+=========================
+pot size is1
+rasie is0
+myBets is200
+totalTokens is600
+POD is0.333333
+currentBet is0
+=========================
+=====================
+K H
+T C
+HS is0.0826667
+RR is0.165333
+RRCall is0.248
+=====================
+=======================TURN=================
+CHECK
+=============================================
+===============
+4
+========================================
+pot size is1
+rasie is442
+myBets is200
+totalTokens is600
+POD is0.616123
+currentBet is0
+=========================
+=========================
+pot size is1
+rasie is0
+myBets is200
+totalTokens is600
+POD is0.333333
+currentBet is0
+=========================
+=====================
+K H
+T C
+HS is0.442
+RR is0.717389
+RRCall is1.326
+=====================
+=======================RIVER=================
+CALL
+=============================================
+===============
+5
 ========================================
 pot size is0
 rasie is400
@@ -891,251 +1623,125 @@ POD is0.4
 currentBet is200
 =========================
 =====================
-T C
-K D
-HS is0.179187
-RR is0.313578
-RRCall is0.447969
+8 S
+T D
+HS is0.173083
+RR is0.302896
+RRCall is0.432708
+=====================
+=======================PREFLOP=================
+CHECK
+=============================================
+===============
+5
+==============================
+6
+========================================
+pot size is0
+rasie is800
+myBets is0
+totalTokens is600
+POD is0.571429
+currentBet is400
+=========================
+=========================
+pot size is0
+rasie is400
+myBets is0
+totalTokens is600
+POD is0.4
+currentBet is400
+=========================
+=====================
+6 C
+2 C
+HS is0.116244
+RR is0.203427
+RRCall is0.29061
+=====================
+=======================PREFLOP=================
+CHECK
+=============================================
+===============
+6
+==============================
+7
+========================================
+pot size is0
+rasie is800
+myBets is0
+totalTokens is600
+POD is0.571429
+currentBet is400
+=========================
+=========================
+pot size is0
+rasie is400
+myBets is0
+totalTokens is600
+POD is0.4
+currentBet is400
+=========================
+=====================
+3 D
+Q H
+HS is0.08225
+RR is0.143938
+RRCall is0.205625
 =====================
 =======================PREFLOP=================
 CHECK
 =============================================
 ===============
 7
+==============================
+3
+========================================
+pot size is0
+rasie is1500
+myBets is500
+totalTokens is1500
+POD is0.666667
+currentBet is500
+=========================
+=========================
+pot size is0
+rasie is500
+myBets is500
+totalTokens is1500
+POD is0.5
+currentBet is500
+=========================
+=======================PREFLOP=================
+CHECK
+=============================================
+===============
+3
 ==============================
 5
 ========================================
 pot size is0
-rasie is200
-myBets is200
-totalTokens is800
-POD is0.4
-currentBet is0
-=========================
-=========================
-pot size is0
-rasie is0
-myBets is200
-totalTokens is800
-POD is0.25
-currentBet is0
-=========================
-=====================
-6 D
-9 C
-HS is0.1355
-RR is0.33875
-RRCall is0.542
-=====================
-=======================PREFLOP=================
-CHECK
-=============================================
-===============
-4
-========================================
-pot size is1
-rasie is200
-myBets is200
-totalTokens is800
-POD is0.4
-currentBet is0
-=========================
-=========================
-pot size is1
-rasie is0
-myBets is200
-totalTokens is800
-POD is0.25
-currentBet is0
-=========================
-=====================
-6 D
-9 C
-HS is0.0798
-RR is0.1995
-RRCall is0.3192
-=====================
-=======================FLOP=================
-CHECK
-=============================================
-===============
-4
-========================================
-pot size is1
-rasie is200
-myBets is200
-totalTokens is800
-POD is0.4
-currentBet is0
-=========================
-=========================
-pot size is1
-rasie is0
-myBets is200
-totalTokens is800
-POD is0.25
-currentBet is0
-=========================
-=====================
-6 D
-9 C
-HS is0.0257167
-RR is0.0642917
-RRCall is0.102867
-=====================
-=======================TURN=================
-CHECK
-=============================================
-===============
-4
-========================================
-pot size is1
-rasie is200
-myBets is200
-totalTokens is800
-POD is0.4
-currentBet is0
-=========================
-=========================
-pot size is1
-rasie is0
-myBets is200
-totalTokens is800
-POD is0.25
-currentBet is0
-=========================
-=====================
-6 D
-9 C
-HS is0.0005
-RR is0.00125
-RRCall is0.002
-=====================
-=======================RIVER=================
-CHECK
-=============================================
-===============
-6
-========================================
-pot size is0
-rasie is300
-myBets is100
-totalTokens is900
-POD is0.333333
-currentBet is100
-=========================
-=========================
-pot size is0
-rasie is100
-myBets is100
-totalTokens is900
-POD is0.2
-currentBet is100
-=========================
-=====================
-9 D
-6 H
-HS is0.118298
-RR is0.354893
-RRCall is0.591488
-=====================
-=======================PREFLOP=================
-CHECK
-=============================================
-===============
-6
-==============================
-6
-========================================
-pot size is0
-rasie is800
+rasie is1500
 myBets is0
-totalTokens is1400
-POD is0.363636
-currentBet is400
-=========================
-=========================
-pot size is0
-rasie is400
-myBets is0
-totalTokens is1400
-POD is0.222222
-currentBet is400
-=========================
-=====================
-3 S
-Q D
-HS is0.112464
-RR is0.309277
-RRCall is0.506089
-=====================
-=======================PREFLOP=================
-CHECK
-=============================================
-===============
-6
-==============================
-6
-========================================
-pot size is0
-rasie is600
-myBets is0
-totalTokens is1000
+totalTokens is2500
 POD is0.375
-currentBet is400
+currentBet is1000
 =========================
 =========================
 pot size is0
-rasie is400
+rasie is1000
 myBets is0
-totalTokens is1000
+totalTokens is2500
 POD is0.285714
-currentBet is400
+currentBet is1000
 =========================
-=====================
-J D
-9 S
-HS is0.160976
-RR is0.42927
-RRCall is0.563417
-=====================
 =======================PREFLOP=================
 CHECK
 =============================================
 ===============
-6
+5
 ==============================
-7
-========================================
-pot size is0
-rasie is800
-myBets is0
-totalTokens is1000
-POD is0.444444
-currentBet is400
-=========================
-=========================
-pot size is0
-rasie is400
-myBets is0
-totalTokens is1000
-POD is0.285714
-currentBet is400
-=========================
-=====================
-Q C
-T S
-HS is0.181833
-RR is0.409125
-RRCall is0.636417
-=====================
-=======================PREFLOP=================
-CHECK
-=============================================
-===============
-7
-==============================
-7
+5
 ========================================
 pot size is0
 rasie is2000
@@ -1156,173 +1762,4 @@ currentBet is1000
 CHECK
 =============================================
 ===============
-7
-==============================
-4
-========================================
-pot size is0
-rasie is1000
-myBets is1000
-totalTokens is3447
-POD is0.449741
-currentBet is0
-=========================
-=========================
-pot size is0
-rasie is0
-myBets is1000
-totalTokens is3447
-POD is0.290107
-currentBet is0
-=========================
-=======================PREFLOP=================
-CHECK
-=============================================
-===============
-4
-========================================
-pot size is3
-rasie is1000
-myBets is1000
-totalTokens is3447
-POD is0.449741
-currentBet is0
-=========================
-=========================
-pot size is3
-rasie is0
-myBets is1000
-totalTokens is3447
-POD is0.290107
-currentBet is0
-=========================
-=======================FLOP=================
-CHECK
-=============================================
-===============
-4
-========================================
-pot size is3
-rasie is1000
-myBets is1000
-totalTokens is3447
-POD is0.449741
-currentBet is0
-=========================
-=========================
-pot size is3
-rasie is0
-myBets is1000
-totalTokens is3447
-POD is0.290107
-currentBet is0
-=========================
-=======================TURN=================
-CHECK
-=============================================
-===============
-4
-========================================
-pot size is3
-rasie is1000
-myBets is1000
-totalTokens is3447
-POD is0.449741
-currentBet is0
-=========================
-=========================
-pot size is3
-rasie is0
-myBets is1000
-totalTokens is3447
-POD is0.290107
-currentBet is0
-=========================
-=======================RIVER=================
-CHECK
-=============================================
-===============
-4
-========================================
-pot size is0
-rasie is1500
-myBets is500
-totalTokens is2500
-POD is0.5
-currentBet is500
-=========================
-=========================
-pot size is0
-rasie is500
-myBets is500
-totalTokens is2500
-POD is0.333333
-currentBet is500
-=========================
-=======================PREFLOP=================
-CHECK
-=============================================
-===============
-4
-==============================
-3
-========================================
-pot size is1
-rasie is1000
-myBets is1000
-totalTokens is3000
-POD is0.5
-currentBet is0
-=========================
-=========================
-pot size is1
-rasie is0
-myBets is1000
-totalTokens is3000
-POD is0.333333
-currentBet is0
-=========================
-=======================FLOP=================
-CHECK
-=============================================
-===============
-3
-========================================
-pot size is1
-rasie is1000
-myBets is1000
-totalTokens is3000
-POD is0.5
-currentBet is0
-=========================
-=========================
-pot size is1
-rasie is0
-myBets is1000
-totalTokens is3000
-POD is0.333333
-currentBet is0
-=========================
-=======================TURN=================
-CHECK
-=============================================
-===============
-3
-========================================
-pot size is1
-rasie is1000
-myBets is1000
-totalTokens is3000
-POD is0.5
-currentBet is0
-=========================
-=========================
-pot size is1
-rasie is0
-myBets is1000
-totalTokens is3000
-POD is0.333333
-currentBet is0
-=========================
-=======================RIVER=================
-CHECK
+5
