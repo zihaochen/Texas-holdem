@@ -154,7 +154,7 @@ int Player::minRaise()
 			gap = bets[cur] - tmpMax;
 		tmpMax = max(tmpMax, bets[cur]);
 	}
-	gap = max(gap, 2 * query.blind());
+	if (gap == 0) gap = 2 * query.blind();
 	return gap;
 }
 \end{lstlisting}
