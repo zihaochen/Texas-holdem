@@ -304,7 +304,7 @@ int Player::minRaise()
 			gap = bets[cur] - tmpMax;
 		tmpMax = max(tmpMax, bets[cur]);
 	}
-	gap = max(2 * query.blind(), gap);
+	if (gap == 0) gap = 2 * query.blind();
 	return gap;
 }
 

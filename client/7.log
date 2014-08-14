@@ -1,2217 +1,2062 @@
-[UI] login name: [UI] succefully login as The Joker_1_3
-[login] The Joker_1_3
-[player 0] NX01_1_0
-[player 1] Minty_1_1
-[player 2] ssw_1_2
-[player 3] The Joker_1_3
-[player 4] courage_1_4
-[player 5] Mars_1_5
-[player 6] wereFluke_1_6
-[player 7] WaP_1_7
+[UI] login name: [UI] succefully login as The Joker_6_0
+[login] The Joker_6_0
+[player 0] The Joker_6_0
+[player 1] ssw_6_1
+[player 2] Juda_6_2
+[player 3] BigNews!_6_3
+[player 4] yi95yi_6_4
+[player 5] Gaotaku_6_5
+[player 6] GiHe_6_6
+[player 7] WaP_6_7
 [GAME INFO] number of players = 8
 [GAME INFO] initial chips = 3000
 [GAME 1] game starts
 [GAME INFO] number of participants in this game = 8
-[GAME INFO] participant: NX01_1_0, chip = 3000
-[GAME INFO] participant: Minty_1_1, chip = 3000
-[GAME INFO] participant: ssw_1_2, chip = 3000
-[GAME INFO] participant: The Joker_1_3, chip = 3000
-[GAME INFO] participant: courage_1_4, chip = 3000
-[GAME INFO] participant: Mars_1_5, chip = 3000
-[GAME INFO] participant: wereFluke_1_6, chip = 3000
-[GAME INFO] participant: WaP_1_7, chip = 3000
+[GAME INFO] participant: The Joker_6_0, chip = 3000
+[GAME INFO] participant: ssw_6_1, chip = 3000
+[GAME INFO] participant: Juda_6_2, chip = 3000
+[GAME INFO] participant: BigNews!_6_3, chip = 3000
+[GAME INFO] participant: yi95yi_6_4, chip = 3000
+[GAME INFO] participant: Gaotaku_6_5, chip = 3000
+[GAME INFO] participant: GiHe_6_6, chip = 3000
+[GAME INFO] participant: WaP_6_7, chip = 3000
 [GAME INFO] blind is 1
-[GAME INFO] dealer is courage_1_4
-[GAME INFO] small blind 1 posted by Mars_1_5
-[GAME INFO] big blind 2 posted by wereFluke_1_6
-[hole card] K heart
-[hole card] 4 heart
-[preflop] round starts
-[preflop] player NX01_1_0 has 3000 chips
-[preflop] player Minty_1_1 has 3000 chips
-[preflop] player ssw_1_2 has 3000 chips
-[preflop] player The Joker_1_3 has 3000 chips
-[preflop] player courage_1_4 has 3000 chips
-[preflop] player Mars_1_5 has 2999 chips
-[preflop] player wereFluke_1_6 has 2998 chips
-[preflop] player WaP_1_7 has 3000 chips
-[preflop] player WaP_1_7 folds
-[preflop] player NX01_1_0 folds
-[preflop] player Minty_1_1 folds
-[preflop] player ssw_1_2 folds
-[preflop] action
-[preflop] call (2 chips). 
-[preflop] player The Joker_1_3 calls. Total bet is 2
-[preflop] player courage_1_4 folds
-[preflop] player Mars_1_5 calls. Total bet is 2
-[preflop] player wereFluke_1_6 calls. Total bet is 2
-[flop] 6 heart
-[flop] 4 club
-[flop] A heart
-[flop] round starts
-[flop] player NX01_1_0 has 3000 chips
-[flop] player Minty_1_1 has 3000 chips
-[flop] player ssw_1_2 has 3000 chips
-[flop] player The Joker_1_3 has 2998 chips
-[flop] player courage_1_4 has 3000 chips
-[flop] player Mars_1_5 has 2998 chips
-[flop] player wereFluke_1_6 has 2998 chips
-[flop] player WaP_1_7 has 3000 chips
-[flop] player Mars_1_5 checks
-[flop] player wereFluke_1_6 checks
-[flop] action
-[flop] check
-[flop] player The Joker_1_3 checks
-[flop] round ends
-[turn] 10 diamond
-[turn] round starts
-[turn] player NX01_1_0 has 3000 chips
-[turn] player Minty_1_1 has 3000 chips
-[turn] player ssw_1_2 has 3000 chips
-[turn] player The Joker_1_3 has 2998 chips
-[turn] player courage_1_4 has 3000 chips
-[turn] player Mars_1_5 has 2998 chips
-[turn] player wereFluke_1_6 has 2998 chips
-[turn] player WaP_1_7 has 3000 chips
-[turn] player Mars_1_5 checks
-[turn] player wereFluke_1_6 checks
-[turn] action
-[turn] check
-[turn] player The Joker_1_3 checks
-[turn] round ends
-[river] 6 diamond
-[river] round starts
-[river] player NX01_1_0 has 3000 chips
-[river] player Minty_1_1 has 3000 chips
-[river] player ssw_1_2 has 3000 chips
-[river] player The Joker_1_3 has 2998 chips
-[river] player courage_1_4 has 3000 chips
-[river] player Mars_1_5 has 2998 chips
-[river] player wereFluke_1_6 has 2998 chips
-[river] player WaP_1_7 has 3000 chips
-[river] player Mars_1_5 checks
-[river] player wereFluke_1_6 checks
-[river] action
-[river] check
-[river] player The Joker_1_3 checks
-[river] round ends
-[SHOWDOWN] showdown starts
-[SHOWDOWN] showdown
-[SHOWDOWN] 6 heart 4 club A heart 6 diamond 4 heart
-[SHOWDOWN] player Mars_1_5 shows 6 diamond 6 heart A heart A spade 10 diamond, which is two pair.
-[SHOWDOWN] player The Joker_1_3 shows 6 heart 4 club A heart 6 diamond 4 heart, which is two pair.
-[SHOWDOWN] player wereFluke_1_6 shows 9 diamond 6 heart A heart 10 diamond 6 diamond, which is one pair.
-[GAME STAT] pot 0 with 6 chips is shared by 1 players
-[GAME STAT] player Mars_1_5 gets 6 chips from pot 0
-[GAME STAT] overall statistics
-[GAME STAT] player NX01_1_0 wins 0 chips in this game
-[GAME STAT] player Minty_1_1 wins 0 chips in this game
-[GAME STAT] player ssw_1_2 wins 0 chips in this game
-[GAME STAT] player The Joker_1_3 wins -2 chips in this game
-[GAME STAT] player courage_1_4 wins 0 chips in this game
-[GAME STAT] player Mars_1_5 wins 4 chips in this game
-[GAME STAT] player wereFluke_1_6 wins -2 chips in this game
-[GAME STAT] player WaP_1_7 wins 0 chips in this game
-[GAME 1] game ends, invoking player.game_end()
-[GAME 2] game starts
-[GAME INFO] number of participants in this game = 8
-[GAME INFO] participant: NX01_1_0, chip = 3000
-[GAME INFO] participant: Minty_1_1, chip = 3000
-[GAME INFO] participant: ssw_1_2, chip = 3000
-[GAME INFO] participant: The Joker_1_3, chip = 2998
-[GAME INFO] participant: courage_1_4, chip = 3000
-[GAME INFO] participant: Mars_1_5, chip = 3004
-[GAME INFO] participant: wereFluke_1_6, chip = 2998
-[GAME INFO] participant: WaP_1_7, chip = 3000
-[GAME INFO] blind is 1
-[GAME INFO] dealer is Mars_1_5
-[GAME INFO] small blind 1 posted by wereFluke_1_6
-[GAME INFO] big blind 2 posted by WaP_1_7
-[hole card] Q diamond
-[hole card] 2 spade
-[preflop] round starts
-[preflop] player NX01_1_0 has 3000 chips
-[preflop] player Minty_1_1 has 3000 chips
-[preflop] player ssw_1_2 has 3000 chips
-[preflop] player The Joker_1_3 has 2998 chips
-[preflop] player courage_1_4 has 3000 chips
-[preflop] player Mars_1_5 has 3004 chips
-[preflop] player wereFluke_1_6 has 2997 chips
-[preflop] player WaP_1_7 has 2998 chips
-[preflop] player NX01_1_0 folds
-[preflop] player Minty_1_1 folds
-[preflop] player ssw_1_2 folds
-[preflop] action
-[preflop] call (2 chips). 
-[preflop] player The Joker_1_3 calls. Total bet is 2
-[preflop] player courage_1_4 folds
-[preflop] player Mars_1_5 calls. Total bet is 2
-[preflop] player wereFluke_1_6 calls. Total bet is 2
-[preflop] player WaP_1_7 calls. Total bet is 2
-[flop] 9 heart
-[flop] 2 club
-[flop] 8 diamond
-[flop] round starts
-[flop] player NX01_1_0 has 3000 chips
-[flop] player Minty_1_1 has 3000 chips
-[flop] player ssw_1_2 has 3000 chips
-[flop] player The Joker_1_3 has 2996 chips
-[flop] player courage_1_4 has 3000 chips
-[flop] player Mars_1_5 has 3002 chips
-[flop] player wereFluke_1_6 has 2996 chips
-[flop] player WaP_1_7 has 2998 chips
-[flop] player wereFluke_1_6 checks
-[flop] player WaP_1_7 checks
-[flop] action
-[flop] check
-[flop] player The Joker_1_3 checks
-[flop] player Mars_1_5 checks
-[flop] round ends
-[turn] 5 diamond
-[turn] round starts
-[turn] player NX01_1_0 has 3000 chips
-[turn] player Minty_1_1 has 3000 chips
-[turn] player ssw_1_2 has 3000 chips
-[turn] player The Joker_1_3 has 2996 chips
-[turn] player courage_1_4 has 3000 chips
-[turn] player Mars_1_5 has 3002 chips
-[turn] player wereFluke_1_6 has 2996 chips
-[turn] player WaP_1_7 has 2998 chips
-[turn] player wereFluke_1_6 checks
-[turn] player WaP_1_7 checks
-[turn] action
-[turn] check
-[turn] player The Joker_1_3 checks
-[turn] player Mars_1_5 checks
-[turn] round ends
-[river] 7 spade
-[river] round starts
-[river] player NX01_1_0 has 3000 chips
-[river] player Minty_1_1 has 3000 chips
-[river] player ssw_1_2 has 3000 chips
-[river] player The Joker_1_3 has 2996 chips
-[river] player courage_1_4 has 3000 chips
-[river] player Mars_1_5 has 3002 chips
-[river] player wereFluke_1_6 has 2996 chips
-[river] player WaP_1_7 has 2998 chips
-[river] player wereFluke_1_6 checks
-[river] player WaP_1_7 checks
-[river] action
-[river] check
-[river] player The Joker_1_3 checks
-[river] player Mars_1_5 checks
-[river] round ends
-[SHOWDOWN] showdown starts
-[SHOWDOWN] showdown
-[SHOWDOWN] 9 heart 2 club 8 diamond Q diamond 2 spade
-[SHOWDOWN] player WaP_1_7 shows 10 heart 10 diamond 9 heart 8 diamond 7 spade, which is one pair.
-[SHOWDOWN] player Mars_1_5 shows 7 club 7 spade 8 diamond 9 heart A diamond, which is one pair.
-[SHOWDOWN] player The Joker_1_3 shows 9 heart 2 club 8 diamond Q diamond 2 spade, which is one pair.
-[SHOWDOWN] player wereFluke_1_6 shows Q heart 9 heart 8 diamond 5 diamond 7 spade, which is high card.
-[GAME STAT] pot 0 with 8 chips is shared by 1 players
-[GAME STAT] player WaP_1_7 gets 8 chips from pot 0
-[GAME STAT] overall statistics
-[GAME STAT] player NX01_1_0 wins 0 chips in this game
-[GAME STAT] player Minty_1_1 wins 0 chips in this game
-[GAME STAT] player ssw_1_2 wins 0 chips in this game
-[GAME STAT] player The Joker_1_3 wins -2 chips in this game
-[GAME STAT] player courage_1_4 wins 0 chips in this game
-[GAME STAT] player Mars_1_5 wins -2 chips in this game
-[GAME STAT] player wereFluke_1_6 wins -2 chips in this game
-[GAME STAT] player WaP_1_7 wins 6 chips in this game
-[GAME 2] game ends, invoking player.game_end()
-[GAME 3] game starts
-[GAME INFO] number of participants in this game = 8
-[GAME INFO] participant: NX01_1_0, chip = 3000
-[GAME INFO] participant: Minty_1_1, chip = 3000
-[GAME INFO] participant: ssw_1_2, chip = 3000
-[GAME INFO] participant: The Joker_1_3, chip = 2996
-[GAME INFO] participant: courage_1_4, chip = 3000
-[GAME INFO] participant: Mars_1_5, chip = 3002
-[GAME INFO] participant: wereFluke_1_6, chip = 2996
-[GAME INFO] participant: WaP_1_7, chip = 3006
-[GAME INFO] blind is 1
-[GAME INFO] dealer is wereFluke_1_6
-[GAME INFO] small blind 1 posted by WaP_1_7
-[GAME INFO] big blind 2 posted by NX01_1_0
-[hole card] K heart
-[hole card] K club
-[preflop] round starts
-[preflop] player NX01_1_0 has 2998 chips
-[preflop] player Minty_1_1 has 3000 chips
-[preflop] player ssw_1_2 has 3000 chips
-[preflop] player The Joker_1_3 has 2996 chips
-[preflop] player courage_1_4 has 3000 chips
-[preflop] player Mars_1_5 has 3002 chips
-[preflop] player wereFluke_1_6 has 2996 chips
-[preflop] player WaP_1_7 has 3005 chips
-[preflop] player Minty_1_1 folds
-[preflop] player ssw_1_2 folds
-[preflop] action
-[preflop] call (2 chips). 
-[preflop] player The Joker_1_3 calls. Total bet is 2
-[preflop] player courage_1_4 folds
-[preflop] player Mars_1_5 calls. Total bet is 2
-[preflop] player wereFluke_1_6 calls. Total bet is 2
-[preflop] player WaP_1_7 folds
-[preflop] player NX01_1_0 calls. Total bet is 2
-[flop] 10 diamond
-[flop] 5 heart
-[flop] 4 heart
-[flop] round starts
-[flop] player NX01_1_0 has 2998 chips
-[flop] player Minty_1_1 has 3000 chips
-[flop] player ssw_1_2 has 3000 chips
-[flop] player The Joker_1_3 has 2994 chips
-[flop] player courage_1_4 has 3000 chips
-[flop] player Mars_1_5 has 3000 chips
-[flop] player wereFluke_1_6 has 2994 chips
-[flop] player WaP_1_7 has 3005 chips
-[flop] player NX01_1_0 checks
-[flop] action
-[flop] check
-[flop] player The Joker_1_3 checks
-[flop] player Mars_1_5 checks
-[flop] player wereFluke_1_6 checks
-[flop] round ends
-[turn] 3 diamond
-[turn] round starts
-[turn] player NX01_1_0 has 2998 chips
-[turn] player Minty_1_1 has 3000 chips
-[turn] player ssw_1_2 has 3000 chips
-[turn] player The Joker_1_3 has 2994 chips
-[turn] player courage_1_4 has 3000 chips
-[turn] player Mars_1_5 has 3000 chips
-[turn] player wereFluke_1_6 has 2994 chips
-[turn] player WaP_1_7 has 3005 chips
-[turn] player NX01_1_0 checks
-[turn] action
-[turn] check
-[turn] player The Joker_1_3 checks
-[turn] player Mars_1_5 checks
-[turn] player wereFluke_1_6 checks
-[turn] round ends
-[river] 2 spade
-[river] round starts
-[river] player NX01_1_0 has 2998 chips
-[river] player Minty_1_1 has 3000 chips
-[river] player ssw_1_2 has 3000 chips
-[river] player The Joker_1_3 has 2994 chips
-[river] player courage_1_4 has 3000 chips
-[river] player Mars_1_5 has 3000 chips
-[river] player wereFluke_1_6 has 2994 chips
-[river] player WaP_1_7 has 3005 chips
-[river] player NX01_1_0 checks
-[river] action
-[river] check
-[river] player The Joker_1_3 checks
-[river] player Mars_1_5 checks
-[river] player wereFluke_1_6 checks
-[river] round ends
-[SHOWDOWN] showdown starts
-[SHOWDOWN] showdown
-[SHOWDOWN] 10 diamond 5 heart 4 heart K heart K club
-[SHOWDOWN] player The Joker_1_3 shows 10 diamond 5 heart 4 heart K heart K club, which is one pair.
-[SHOWDOWN] player Mars_1_5 shows 4 heart 5 heart J spade 10 club 10 diamond, which is one pair.
-[SHOWDOWN] player NX01_1_0 shows A spade Q spade 10 diamond 5 heart 4 heart, which is high card.
-[SHOWDOWN] player wereFluke_1_6 shows 9 heart A diamond 10 diamond 5 heart 4 heart, which is high card.
-[GAME STAT] pot 0 with 5 chips is shared by 1 players
-[GAME STAT] player The Joker_1_3 gets 5 chips from pot 0
-[GAME STAT] pot 1 with 4 chips is shared by 1 players
-[GAME STAT] player The Joker_1_3 gets 4 chips from pot 1
-[GAME STAT] overall statistics
-[GAME STAT] player NX01_1_0 wins -2 chips in this game
-[GAME STAT] player Minty_1_1 wins 0 chips in this game
-[GAME STAT] player ssw_1_2 wins 0 chips in this game
-[GAME STAT] player The Joker_1_3 wins 7 chips in this game
-[GAME STAT] player courage_1_4 wins 0 chips in this game
-[GAME STAT] player Mars_1_5 wins -2 chips in this game
-[GAME STAT] player wereFluke_1_6 wins -2 chips in this game
-[GAME STAT] player WaP_1_7 wins -1 chips in this game
-[GAME 3] game ends, invoking player.game_end()
-[GAME 4] game starts
-[GAME INFO] number of participants in this game = 8
-[GAME INFO] participant: NX01_1_0, chip = 2998
-[GAME INFO] participant: Minty_1_1, chip = 3000
-[GAME INFO] participant: ssw_1_2, chip = 3000
-[GAME INFO] participant: The Joker_1_3, chip = 3003
-[GAME INFO] participant: courage_1_4, chip = 3000
-[GAME INFO] participant: Mars_1_5, chip = 3000
-[GAME INFO] participant: wereFluke_1_6, chip = 2994
-[GAME INFO] participant: WaP_1_7, chip = 3005
-[GAME INFO] blind is 2
-[GAME INFO] dealer is WaP_1_7
-[GAME INFO] small blind 2 posted by NX01_1_0
-[GAME INFO] big blind 4 posted by Minty_1_1
+[GAME INFO] dealer is WaP_6_7
+[GAME INFO] small blind 1 posted by The Joker_6_0
+[GAME INFO] big blind 2 posted by ssw_6_1
 [hole card] 6 club
-[hole card] Q club
+[hole card] 7 spade
 [preflop] round starts
-[preflop] player NX01_1_0 has 2996 chips
-[preflop] player Minty_1_1 has 2996 chips
-[preflop] player ssw_1_2 has 3000 chips
-[preflop] player The Joker_1_3 has 3003 chips
-[preflop] player courage_1_4 has 3000 chips
-[preflop] player Mars_1_5 has 3000 chips
-[preflop] player wereFluke_1_6 has 2994 chips
-[preflop] player WaP_1_7 has 3005 chips
-[preflop] player ssw_1_2 folds
+[preflop] player The Joker_6_0 has 2999 chips
+[preflop] player ssw_6_1 has 2998 chips
+[preflop] player Juda_6_2 has 3000 chips
+[preflop] player BigNews!_6_3 has 3000 chips
+[preflop] player yi95yi_6_4 has 3000 chips
+[preflop] player Gaotaku_6_5 has 3000 chips
+[preflop] player GiHe_6_6 has 3000 chips
+[preflop] player WaP_6_7 has 3000 chips
+[preflop] player Juda_6_2 folds
+[preflop] player BigNews!_6_3 folds
+[preflop] player yi95yi_6_4 calls. Total bet is 2
+[preflop] player Gaotaku_6_5 calls. Total bet is 2
+[preflop] player GiHe_6_6 calls. Total bet is 2
+[preflop] player WaP_6_7 folds
 [preflop] action
-[preflop] call (4 chips). 
-[preflop] player The Joker_1_3 calls. Total bet is 4
-[preflop] player courage_1_4 folds
-[preflop] player Mars_1_5 calls. Total bet is 4
-[preflop] player wereFluke_1_6 calls. Total bet is 4
-[preflop] player WaP_1_7 folds
-[preflop] player NX01_1_0 calls. Total bet is 4
-[preflop] player Minty_1_1 folds
-[flop] 8 diamond
-[flop] 3 diamond
-[flop] K spade
-[flop] round starts
-[flop] player NX01_1_0 has 2994 chips
-[flop] player Minty_1_1 has 2996 chips
-[flop] player ssw_1_2 has 3000 chips
-[flop] player The Joker_1_3 has 2999 chips
-[flop] player courage_1_4 has 3000 chips
-[flop] player Mars_1_5 has 2996 chips
-[flop] player wereFluke_1_6 has 2990 chips
-[flop] player WaP_1_7 has 3005 chips
-[flop] player NX01_1_0 checks
-[flop] action
-[flop] check
-[flop] player The Joker_1_3 checks
-[flop] player Mars_1_5 checks
-[flop] player wereFluke_1_6 checks
-[flop] round ends
-[turn] A diamond
-[turn] round starts
-[turn] player NX01_1_0 has 2994 chips
-[turn] player Minty_1_1 has 2996 chips
-[turn] player ssw_1_2 has 3000 chips
-[turn] player The Joker_1_3 has 2999 chips
-[turn] player courage_1_4 has 3000 chips
-[turn] player Mars_1_5 has 2996 chips
-[turn] player wereFluke_1_6 has 2990 chips
-[turn] player WaP_1_7 has 3005 chips
-[turn] player NX01_1_0 checks
-[turn] action
-[turn] check
-[turn] player The Joker_1_3 checks
-[turn] player Mars_1_5 checks
-[turn] player wereFluke_1_6 checks
-[turn] round ends
-[river] 5 spade
-[river] round starts
-[river] player NX01_1_0 has 2994 chips
-[river] player Minty_1_1 has 2996 chips
-[river] player ssw_1_2 has 3000 chips
-[river] player The Joker_1_3 has 2999 chips
-[river] player courage_1_4 has 3000 chips
-[river] player Mars_1_5 has 2996 chips
-[river] player wereFluke_1_6 has 2990 chips
-[river] player WaP_1_7 has 3005 chips
-[river] player NX01_1_0 checks
-[river] action
-[river] check
-[river] player The Joker_1_3 checks
-[river] player Mars_1_5 checks
-[river] player wereFluke_1_6 checks
-[river] round ends
-[SHOWDOWN] showdown starts
-[SHOWDOWN] showdown
-[SHOWDOWN] 8 diamond K spade A diamond 6 club Q club
-[SHOWDOWN] player NX01_1_0 shows A club A diamond K spade 8 diamond 6 diamond, which is one pair.
-[SHOWDOWN] player wereFluke_1_6 shows 8 heart 8 diamond K spade A diamond 5 spade, which is one pair.
-[SHOWDOWN] player Mars_1_5 shows 8 diamond A diamond K spade Q spade 10 club, which is high card.
-[SHOWDOWN] player The Joker_1_3 shows 8 diamond K spade A diamond 6 club Q club, which is high card.
-[GAME STAT] pot 0 with 20 chips is shared by 1 players
-[GAME STAT] player NX01_1_0 gets 20 chips from pot 0
-[GAME STAT] overall statistics
-[GAME STAT] player NX01_1_0 wins 16 chips in this game
-[GAME STAT] player Minty_1_1 wins -4 chips in this game
-[GAME STAT] player ssw_1_2 wins 0 chips in this game
-[GAME STAT] player The Joker_1_3 wins -4 chips in this game
-[GAME STAT] player courage_1_4 wins 0 chips in this game
-[GAME STAT] player Mars_1_5 wins -4 chips in this game
-[GAME STAT] player wereFluke_1_6 wins -4 chips in this game
-[GAME STAT] player WaP_1_7 wins 0 chips in this game
-[GAME 4] game ends, invoking player.game_end()
-[GAME 5] game starts
-[GAME INFO] number of participants in this game = 8
-[GAME INFO] participant: NX01_1_0, chip = 3014
-[GAME INFO] participant: Minty_1_1, chip = 2996
-[GAME INFO] participant: ssw_1_2, chip = 3000
-[GAME INFO] participant: The Joker_1_3, chip = 2999
-[GAME INFO] participant: courage_1_4, chip = 3000
-[GAME INFO] participant: Mars_1_5, chip = 2996
-[GAME INFO] participant: wereFluke_1_6, chip = 2990
-[GAME INFO] participant: WaP_1_7, chip = 3005
-[GAME INFO] blind is 2
-[GAME INFO] dealer is NX01_1_0
-[GAME INFO] small blind 2 posted by Minty_1_1
-[GAME INFO] big blind 4 posted by ssw_1_2
-[hole card] K diamond
-[hole card] 9 diamond
-[preflop] round starts
-[preflop] player NX01_1_0 has 3014 chips
-[preflop] player Minty_1_1 has 2994 chips
-[preflop] player ssw_1_2 has 2996 chips
-[preflop] player The Joker_1_3 has 2999 chips
-[preflop] player courage_1_4 has 3000 chips
-[preflop] player Mars_1_5 has 2996 chips
-[preflop] player wereFluke_1_6 has 2990 chips
-[preflop] player WaP_1_7 has 3005 chips
-[preflop] action
-[preflop] call (4 chips). 
-[preflop] player The Joker_1_3 calls. Total bet is 4
-[preflop] player courage_1_4 folds
-[preflop] player Mars_1_5 calls. Total bet is 4
-[preflop] player wereFluke_1_6 calls. Total bet is 4
-[preflop] player WaP_1_7 folds
-[preflop] player NX01_1_0 calls. Total bet is 4
-[preflop] player Minty_1_1 folds
-[preflop] player ssw_1_2 folds
-[flop] Q club
-[flop] 6 diamond
-[flop] 6 spade
-[flop] round starts
-[flop] player NX01_1_0 has 3010 chips
-[flop] player Minty_1_1 has 2994 chips
-[flop] player ssw_1_2 has 2996 chips
-[flop] player The Joker_1_3 has 2995 chips
-[flop] player courage_1_4 has 3000 chips
-[flop] player Mars_1_5 has 2992 chips
-[flop] player wereFluke_1_6 has 2986 chips
-[flop] player WaP_1_7 has 3005 chips
-[flop] action
-[flop] check
-[flop] player The Joker_1_3 checks
-[flop] player Mars_1_5 checks
-[flop] player wereFluke_1_6 checks
-[flop] player NX01_1_0 checks
-[flop] round ends
-[turn] Q diamond
-[turn] round starts
-[turn] player NX01_1_0 has 3010 chips
-[turn] player Minty_1_1 has 2994 chips
-[turn] player ssw_1_2 has 2996 chips
-[turn] player The Joker_1_3 has 2995 chips
-[turn] player courage_1_4 has 3000 chips
-[turn] player Mars_1_5 has 2992 chips
-[turn] player wereFluke_1_6 has 2986 chips
-[turn] player WaP_1_7 has 3005 chips
-[turn] action
-[turn] check
-[turn] player The Joker_1_3 checks
-[turn] player Mars_1_5 checks
-[turn] player wereFluke_1_6 checks
-[turn] player NX01_1_0 checks
-[turn] round ends
-[river] 5 diamond
-[river] round starts
-[river] player NX01_1_0 has 3010 chips
-[river] player Minty_1_1 has 2994 chips
-[river] player ssw_1_2 has 2996 chips
-[river] player The Joker_1_3 has 2995 chips
-[river] player courage_1_4 has 3000 chips
-[river] player Mars_1_5 has 2992 chips
-[river] player wereFluke_1_6 has 2986 chips
-[river] player WaP_1_7 has 3005 chips
-[river] action
-[river] check
-[river] player The Joker_1_3 checks
-[river] player Mars_1_5 checks
-[river] player wereFluke_1_6 checks
-[river] player NX01_1_0 checks
-[river] round ends
-[SHOWDOWN] showdown starts
-[SHOWDOWN] showdown
-[SHOWDOWN] 6 diamond Q diamond 5 diamond K diamond 9 diamond
-[SHOWDOWN] player The Joker_1_3 shows 6 diamond Q diamond 5 diamond K diamond 9 diamond, which is flush.
-[SHOWDOWN] player Mars_1_5 shows 6 diamond 6 spade K heart Q club Q diamond, which is two pair.
-[SHOWDOWN] player NX01_1_0 shows Q diamond Q club 6 spade 6 diamond 5 diamond, which is two pair.
-[SHOWDOWN] player wereFluke_1_6 shows 8 club J heart Q club Q diamond 5 diamond, which is one pair.
-[GAME STAT] pot 0 with 12 chips is shared by 1 players
-[GAME STAT] player The Joker_1_3 gets 12 chips from pot 0
-[GAME STAT] pot 1 with 10 chips is shared by 1 players
-[GAME STAT] player The Joker_1_3 gets 10 chips from pot 1
-[GAME STAT] overall statistics
-[GAME STAT] player NX01_1_0 wins -4 chips in this game
-[GAME STAT] player Minty_1_1 wins -2 chips in this game
-[GAME STAT] player ssw_1_2 wins -4 chips in this game
-[GAME STAT] player The Joker_1_3 wins 18 chips in this game
-[GAME STAT] player courage_1_4 wins 0 chips in this game
-[GAME STAT] player Mars_1_5 wins -4 chips in this game
-[GAME STAT] player wereFluke_1_6 wins -4 chips in this game
-[GAME STAT] player WaP_1_7 wins 0 chips in this game
-[GAME 5] game ends, invoking player.game_end()
-[GAME 6] game starts
-[GAME INFO] number of participants in this game = 8
-[GAME INFO] participant: NX01_1_0, chip = 3010
-[GAME INFO] participant: Minty_1_1, chip = 2994
-[GAME INFO] participant: ssw_1_2, chip = 2996
-[GAME INFO] participant: The Joker_1_3, chip = 3017
-[GAME INFO] participant: courage_1_4, chip = 3000
-[GAME INFO] participant: Mars_1_5, chip = 2992
-[GAME INFO] participant: wereFluke_1_6, chip = 2986
-[GAME INFO] participant: WaP_1_7, chip = 3005
-[GAME INFO] blind is 2
-[GAME INFO] dealer is Minty_1_1
-[GAME INFO] small blind 2 posted by ssw_1_2
-[GAME INFO] big blind 4 posted by The Joker_1_3
-[hole card] 10 spade
-[hole card] 8 spade
-[preflop] round starts
-[preflop] player NX01_1_0 has 3010 chips
-[preflop] player Minty_1_1 has 2994 chips
-[preflop] player ssw_1_2 has 2994 chips
-[preflop] player The Joker_1_3 has 3013 chips
-[preflop] player courage_1_4 has 3000 chips
-[preflop] player Mars_1_5 has 2992 chips
-[preflop] player wereFluke_1_6 has 2986 chips
-[preflop] player WaP_1_7 has 3005 chips
-[preflop] player courage_1_4 folds
-[preflop] player Mars_1_5 folds
-[preflop] player wereFluke_1_6 calls. Total bet is 4
-[preflop] player WaP_1_7 folds
-[preflop] player NX01_1_0 folds
-[preflop] player Minty_1_1 folds
-[preflop] player ssw_1_2 folds
-[preflop] action
-[preflop] call (0 chips). 
-[preflop] player The Joker_1_3 calls. Total bet is 4
-[flop] K club
-[flop] A spade
-[flop] 9 diamond
-[flop] round starts
-[flop] player NX01_1_0 has 3010 chips
-[flop] player Minty_1_1 has 2994 chips
-[flop] player ssw_1_2 has 2994 chips
-[flop] player The Joker_1_3 has 3013 chips
-[flop] player courage_1_4 has 3000 chips
-[flop] player Mars_1_5 has 2992 chips
-[flop] player wereFluke_1_6 has 2982 chips
-[flop] player WaP_1_7 has 3005 chips
-[flop] action
-[flop] check
-[flop] player The Joker_1_3 checks
-[flop] player wereFluke_1_6 checks
-[flop] round ends
-[turn] 9 club
-[turn] round starts
-[turn] player NX01_1_0 has 3010 chips
-[turn] player Minty_1_1 has 2994 chips
-[turn] player ssw_1_2 has 2994 chips
-[turn] player The Joker_1_3 has 3013 chips
-[turn] player courage_1_4 has 3000 chips
-[turn] player Mars_1_5 has 2992 chips
-[turn] player wereFluke_1_6 has 2982 chips
-[turn] player WaP_1_7 has 3005 chips
-[turn] action
-[turn] check
-[turn] player The Joker_1_3 checks
-[turn] player wereFluke_1_6 checks
-[turn] round ends
-[river] J diamond
-[river] round starts
-[river] player NX01_1_0 has 3010 chips
-[river] player Minty_1_1 has 2994 chips
-[river] player ssw_1_2 has 2994 chips
-[river] player The Joker_1_3 has 3013 chips
-[river] player courage_1_4 has 3000 chips
-[river] player Mars_1_5 has 2992 chips
-[river] player wereFluke_1_6 has 2982 chips
-[river] player WaP_1_7 has 3005 chips
-[river] action
-[river] check
-[river] player The Joker_1_3 checks
-[river] player wereFluke_1_6 checks
-[river] round ends
-[SHOWDOWN] showdown starts
-[SHOWDOWN] showdown
-[SHOWDOWN] K club A spade 9 diamond 9 club J diamond
-[SHOWDOWN] player The Joker_1_3 shows K club A spade 9 diamond 9 club J diamond, which is one pair.
-[SHOWDOWN] player wereFluke_1_6 shows K club A spade 9 diamond 9 club J diamond, which is one pair.
-[GAME STAT] pot 0 with 6 chips is shared by 2 players
-[GAME STAT] player wereFluke_1_6 gets 3 chips from pot 0
-[GAME STAT] player The Joker_1_3 gets 3 chips from pot 0
-[GAME STAT] pot 1 with 4 chips is shared by 2 players
-[GAME STAT] player wereFluke_1_6 gets 2 chips from pot 1
-[GAME STAT] player The Joker_1_3 gets 2 chips from pot 1
-[GAME STAT] overall statistics
-[GAME STAT] player NX01_1_0 wins 0 chips in this game
-[GAME STAT] player Minty_1_1 wins 0 chips in this game
-[GAME STAT] player ssw_1_2 wins -2 chips in this game
-[GAME STAT] player The Joker_1_3 wins 1 chips in this game
-[GAME STAT] player courage_1_4 wins 0 chips in this game
-[GAME STAT] player Mars_1_5 wins 0 chips in this game
-[GAME STAT] player wereFluke_1_6 wins 1 chips in this game
-[GAME STAT] player WaP_1_7 wins 0 chips in this game
-[GAME 6] game ends, invoking player.game_end()
-[GAME 7] game starts
-[GAME INFO] number of participants in this game = 8
-[GAME INFO] participant: NX01_1_0, chip = 3010
-[GAME INFO] participant: Minty_1_1, chip = 2994
-[GAME INFO] participant: ssw_1_2, chip = 2994
-[GAME INFO] participant: The Joker_1_3, chip = 3018
-[GAME INFO] participant: courage_1_4, chip = 3000
-[GAME INFO] participant: Mars_1_5, chip = 2992
-[GAME INFO] participant: wereFluke_1_6, chip = 2987
-[GAME INFO] participant: WaP_1_7, chip = 3005
-[GAME INFO] blind is 5
-[GAME INFO] dealer is ssw_1_2
-[GAME INFO] small blind 5 posted by The Joker_1_3
-[GAME INFO] big blind 10 posted by courage_1_4
-[hole card] 4 diamond
-[hole card] 2 heart
-[preflop] round starts
-[preflop] player NX01_1_0 has 3010 chips
-[preflop] player Minty_1_1 has 2994 chips
-[preflop] player ssw_1_2 has 2994 chips
-[preflop] player The Joker_1_3 has 3013 chips
-[preflop] player courage_1_4 has 2990 chips
-[preflop] player Mars_1_5 has 2992 chips
-[preflop] player wereFluke_1_6 has 2987 chips
-[preflop] player WaP_1_7 has 3005 chips
-[preflop] player Mars_1_5 calls. Total bet is 10
-[preflop] player wereFluke_1_6 calls. Total bet is 10
-[preflop] player WaP_1_7 folds
-[preflop] player NX01_1_0 calls. Total bet is 10
-[preflop] player Minty_1_1 folds
-[preflop] player ssw_1_2 folds
-[preflop] action
-[WARNING] CANNOT check when another player has raised
-[preflop] player The Joker_1_3 folds
-[preflop] player courage_1_4 calls. Total bet is 10
-[flop] 3 club
-[flop] 2 club
-[flop] 5 diamond
-[flop] round starts
-[flop] player NX01_1_0 has 3000 chips
-[flop] player Minty_1_1 has 2994 chips
-[flop] player ssw_1_2 has 2994 chips
-[flop] player The Joker_1_3 has 3013 chips
-[flop] player courage_1_4 has 2990 chips
-[flop] player Mars_1_5 has 2982 chips
-[flop] player wereFluke_1_6 has 2977 chips
-[flop] player WaP_1_7 has 3005 chips
-[flop] player courage_1_4 checks
-[flop] player Mars_1_5 checks
-[flop] player wereFluke_1_6 checks
-[flop] player NX01_1_0 checks
-[flop] round ends
-[turn] 3 spade
-[turn] round starts
-[turn] player NX01_1_0 has 3000 chips
-[turn] player Minty_1_1 has 2994 chips
-[turn] player ssw_1_2 has 2994 chips
-[turn] player The Joker_1_3 has 3013 chips
-[turn] player courage_1_4 has 2990 chips
-[turn] player Mars_1_5 has 2982 chips
-[turn] player wereFluke_1_6 has 2977 chips
-[turn] player WaP_1_7 has 3005 chips
-[turn] player courage_1_4 checks
-[turn] player Mars_1_5 checks
-[turn] player wereFluke_1_6 checks
-[turn] player NX01_1_0 checks
-[turn] round ends
-[river] 3 diamond
-[river] round starts
-[river] player NX01_1_0 has 3000 chips
-[river] player Minty_1_1 has 2994 chips
-[river] player ssw_1_2 has 2994 chips
-[river] player The Joker_1_3 has 3013 chips
-[river] player courage_1_4 has 2990 chips
-[river] player Mars_1_5 has 2982 chips
-[river] player wereFluke_1_6 has 2977 chips
-[river] player WaP_1_7 has 3005 chips
-[river] player courage_1_4 goes all in (2990 chips). Total bet is 2990
-[river] player Mars_1_5 folds
-[river] player wereFluke_1_6 folds
-[river] player NX01_1_0 calls. Total bet is 2990
-[SHOWDOWN] showdown starts
-[SHOWDOWN] player NX01_1_0 shows 3 club 3 spade 3 diamond J heart J diamond, which is full house.
-[SHOWDOWN] player courage_1_4 shows 7 club 7 diamond 3 club 3 spade 3 diamond, which is full house.
-[GAME STAT] pot 0 with 25 chips is shared by 1 players
-[GAME STAT] player NX01_1_0 gets 25 chips from pot 0
-[GAME STAT] pot 1 with 20 chips is shared by 1 players
-[GAME STAT] player NX01_1_0 gets 20 chips from pot 1
-[GAME STAT] pot 2 with 5980 chips is shared by 1 players
-[GAME STAT] player NX01_1_0 gets 5980 chips from pot 2
-[GAME STAT] overall statistics
-[GAME STAT] player NX01_1_0 wins 3025 chips in this game
-[GAME STAT] player Minty_1_1 wins 0 chips in this game
-[GAME STAT] player ssw_1_2 wins 0 chips in this game
-[GAME STAT] player The Joker_1_3 wins -5 chips in this game
-[GAME STAT] player courage_1_4 wins -3000 chips in this game
-[GAME STAT] player Mars_1_5 wins -10 chips in this game
-[GAME STAT] player wereFluke_1_6 wins -10 chips in this game
-[GAME STAT] player WaP_1_7 wins 0 chips in this game
-[GAME 7] game ends, invoking player.game_end()
-[GAME 8] game starts
-[GAME INFO] number of participants in this game = 7
-[GAME INFO] participant: NX01_1_0, chip = 6035
-[GAME INFO] participant: Minty_1_1, chip = 2994
-[GAME INFO] participant: ssw_1_2, chip = 2994
-[GAME INFO] participant: The Joker_1_3, chip = 3013
-[GAME INFO] participant: Mars_1_5, chip = 2982
-[GAME INFO] participant: wereFluke_1_6, chip = 2977
-[GAME INFO] participant: WaP_1_7, chip = 3005
-[GAME INFO] blind is 5
-[GAME INFO] dealer is The Joker_1_3
-[GAME INFO] small blind 5 posted by Mars_1_5
-[GAME INFO] big blind 10 posted by wereFluke_1_6
-[hole card] Q club
-[hole card] J diamond
-[preflop] round starts
-[preflop] player NX01_1_0 has 6035 chips
-[preflop] player Minty_1_1 has 2994 chips
-[preflop] player ssw_1_2 has 2994 chips
-[preflop] player The Joker_1_3 has 3013 chips
-[preflop] player Mars_1_5 has 2977 chips
-[preflop] player wereFluke_1_6 has 2967 chips
-[preflop] player WaP_1_7 has 3005 chips
-[preflop] player WaP_1_7 folds
-[preflop] player NX01_1_0 folds
-[preflop] player Minty_1_1 folds
-[preflop] player ssw_1_2 folds
-[preflop] action
-[preflop] call (10 chips). 
-[preflop] player The Joker_1_3 calls. Total bet is 10
-[preflop] player Mars_1_5 folds
-[preflop] player wereFluke_1_6 calls. Total bet is 10
-[flop] 10 spade
-[flop] 2 club
-[flop] 8 club
-[flop] round starts
-[flop] player NX01_1_0 has 6035 chips
-[flop] player Minty_1_1 has 2994 chips
-[flop] player ssw_1_2 has 2994 chips
-[flop] player The Joker_1_3 has 3003 chips
-[flop] player Mars_1_5 has 2977 chips
-[flop] player wereFluke_1_6 has 2967 chips
-[flop] player WaP_1_7 has 3005 chips
-[flop] player wereFluke_1_6 checks
-[flop] action
-[flop] check
-[flop] player The Joker_1_3 checks
-[flop] round ends
-[turn] 6 heart
-[turn] round starts
-[turn] player NX01_1_0 has 6035 chips
-[turn] player Minty_1_1 has 2994 chips
-[turn] player ssw_1_2 has 2994 chips
-[turn] player The Joker_1_3 has 3003 chips
-[turn] player Mars_1_5 has 2977 chips
-[turn] player wereFluke_1_6 has 2967 chips
-[turn] player WaP_1_7 has 3005 chips
-[turn] player wereFluke_1_6 checks
-[turn] action
-[turn] check
-[turn] player The Joker_1_3 checks
-[turn] round ends
-[river] A club
-[river] round starts
-[river] player NX01_1_0 has 6035 chips
-[river] player Minty_1_1 has 2994 chips
-[river] player ssw_1_2 has 2994 chips
-[river] player The Joker_1_3 has 3003 chips
-[river] player Mars_1_5 has 2977 chips
-[river] player wereFluke_1_6 has 2967 chips
-[river] player WaP_1_7 has 3005 chips
-[river] player wereFluke_1_6 checks
-[river] action
-[river] check
-[river] player The Joker_1_3 checks
-[river] round ends
-[SHOWDOWN] showdown starts
-[SHOWDOWN] showdown
-[SHOWDOWN] 10 spade 8 club A club Q club J diamond
-[SHOWDOWN] player wereFluke_1_6 shows 10 club 10 spade 8 club 6 heart A club, which is one pair.
-[SHOWDOWN] player The Joker_1_3 shows 10 spade 8 club A club Q club J diamond, which is high card.
-[GAME STAT] pot 0 with 15 chips is shared by 1 players
-[GAME STAT] player wereFluke_1_6 gets 15 chips from pot 0
-[GAME STAT] pot 1 with 10 chips is shared by 1 players
-[GAME STAT] player wereFluke_1_6 gets 10 chips from pot 1
-[GAME STAT] overall statistics
-[GAME STAT] player NX01_1_0 wins 0 chips in this game
-[GAME STAT] player Minty_1_1 wins 0 chips in this game
-[GAME STAT] player ssw_1_2 wins 0 chips in this game
-[GAME STAT] player The Joker_1_3 wins -10 chips in this game
-[GAME STAT] player Mars_1_5 wins -5 chips in this game
-[GAME STAT] player wereFluke_1_6 wins 15 chips in this game
-[GAME STAT] player WaP_1_7 wins 0 chips in this game
-[GAME 8] game ends, invoking player.game_end()
-[GAME 9] game starts
-[GAME INFO] number of participants in this game = 7
-[GAME INFO] participant: NX01_1_0, chip = 6035
-[GAME INFO] participant: Minty_1_1, chip = 2994
-[GAME INFO] participant: ssw_1_2, chip = 2994
-[GAME INFO] participant: The Joker_1_3, chip = 3003
-[GAME INFO] participant: Mars_1_5, chip = 2977
-[GAME INFO] participant: wereFluke_1_6, chip = 2992
-[GAME INFO] participant: WaP_1_7, chip = 3005
-[GAME INFO] blind is 5
-[GAME INFO] dealer is Mars_1_5
-[GAME INFO] small blind 5 posted by wereFluke_1_6
-[GAME INFO] big blind 10 posted by WaP_1_7
-[hole card] K club
-[hole card] 9 spade
-[preflop] round starts
-[preflop] player NX01_1_0 has 6035 chips
-[preflop] player Minty_1_1 has 2994 chips
-[preflop] player ssw_1_2 has 2994 chips
-[preflop] player The Joker_1_3 has 3003 chips
-[preflop] player Mars_1_5 has 2977 chips
-[preflop] player wereFluke_1_6 has 2987 chips
-[preflop] player WaP_1_7 has 2995 chips
-[preflop] player NX01_1_0 folds
-[preflop] player Minty_1_1 folds
-[preflop] player ssw_1_2 folds
-[preflop] action
-[preflop] call (10 chips). 
-[preflop] player The Joker_1_3 calls. Total bet is 10
-[preflop] player Mars_1_5 calls. Total bet is 10
-[preflop] player wereFluke_1_6 calls. Total bet is 10
-[preflop] player WaP_1_7 calls. Total bet is 10
-[flop] 5 diamond
-[flop] Q diamond
-[flop] 4 spade
-[flop] round starts
-[flop] player NX01_1_0 has 6035 chips
-[flop] player Minty_1_1 has 2994 chips
-[flop] player ssw_1_2 has 2994 chips
-[flop] player The Joker_1_3 has 2993 chips
-[flop] player Mars_1_5 has 2967 chips
-[flop] player wereFluke_1_6 has 2982 chips
-[flop] player WaP_1_7 has 2995 chips
-[flop] player wereFluke_1_6 checks
-[flop] player WaP_1_7 checks
-[flop] action
-[flop] check
-[flop] player The Joker_1_3 checks
-[flop] player Mars_1_5 checks
-[flop] round ends
-[turn] Q heart
-[turn] round starts
-[turn] player NX01_1_0 has 6035 chips
-[turn] player Minty_1_1 has 2994 chips
-[turn] player ssw_1_2 has 2994 chips
-[turn] player The Joker_1_3 has 2993 chips
-[turn] player Mars_1_5 has 2967 chips
-[turn] player wereFluke_1_6 has 2982 chips
-[turn] player WaP_1_7 has 2995 chips
-[turn] player wereFluke_1_6 checks
-[turn] player WaP_1_7 checks
-[turn] action
-[turn] check
-[turn] player The Joker_1_3 checks
-[turn] player Mars_1_5 checks
-[turn] round ends
-[river] 6 diamond
-[river] round starts
-[river] player NX01_1_0 has 6035 chips
-[river] player Minty_1_1 has 2994 chips
-[river] player ssw_1_2 has 2994 chips
-[river] player The Joker_1_3 has 2993 chips
-[river] player Mars_1_5 has 2967 chips
-[river] player wereFluke_1_6 has 2982 chips
-[river] player WaP_1_7 has 2995 chips
-[river] player wereFluke_1_6 checks
-[river] player WaP_1_7 checks
-[river] action
-[river] check
-[river] player The Joker_1_3 checks
-[river] player Mars_1_5 checks
-[river] round ends
-[SHOWDOWN] showdown starts
-[SHOWDOWN] showdown
-[SHOWDOWN] Q diamond Q heart 6 diamond K club 9 spade
-[SHOWDOWN] player WaP_1_7 shows Q diamond Q heart 10 diamond 4 club 4 spade, which is two pair.
-[SHOWDOWN] player Mars_1_5 shows 6 diamond A heart Q diamond Q heart 10 club, which is one pair.
-[SHOWDOWN] player The Joker_1_3 shows Q diamond Q heart 6 diamond K club 9 spade, which is one pair.
-[SHOWDOWN] player wereFluke_1_6 shows J diamond 7 heart Q diamond Q heart 6 diamond, which is one pair.
-[GAME STAT] pot 0 with 40 chips is shared by 1 players
-[GAME STAT] player WaP_1_7 gets 40 chips from pot 0
-[GAME STAT] overall statistics
-[GAME STAT] player NX01_1_0 wins 0 chips in this game
-[GAME STAT] player Minty_1_1 wins 0 chips in this game
-[GAME STAT] player ssw_1_2 wins 0 chips in this game
-[GAME STAT] player The Joker_1_3 wins -10 chips in this game
-[GAME STAT] player Mars_1_5 wins -10 chips in this game
-[GAME STAT] player wereFluke_1_6 wins -10 chips in this game
-[GAME STAT] player WaP_1_7 wins 30 chips in this game
-[GAME 9] game ends, invoking player.game_end()
-[GAME 10] game starts
-[GAME INFO] number of participants in this game = 7
-[GAME INFO] participant: NX01_1_0, chip = 6035
-[GAME INFO] participant: Minty_1_1, chip = 2994
-[GAME INFO] participant: ssw_1_2, chip = 2994
-[GAME INFO] participant: The Joker_1_3, chip = 2993
-[GAME INFO] participant: Mars_1_5, chip = 2967
-[GAME INFO] participant: wereFluke_1_6, chip = 2982
-[GAME INFO] participant: WaP_1_7, chip = 3035
-[GAME INFO] blind is 10
-[GAME INFO] dealer is wereFluke_1_6
-[GAME INFO] small blind 10 posted by WaP_1_7
-[GAME INFO] big blind 20 posted by NX01_1_0
-[hole card] 3 club
-[hole card] 9 diamond
-[preflop] round starts
-[preflop] player NX01_1_0 has 6015 chips
-[preflop] player Minty_1_1 has 2994 chips
-[preflop] player ssw_1_2 has 2994 chips
-[preflop] player The Joker_1_3 has 2993 chips
-[preflop] player Mars_1_5 has 2967 chips
-[preflop] player wereFluke_1_6 has 2982 chips
-[preflop] player WaP_1_7 has 3025 chips
-[preflop] player Minty_1_1 folds
-[preflop] player ssw_1_2 folds
-[preflop] action
-[WARNING] CANNOT check when another player has raised
-[preflop] player The Joker_1_3 folds
-[preflop] player Mars_1_5 calls. Total bet is 20
-[preflop] player wereFluke_1_6 calls. Total bet is 20
-[preflop] player WaP_1_7 folds
-[preflop] player NX01_1_0 folds
-[flop] 2 diamond
-[flop] A club
-[flop] 5 diamond
-[flop] round starts
-[flop] player NX01_1_0 has 6015 chips
-[flop] player Minty_1_1 has 2994 chips
-[flop] player ssw_1_2 has 2994 chips
-[flop] player The Joker_1_3 has 2993 chips
-[flop] player Mars_1_5 has 2947 chips
-[flop] player wereFluke_1_6 has 2962 chips
-[flop] player WaP_1_7 has 3025 chips
-[flop] player Mars_1_5 checks
-[flop] player wereFluke_1_6 checks
-[flop] round ends
-[turn] Q diamond
-[turn] round starts
-[turn] player NX01_1_0 has 6015 chips
-[turn] player Minty_1_1 has 2994 chips
-[turn] player ssw_1_2 has 2994 chips
-[turn] player The Joker_1_3 has 2993 chips
-[turn] player Mars_1_5 has 2947 chips
-[turn] player wereFluke_1_6 has 2962 chips
-[turn] player WaP_1_7 has 3025 chips
-[turn] player Mars_1_5 checks
-[turn] player wereFluke_1_6 checks
-[turn] round ends
-[river] 8 diamond
-[river] round starts
-[river] player NX01_1_0 has 6015 chips
-[river] player Minty_1_1 has 2994 chips
-[river] player ssw_1_2 has 2994 chips
-[river] player The Joker_1_3 has 2993 chips
-[river] player Mars_1_5 has 2947 chips
-[river] player wereFluke_1_6 has 2962 chips
-[river] player WaP_1_7 has 3025 chips
-[river] player Mars_1_5 raises 1463. Total bet is 1463
-[river] player wereFluke_1_6 folds
-[GAME STAT] pot 0 with 40 chips is shared by 1 players
-[GAME STAT] player Mars_1_5 gets 40 chips from pot 0
-[GAME STAT] pot 1 with 30 chips is shared by 1 players
-[GAME STAT] player Mars_1_5 gets 30 chips from pot 1
-[GAME STAT] pot 2 with 1463 chips is shared by 1 players
-[GAME STAT] player Mars_1_5 gets 1463 chips from pot 2
-[GAME STAT] overall statistics
-[GAME STAT] player NX01_1_0 wins -20 chips in this game
-[GAME STAT] player Minty_1_1 wins 0 chips in this game
-[GAME STAT] player ssw_1_2 wins 0 chips in this game
-[GAME STAT] player The Joker_1_3 wins 0 chips in this game
-[GAME STAT] player Mars_1_5 wins 50 chips in this game
-[GAME STAT] player wereFluke_1_6 wins -20 chips in this game
-[GAME STAT] player WaP_1_7 wins -10 chips in this game
-[GAME 10] game ends, invoking player.game_end()
-[GAME 11] game starts
-[GAME INFO] number of participants in this game = 7
-[GAME INFO] participant: NX01_1_0, chip = 6015
-[GAME INFO] participant: Minty_1_1, chip = 2994
-[GAME INFO] participant: ssw_1_2, chip = 2994
-[GAME INFO] participant: The Joker_1_3, chip = 2993
-[GAME INFO] participant: Mars_1_5, chip = 3017
-[GAME INFO] participant: wereFluke_1_6, chip = 2962
-[GAME INFO] participant: WaP_1_7, chip = 3025
-[GAME INFO] blind is 10
-[GAME INFO] dealer is WaP_1_7
-[GAME INFO] small blind 10 posted by NX01_1_0
-[GAME INFO] big blind 20 posted by Minty_1_1
-[hole card] 10 diamond
-[hole card] Q spade
-[preflop] round starts
-[preflop] player NX01_1_0 has 6005 chips
-[preflop] player Minty_1_1 has 2974 chips
-[preflop] player ssw_1_2 has 2994 chips
-[preflop] player The Joker_1_3 has 2993 chips
-[preflop] player Mars_1_5 has 3017 chips
-[preflop] player wereFluke_1_6 has 2962 chips
-[preflop] player WaP_1_7 has 3025 chips
-[preflop] player ssw_1_2 folds
-[preflop] action
-[preflop] call (20 chips). 
-[preflop] player The Joker_1_3 calls. Total bet is 20
-[preflop] player Mars_1_5 folds
-[preflop] player wereFluke_1_6 calls. Total bet is 20
-[preflop] player WaP_1_7 folds
-[preflop] player NX01_1_0 folds
-[preflop] player Minty_1_1 folds
-[flop] 4 heart
+[preflop] call (1 chips). 
+[preflop] player The Joker_6_0 calls. Total bet is 2
+[preflop] player ssw_6_1 calls. Total bet is 2
+[flop] 7 heart
 [flop] 8 heart
-[flop] 10 heart
-[flop] round starts
-[flop] player NX01_1_0 has 6005 chips
-[flop] player Minty_1_1 has 2974 chips
-[flop] player ssw_1_2 has 2994 chips
-[flop] player The Joker_1_3 has 2973 chips
-[flop] player Mars_1_5 has 3017 chips
-[flop] player wereFluke_1_6 has 2942 chips
-[flop] player WaP_1_7 has 3025 chips
-[flop] action
-[flop] check
-[flop] player The Joker_1_3 checks
-[flop] player wereFluke_1_6 checks
-[flop] round ends
-[turn] J spade
-[turn] round starts
-[turn] player NX01_1_0 has 6005 chips
-[turn] player Minty_1_1 has 2974 chips
-[turn] player ssw_1_2 has 2994 chips
-[turn] player The Joker_1_3 has 2973 chips
-[turn] player Mars_1_5 has 3017 chips
-[turn] player wereFluke_1_6 has 2942 chips
-[turn] player WaP_1_7 has 3025 chips
-[turn] action
-[turn] check
-[turn] player The Joker_1_3 checks
-[turn] player wereFluke_1_6 checks
-[turn] round ends
-[river] 9 club
-[river] round starts
-[river] player NX01_1_0 has 6005 chips
-[river] player Minty_1_1 has 2974 chips
-[river] player ssw_1_2 has 2994 chips
-[river] player The Joker_1_3 has 2973 chips
-[river] player Mars_1_5 has 3017 chips
-[river] player wereFluke_1_6 has 2942 chips
-[river] player WaP_1_7 has 3025 chips
-[river] action
-[river] check
-[river] player The Joker_1_3 checks
-[river] player wereFluke_1_6 checks
-[river] round ends
-[SHOWDOWN] showdown starts
-[SHOWDOWN] showdown
-[SHOWDOWN] 8 heart J spade 9 club 10 diamond Q spade
-[SHOWDOWN] player The Joker_1_3 shows 8 heart J spade 9 club 10 diamond Q spade, which is straight.
-[SHOWDOWN] player wereFluke_1_6 shows 4 club 4 heart 10 heart J spade 9 club, which is one pair.
-[GAME STAT] pot 0 with 40 chips is shared by 1 players
-[GAME STAT] player The Joker_1_3 gets 40 chips from pot 0
-[GAME STAT] pot 1 with 30 chips is shared by 1 players
-[GAME STAT] player The Joker_1_3 gets 30 chips from pot 1
-[GAME STAT] overall statistics
-[GAME STAT] player NX01_1_0 wins -10 chips in this game
-[GAME STAT] player Minty_1_1 wins -20 chips in this game
-[GAME STAT] player ssw_1_2 wins 0 chips in this game
-[GAME STAT] player The Joker_1_3 wins 50 chips in this game
-[GAME STAT] player Mars_1_5 wins 0 chips in this game
-[GAME STAT] player wereFluke_1_6 wins -20 chips in this game
-[GAME STAT] player WaP_1_7 wins 0 chips in this game
-[GAME 11] game ends, invoking player.game_end()
-[GAME 12] game starts
-[GAME INFO] number of participants in this game = 7
-[GAME INFO] participant: NX01_1_0, chip = 6005
-[GAME INFO] participant: Minty_1_1, chip = 2974
-[GAME INFO] participant: ssw_1_2, chip = 2994
-[GAME INFO] participant: The Joker_1_3, chip = 3043
-[GAME INFO] participant: Mars_1_5, chip = 3017
-[GAME INFO] participant: wereFluke_1_6, chip = 2942
-[GAME INFO] participant: WaP_1_7, chip = 3025
-[GAME INFO] blind is 10
-[GAME INFO] dealer is NX01_1_0
-[GAME INFO] small blind 10 posted by Minty_1_1
-[GAME INFO] big blind 20 posted by ssw_1_2
-[hole card] 4 spade
-[hole card] 9 spade
-[preflop] round starts
-[preflop] player NX01_1_0 has 6005 chips
-[preflop] player Minty_1_1 has 2964 chips
-[preflop] player ssw_1_2 has 2974 chips
-[preflop] player The Joker_1_3 has 3043 chips
-[preflop] player Mars_1_5 has 3017 chips
-[preflop] player wereFluke_1_6 has 2942 chips
-[preflop] player WaP_1_7 has 3025 chips
-[preflop] action
-[WARNING] CANNOT check when another player has raised
-[preflop] player The Joker_1_3 folds
-[preflop] player Mars_1_5 calls. Total bet is 20
-[preflop] player wereFluke_1_6 calls. Total bet is 20
-[preflop] player WaP_1_7 calls. Total bet is 20
-[preflop] player NX01_1_0 folds
-[preflop] player Minty_1_1 folds
-[preflop] player ssw_1_2 goes all in (2974 chips). Total bet is 2994
-[preflop] player Mars_1_5 folds
-[preflop] player wereFluke_1_6 folds
-[preflop] player WaP_1_7 calls. Total bet is 2994
-[flop] 5 spade
-[flop] J diamond
 [flop] 3 club
 [flop] round starts
-[flop] player NX01_1_0 has 6005 chips
-[flop] player Minty_1_1 has 2964 chips
-[flop] player ssw_1_2 has 0 chips
-[flop] player The Joker_1_3 has 3043 chips
-[flop] player Mars_1_5 has 2997 chips
-[flop] player wereFluke_1_6 has 2922 chips
-[flop] player WaP_1_7 has 31 chips
-[flop] player ssw_1_2 checks
-[flop] player WaP_1_7 checks
-[flop] round ends
-[turn] 10 spade
-[turn] round starts
-[turn] player NX01_1_0 has 6005 chips
-[turn] player Minty_1_1 has 2964 chips
-[turn] player ssw_1_2 has 0 chips
-[turn] player The Joker_1_3 has 3043 chips
-[turn] player Mars_1_5 has 2997 chips
-[turn] player wereFluke_1_6 has 2922 chips
-[turn] player WaP_1_7 has 31 chips
-[turn] player ssw_1_2 checks
-[turn] player WaP_1_7 checks
-[turn] round ends
-[river] 5 club
-[river] round starts
-[river] player NX01_1_0 has 6005 chips
-[river] player Minty_1_1 has 2964 chips
-[river] player ssw_1_2 has 0 chips
-[river] player The Joker_1_3 has 3043 chips
-[river] player Mars_1_5 has 2997 chips
-[river] player wereFluke_1_6 has 2922 chips
-[river] player WaP_1_7 has 31 chips
-[river] player ssw_1_2 checks
-[river] player WaP_1_7 checks
-[river] round ends
-[SHOWDOWN] showdown starts
-[SHOWDOWN] player WaP_1_7 shows A spade A heart 5 spade 5 club 3 club, which is two pair.
-[SHOWDOWN] player ssw_1_2 shows K diamond K club 5 spade J diamond 5 club, which is two pair.
-[GAME STAT] pot 0 with 50 chips is shared by 1 players
-[GAME STAT] player WaP_1_7 gets 50 chips from pot 0
-[GAME STAT] pot 1 with 40 chips is shared by 1 players
-[GAME STAT] player WaP_1_7 gets 40 chips from pot 1
-[GAME STAT] pot 2 with 5948 chips is shared by 1 players
-[GAME STAT] player WaP_1_7 gets 5948 chips from pot 2
-[GAME STAT] overall statistics
-[GAME STAT] player NX01_1_0 wins 0 chips in this game
-[GAME STAT] player Minty_1_1 wins -10 chips in this game
-[GAME STAT] player ssw_1_2 wins -2994 chips in this game
-[GAME STAT] player The Joker_1_3 wins 0 chips in this game
-[GAME STAT] player Mars_1_5 wins -20 chips in this game
-[GAME STAT] player wereFluke_1_6 wins -20 chips in this game
-[GAME STAT] player WaP_1_7 wins 3044 chips in this game
-[GAME 12] game ends, invoking player.game_end()
-[GAME 13] game starts
-[GAME INFO] number of participants in this game = 6
-[GAME INFO] participant: NX01_1_0, chip = 6005
-[GAME INFO] participant: Minty_1_1, chip = 2964
-[GAME INFO] participant: The Joker_1_3, chip = 3043
-[GAME INFO] participant: Mars_1_5, chip = 2997
-[GAME INFO] participant: wereFluke_1_6, chip = 2922
-[GAME INFO] participant: WaP_1_7, chip = 6069
-[GAME INFO] blind is 20
-[GAME INFO] dealer is Minty_1_1
-[GAME INFO] small blind 20 posted by The Joker_1_3
-[GAME INFO] big blind 40 posted by Mars_1_5
-[hole card] 10 spade
-[hole card] 2 diamond
-[preflop] round starts
-[preflop] player NX01_1_0 has 6005 chips
-[preflop] player Minty_1_1 has 2964 chips
-[preflop] player The Joker_1_3 has 3023 chips
-[preflop] player Mars_1_5 has 2957 chips
-[preflop] player wereFluke_1_6 has 2922 chips
-[preflop] player WaP_1_7 has 6069 chips
-[preflop] player wereFluke_1_6 calls. Total bet is 40
-[preflop] player WaP_1_7 folds
-[preflop] player NX01_1_0 calls. Total bet is 40
-[preflop] player Minty_1_1 folds
-[preflop] action
-[WARNING] CANNOT check when another player has raised
-[preflop] player The Joker_1_3 folds
-[preflop] player Mars_1_5 calls. Total bet is 40
-[flop] 6 heart
-[flop] 7 club
-[flop] 5 diamond
-[flop] round starts
-[flop] player NX01_1_0 has 5965 chips
-[flop] player Minty_1_1 has 2964 chips
-[flop] player The Joker_1_3 has 3023 chips
-[flop] player Mars_1_5 has 2957 chips
-[flop] player wereFluke_1_6 has 2882 chips
-[flop] player WaP_1_7 has 6069 chips
-[flop] player Mars_1_5 checks
-[flop] player wereFluke_1_6 checks
-[flop] player NX01_1_0 checks
-[flop] round ends
-[turn] 5 club
-[turn] round starts
-[turn] player NX01_1_0 has 5965 chips
-[turn] player Minty_1_1 has 2964 chips
-[turn] player The Joker_1_3 has 3023 chips
-[turn] player Mars_1_5 has 2957 chips
-[turn] player wereFluke_1_6 has 2882 chips
-[turn] player WaP_1_7 has 6069 chips
-[turn] player Mars_1_5 checks
-[turn] player wereFluke_1_6 checks
-[turn] player NX01_1_0 checks
-[turn] round ends
-[river] 4 club
-[river] round starts
-[river] player NX01_1_0 has 5965 chips
-[river] player Minty_1_1 has 2964 chips
-[river] player The Joker_1_3 has 3023 chips
-[river] player Mars_1_5 has 2957 chips
-[river] player wereFluke_1_6 has 2882 chips
-[river] player WaP_1_7 has 6069 chips
-[river] player Mars_1_5 checks
-[river] player wereFluke_1_6 checks
-[river] player NX01_1_0 checks
-[river] round ends
-[SHOWDOWN] showdown starts
-[SHOWDOWN] player NX01_1_0 shows 8 diamond 7 club 6 heart 5 club 4 club, which is straight.
-[SHOWDOWN] player wereFluke_1_6 shows 8 spade 6 heart 7 club 5 diamond 4 club, which is straight.
-[SHOWDOWN] player Mars_1_5 shows 5 club 5 diamond 7 club K club Q spade, which is one pair.
-[GAME STAT] pot 0 with 80 chips is shared by 2 players
-[GAME STAT] player wereFluke_1_6 gets 40 chips from pot 0
-[GAME STAT] player NX01_1_0 gets 40 chips from pot 0
-[GAME STAT] pot 1 with 60 chips is shared by 2 players
-[GAME STAT] player wereFluke_1_6 gets 30 chips from pot 1
-[GAME STAT] player NX01_1_0 gets 30 chips from pot 1
-[GAME STAT] overall statistics
-[GAME STAT] player NX01_1_0 wins 30 chips in this game
-[GAME STAT] player Minty_1_1 wins 0 chips in this game
-[GAME STAT] player The Joker_1_3 wins -20 chips in this game
-[GAME STAT] player Mars_1_5 wins -40 chips in this game
-[GAME STAT] player wereFluke_1_6 wins 30 chips in this game
-[GAME STAT] player WaP_1_7 wins 0 chips in this game
-[GAME 13] game ends, invoking player.game_end()
-[GAME 14] game starts
-[GAME INFO] number of participants in this game = 6
-[GAME INFO] participant: NX01_1_0, chip = 6035
-[GAME INFO] participant: Minty_1_1, chip = 2964
-[GAME INFO] participant: The Joker_1_3, chip = 3023
-[GAME INFO] participant: Mars_1_5, chip = 2957
-[GAME INFO] participant: wereFluke_1_6, chip = 2952
-[GAME INFO] participant: WaP_1_7, chip = 6069
-[GAME INFO] blind is 20
-[GAME INFO] dealer is The Joker_1_3
-[GAME INFO] small blind 20 posted by Mars_1_5
-[GAME INFO] big blind 40 posted by wereFluke_1_6
-[hole card] 5 club
-[hole card] J spade
-[preflop] round starts
-[preflop] player NX01_1_0 has 6035 chips
-[preflop] player Minty_1_1 has 2964 chips
-[preflop] player The Joker_1_3 has 3023 chips
-[preflop] player Mars_1_5 has 2937 chips
-[preflop] player wereFluke_1_6 has 2912 chips
-[preflop] player WaP_1_7 has 6069 chips
-[preflop] player WaP_1_7 folds
-[preflop] player NX01_1_0 folds
-[preflop] player Minty_1_1 folds
-[preflop] action
-[WARNING] CANNOT check when another player has raised
-[preflop] player The Joker_1_3 folds
-[preflop] player Mars_1_5 folds
-[GAME STAT] pot 0 with 40 chips is shared by 1 players
-[GAME STAT] player wereFluke_1_6 gets 40 chips from pot 0
-[GAME STAT] pot 1 with 20 chips is shared by 1 players
-[GAME STAT] player wereFluke_1_6 gets 20 chips from pot 1
-[GAME STAT] overall statistics
-[GAME STAT] player NX01_1_0 wins 0 chips in this game
-[GAME STAT] player Minty_1_1 wins 0 chips in this game
-[GAME STAT] player The Joker_1_3 wins 0 chips in this game
-[GAME STAT] player Mars_1_5 wins -20 chips in this game
-[GAME STAT] player wereFluke_1_6 wins 20 chips in this game
-[GAME STAT] player WaP_1_7 wins 0 chips in this game
-[GAME 14] game ends, invoking player.game_end()
-[GAME 15] game starts
-[GAME INFO] number of participants in this game = 6
-[GAME INFO] participant: NX01_1_0, chip = 6035
-[GAME INFO] participant: Minty_1_1, chip = 2964
-[GAME INFO] participant: The Joker_1_3, chip = 3023
-[GAME INFO] participant: Mars_1_5, chip = 2937
-[GAME INFO] participant: wereFluke_1_6, chip = 2972
-[GAME INFO] participant: WaP_1_7, chip = 6069
-[GAME INFO] blind is 20
-[GAME INFO] dealer is Mars_1_5
-[GAME INFO] small blind 20 posted by wereFluke_1_6
-[GAME INFO] big blind 40 posted by WaP_1_7
-[hole card] 5 heart
-[hole card] 8 club
-[preflop] round starts
-[preflop] player NX01_1_0 has 6035 chips
-[preflop] player Minty_1_1 has 2964 chips
-[preflop] player The Joker_1_3 has 3023 chips
-[preflop] player Mars_1_5 has 2937 chips
-[preflop] player wereFluke_1_6 has 2952 chips
-[preflop] player WaP_1_7 has 6029 chips
-[preflop] player NX01_1_0 folds
-[preflop] player Minty_1_1 folds
-[preflop] action
-[WARNING] CANNOT check when another player has raised
-[preflop] player The Joker_1_3 folds
-[preflop] player Mars_1_5 calls. Total bet is 40
-[preflop] player wereFluke_1_6 calls. Total bet is 40
-[preflop] player WaP_1_7 calls. Total bet is 40
-[flop] 2 club
-[flop] 3 diamond
-[flop] 9 spade
-[flop] round starts
-[flop] player NX01_1_0 has 6035 chips
-[flop] player Minty_1_1 has 2964 chips
-[flop] player The Joker_1_3 has 3023 chips
-[flop] player Mars_1_5 has 2897 chips
-[flop] player wereFluke_1_6 has 2932 chips
-[flop] player WaP_1_7 has 6029 chips
-[flop] player wereFluke_1_6 checks
-[flop] player WaP_1_7 checks
-[flop] player Mars_1_5 checks
-[flop] round ends
-[turn] Q club
-[turn] round starts
-[turn] player NX01_1_0 has 6035 chips
-[turn] player Minty_1_1 has 2964 chips
-[turn] player The Joker_1_3 has 3023 chips
-[turn] player Mars_1_5 has 2897 chips
-[turn] player wereFluke_1_6 has 2932 chips
-[turn] player WaP_1_7 has 6029 chips
-[turn] player wereFluke_1_6 checks
-[turn] player WaP_1_7 checks
-[turn] player Mars_1_5 checks
-[turn] round ends
-[river] 10 spade
-[river] round starts
-[river] player NX01_1_0 has 6035 chips
-[river] player Minty_1_1 has 2964 chips
-[river] player The Joker_1_3 has 3023 chips
-[river] player Mars_1_5 has 2897 chips
-[river] player wereFluke_1_6 has 2932 chips
-[river] player WaP_1_7 has 6029 chips
-[river] player wereFluke_1_6 checks
-[river] player WaP_1_7 checks
-[river] player Mars_1_5 checks
-[river] round ends
-[SHOWDOWN] showdown starts
-[SHOWDOWN] player Mars_1_5 shows 9 spade J club K spade Q club 10 spade, which is straight.
-[SHOWDOWN] player WaP_1_7 shows K diamond Q club 10 spade 9 spade 7 diamond, which is high card.
-[SHOWDOWN] player wereFluke_1_6 shows 6 heart 8 diamond 9 spade Q club 10 spade, which is high card.
-[GAME STAT] pot 0 with 120 chips is shared by 1 players
-[GAME STAT] player Mars_1_5 gets 120 chips from pot 0
-[GAME STAT] overall statistics
-[GAME STAT] player NX01_1_0 wins 0 chips in this game
-[GAME STAT] player Minty_1_1 wins 0 chips in this game
-[GAME STAT] player The Joker_1_3 wins 0 chips in this game
-[GAME STAT] player Mars_1_5 wins 80 chips in this game
-[GAME STAT] player wereFluke_1_6 wins -40 chips in this game
-[GAME STAT] player WaP_1_7 wins -40 chips in this game
-[GAME 15] game ends, invoking player.game_end()
-[GAME 16] game starts
-[GAME INFO] number of participants in this game = 6
-[GAME INFO] participant: NX01_1_0, chip = 6035
-[GAME INFO] participant: Minty_1_1, chip = 2964
-[GAME INFO] participant: The Joker_1_3, chip = 3023
-[GAME INFO] participant: Mars_1_5, chip = 3017
-[GAME INFO] participant: wereFluke_1_6, chip = 2932
-[GAME INFO] participant: WaP_1_7, chip = 6029
-[GAME INFO] blind is 50
-[GAME INFO] dealer is wereFluke_1_6
-[GAME INFO] small blind 50 posted by WaP_1_7
-[GAME INFO] big blind 100 posted by NX01_1_0
-[hole card] Q diamond
-[hole card] A spade
-[preflop] round starts
-[preflop] player NX01_1_0 has 5935 chips
-[preflop] player Minty_1_1 has 2964 chips
-[preflop] player The Joker_1_3 has 3023 chips
-[preflop] player Mars_1_5 has 3017 chips
-[preflop] player wereFluke_1_6 has 2932 chips
-[preflop] player WaP_1_7 has 5979 chips
-[preflop] player Minty_1_1 folds
-[preflop] action
-[preflop] call (100 chips). 
-[preflop] player The Joker_1_3 calls. Total bet is 100
-[preflop] player Mars_1_5 calls. Total bet is 100
-[preflop] player wereFluke_1_6 calls. Total bet is 100
-[preflop] player WaP_1_7 folds
-[preflop] player NX01_1_0 folds
-[flop] K heart
-[flop] Q club
-[flop] 7 diamond
-[flop] round starts
-[flop] player NX01_1_0 has 5935 chips
-[flop] player Minty_1_1 has 2964 chips
-[flop] player The Joker_1_3 has 2923 chips
-[flop] player Mars_1_5 has 2917 chips
-[flop] player wereFluke_1_6 has 2832 chips
-[flop] player WaP_1_7 has 5979 chips
+[flop] player The Joker_6_0 has 2998 chips
+[flop] player ssw_6_1 has 2998 chips
+[flop] player Juda_6_2 has 3000 chips
+[flop] player BigNews!_6_3 has 3000 chips
+[flop] player yi95yi_6_4 has 2998 chips
+[flop] player Gaotaku_6_5 has 2998 chips
+[flop] player GiHe_6_6 has 2998 chips
+[flop] player WaP_6_7 has 3000 chips
 [flop] action
 [flop] check
-[flop] player The Joker_1_3 checks
-[flop] player Mars_1_5 checks
-[flop] player wereFluke_1_6 checks
+[flop] player The Joker_6_0 checks
+[flop] player ssw_6_1 checks
+[flop] player yi95yi_6_4 checks
+[flop] player Gaotaku_6_5 checks
+[flop] player GiHe_6_6 checks
 [flop] round ends
 [turn] 6 spade
 [turn] round starts
-[turn] player NX01_1_0 has 5935 chips
-[turn] player Minty_1_1 has 2964 chips
-[turn] player The Joker_1_3 has 2923 chips
-[turn] player Mars_1_5 has 2917 chips
-[turn] player wereFluke_1_6 has 2832 chips
-[turn] player WaP_1_7 has 5979 chips
+[turn] player The Joker_6_0 has 2998 chips
+[turn] player ssw_6_1 has 2998 chips
+[turn] player Juda_6_2 has 3000 chips
+[turn] player BigNews!_6_3 has 3000 chips
+[turn] player yi95yi_6_4 has 2998 chips
+[turn] player Gaotaku_6_5 has 2998 chips
+[turn] player GiHe_6_6 has 2998 chips
+[turn] player WaP_6_7 has 3000 chips
 [turn] action
 [turn] check
-[turn] player The Joker_1_3 checks
-[turn] player Mars_1_5 checks
-[turn] player wereFluke_1_6 checks
+[turn] player The Joker_6_0 checks
+[turn] player ssw_6_1 checks
+[turn] player yi95yi_6_4 checks
+[turn] player Gaotaku_6_5 checks
+[turn] player GiHe_6_6 checks
 [turn] round ends
-[river] 10 spade
+[river] 7 club
 [river] round starts
-[river] player NX01_1_0 has 5935 chips
-[river] player Minty_1_1 has 2964 chips
-[river] player The Joker_1_3 has 2923 chips
-[river] player Mars_1_5 has 2917 chips
-[river] player wereFluke_1_6 has 2832 chips
-[river] player WaP_1_7 has 5979 chips
+[river] player The Joker_6_0 has 2998 chips
+[river] player ssw_6_1 has 2998 chips
+[river] player Juda_6_2 has 3000 chips
+[river] player BigNews!_6_3 has 3000 chips
+[river] player yi95yi_6_4 has 2998 chips
+[river] player Gaotaku_6_5 has 2998 chips
+[river] player GiHe_6_6 has 2998 chips
+[river] player WaP_6_7 has 3000 chips
 [river] action
 [river] check
-[river] player The Joker_1_3 checks
-[river] player Mars_1_5 checks
-[river] player wereFluke_1_6 checks
+[river] player The Joker_6_0 checks
+[river] player ssw_6_1 checks
+[river] player yi95yi_6_4 checks
+[river] player Gaotaku_6_5 checks
+[river] player GiHe_6_6 checks
 [river] round ends
 [SHOWDOWN] showdown starts
 [SHOWDOWN] showdown
-[SHOWDOWN] K heart Q club 10 spade Q diamond A spade
-[SHOWDOWN] player Mars_1_5 shows 7 diamond 7 spade K diamond K heart Q club, which is two pair.
-[SHOWDOWN] player The Joker_1_3 shows K heart Q club 10 spade Q diamond A spade, which is one pair.
-[SHOWDOWN] player wereFluke_1_6 shows 9 spade K heart Q club 7 diamond 10 spade, which is high card.
-[GAME STAT] pot 0 with 250 chips is shared by 1 players
-[GAME STAT] player Mars_1_5 gets 250 chips from pot 0
-[GAME STAT] pot 1 with 200 chips is shared by 1 players
-[GAME STAT] player Mars_1_5 gets 200 chips from pot 1
+[SHOWDOWN] 7 heart 6 spade 7 club 6 club 7 spade
+[SHOWDOWN] player The Joker_6_0 shows 7 heart 6 spade 7 club 6 club 7 spade, which is full house.
+[SHOWDOWN] player Gaotaku_6_5 shows 10 club 9 club 8 heart 7 heart 6 spade, which is straight.
+[SHOWDOWN] player ssw_6_1 shows 10 diamond Q diamond 7 heart 8 heart 7 club, which is one pair.
+[SHOWDOWN] player yi95yi_6_4 shows Q spade 7 heart 8 heart 6 spade 7 club, which is one pair.
+[SHOWDOWN] player GiHe_6_6 shows 10 heart 7 heart 8 heart 6 spade 7 club, which is one pair.
+[GAME STAT] pot 0 with 10 chips is shared by 1 players
+[GAME STAT] player The Joker_6_0 gets 10 chips from pot 0
 [GAME STAT] overall statistics
-[GAME STAT] player NX01_1_0 wins -100 chips in this game
-[GAME STAT] player Minty_1_1 wins 0 chips in this game
-[GAME STAT] player The Joker_1_3 wins -100 chips in this game
-[GAME STAT] player Mars_1_5 wins 350 chips in this game
-[GAME STAT] player wereFluke_1_6 wins -100 chips in this game
-[GAME STAT] player WaP_1_7 wins -50 chips in this game
-[GAME 16] game ends, invoking player.game_end()
-[GAME 17] game starts
-[GAME INFO] number of participants in this game = 6
-[GAME INFO] participant: NX01_1_0, chip = 5935
-[GAME INFO] participant: Minty_1_1, chip = 2964
-[GAME INFO] participant: The Joker_1_3, chip = 2923
-[GAME INFO] participant: Mars_1_5, chip = 3367
-[GAME INFO] participant: wereFluke_1_6, chip = 2832
-[GAME INFO] participant: WaP_1_7, chip = 5979
-[GAME INFO] blind is 50
-[GAME INFO] dealer is WaP_1_7
-[GAME INFO] small blind 50 posted by NX01_1_0
-[GAME INFO] big blind 100 posted by Minty_1_1
-[hole card] 4 club
-[hole card] 9 spade
+[GAME STAT] player The Joker_6_0 wins 8 chips in this game
+[GAME STAT] player ssw_6_1 wins -2 chips in this game
+[GAME STAT] player Juda_6_2 wins 0 chips in this game
+[GAME STAT] player BigNews!_6_3 wins 0 chips in this game
+[GAME STAT] player yi95yi_6_4 wins -2 chips in this game
+[GAME STAT] player Gaotaku_6_5 wins -2 chips in this game
+[GAME STAT] player GiHe_6_6 wins -2 chips in this game
+[GAME STAT] player WaP_6_7 wins 0 chips in this game
+[GAME 1] game ends, invoking player.game_end()
+[GAME 2] game starts
+[GAME INFO] number of participants in this game = 8
+[GAME INFO] participant: The Joker_6_0, chip = 3008
+[GAME INFO] participant: ssw_6_1, chip = 2998
+[GAME INFO] participant: Juda_6_2, chip = 3000
+[GAME INFO] participant: BigNews!_6_3, chip = 3000
+[GAME INFO] participant: yi95yi_6_4, chip = 2998
+[GAME INFO] participant: Gaotaku_6_5, chip = 2998
+[GAME INFO] participant: GiHe_6_6, chip = 2998
+[GAME INFO] participant: WaP_6_7, chip = 3000
+[GAME INFO] blind is 1
+[GAME INFO] dealer is The Joker_6_0
+[GAME INFO] small blind 1 posted by ssw_6_1
+[GAME INFO] big blind 2 posted by Juda_6_2
+[hole card] 4 spade
+[hole card] 9 heart
 [preflop] round starts
-[preflop] player NX01_1_0 has 5885 chips
-[preflop] player Minty_1_1 has 2864 chips
-[preflop] player The Joker_1_3 has 2923 chips
-[preflop] player Mars_1_5 has 3367 chips
-[preflop] player wereFluke_1_6 has 2832 chips
-[preflop] player WaP_1_7 has 5979 chips
+[preflop] player The Joker_6_0 has 3008 chips
+[preflop] player ssw_6_1 has 2997 chips
+[preflop] player Juda_6_2 has 2998 chips
+[preflop] player BigNews!_6_3 has 3000 chips
+[preflop] player yi95yi_6_4 has 2998 chips
+[preflop] player Gaotaku_6_5 has 2998 chips
+[preflop] player GiHe_6_6 has 2998 chips
+[preflop] player WaP_6_7 has 3000 chips
+[preflop] player BigNews!_6_3 folds
+[preflop] player yi95yi_6_4 goes all in (2998 chips). Total bet is 2998
+[preflop] player Gaotaku_6_5 folds
+[preflop] player GiHe_6_6 folds
+[preflop] player WaP_6_7 folds
 [preflop] action
-[WARNING] CANNOT check when another player has raised
-[preflop] player The Joker_1_3 folds
-[preflop] player Mars_1_5 calls. Total bet is 100
-[preflop] player wereFluke_1_6 calls. Total bet is 100
-[preflop] player WaP_1_7 folds
-[preflop] player NX01_1_0 calls. Total bet is 100
-[preflop] player Minty_1_1 folds
-[flop] Q heart
-[flop] 4 diamond
-[flop] 2 heart
-[flop] round starts
-[flop] player NX01_1_0 has 5835 chips
-[flop] player Minty_1_1 has 2864 chips
-[flop] player The Joker_1_3 has 2923 chips
-[flop] player Mars_1_5 has 3267 chips
-[flop] player wereFluke_1_6 has 2732 chips
-[flop] player WaP_1_7 has 5979 chips
-[flop] player NX01_1_0 checks
-[flop] player Mars_1_5 checks
-[flop] player wereFluke_1_6 checks
-[flop] round ends
-[turn] 8 diamond
-[turn] round starts
-[turn] player NX01_1_0 has 5835 chips
-[turn] player Minty_1_1 has 2864 chips
-[turn] player The Joker_1_3 has 2923 chips
-[turn] player Mars_1_5 has 3267 chips
-[turn] player wereFluke_1_6 has 2732 chips
-[turn] player WaP_1_7 has 5979 chips
-[turn] player NX01_1_0 checks
-[turn] player Mars_1_5 checks
-[turn] player wereFluke_1_6 checks
-[turn] round ends
-[river] 5 spade
-[river] round starts
-[river] player NX01_1_0 has 5835 chips
-[river] player Minty_1_1 has 2864 chips
-[river] player The Joker_1_3 has 2923 chips
-[river] player Mars_1_5 has 3267 chips
-[river] player wereFluke_1_6 has 2732 chips
-[river] player WaP_1_7 has 5979 chips
-[river] player NX01_1_0 checks
-[river] player Mars_1_5 checks
-[river] player wereFluke_1_6 checks
-[river] round ends
-[SHOWDOWN] showdown starts
-[SHOWDOWN] player wereFluke_1_6 shows 6 heart 4 heart 4 diamond 8 diamond 5 spade, which is one pair.
-[SHOWDOWN] player Mars_1_5 shows 2 diamond 2 heart 8 diamond Q heart 10 diamond, which is one pair.
-[SHOWDOWN] player NX01_1_0 shows A diamond Q heart 9 heart 8 diamond 5 spade, which is high card.
-[GAME STAT] pot 0 with 400 chips is shared by 1 players
-[GAME STAT] player wereFluke_1_6 gets 400 chips from pot 0
-[GAME STAT] overall statistics
-[GAME STAT] player NX01_1_0 wins -100 chips in this game
-[GAME STAT] player Minty_1_1 wins -100 chips in this game
-[GAME STAT] player The Joker_1_3 wins 0 chips in this game
-[GAME STAT] player Mars_1_5 wins -100 chips in this game
-[GAME STAT] player wereFluke_1_6 wins 300 chips in this game
-[GAME STAT] player WaP_1_7 wins 0 chips in this game
-[GAME 17] game ends, invoking player.game_end()
-[GAME 18] game starts
-[GAME INFO] number of participants in this game = 6
-[GAME INFO] participant: NX01_1_0, chip = 5835
-[GAME INFO] participant: Minty_1_1, chip = 2864
-[GAME INFO] participant: The Joker_1_3, chip = 2923
-[GAME INFO] participant: Mars_1_5, chip = 3267
-[GAME INFO] participant: wereFluke_1_6, chip = 3132
-[GAME INFO] participant: WaP_1_7, chip = 5979
-[GAME INFO] blind is 50
-[GAME INFO] dealer is NX01_1_0
-[GAME INFO] small blind 50 posted by Minty_1_1
-[GAME INFO] big blind 100 posted by The Joker_1_3
-[hole card] 5 heart
-[hole card] 8 heart
-[preflop] round starts
-[preflop] player NX01_1_0 has 5835 chips
-[preflop] player Minty_1_1 has 2814 chips
-[preflop] player The Joker_1_3 has 2823 chips
-[preflop] player Mars_1_5 has 3267 chips
-[preflop] player wereFluke_1_6 has 3132 chips
-[preflop] player WaP_1_7 has 5979 chips
-[preflop] player Mars_1_5 folds
-[preflop] player wereFluke_1_6 calls. Total bet is 100
-[preflop] player WaP_1_7 folds
-[preflop] player NX01_1_0 folds
-[preflop] player Minty_1_1 folds
-[preflop] action
-[preflop] call (0 chips). 
-[preflop] player The Joker_1_3 calls. Total bet is 100
-[flop] 2 diamond
-[flop] 3 diamond
-[flop] 6 heart
-[flop] round starts
-[flop] player NX01_1_0 has 5835 chips
-[flop] player Minty_1_1 has 2814 chips
-[flop] player The Joker_1_3 has 2823 chips
-[flop] player Mars_1_5 has 3267 chips
-[flop] player wereFluke_1_6 has 3032 chips
-[flop] player WaP_1_7 has 5979 chips
-[flop] action
-[flop] check
-[flop] player The Joker_1_3 checks
-[flop] player wereFluke_1_6 checks
-[flop] round ends
-[turn] 4 heart
-[turn] round starts
-[turn] player NX01_1_0 has 5835 chips
-[turn] player Minty_1_1 has 2814 chips
-[turn] player The Joker_1_3 has 2823 chips
-[turn] player Mars_1_5 has 3267 chips
-[turn] player wereFluke_1_6 has 3032 chips
-[turn] player WaP_1_7 has 5979 chips
-[turn] action
-[turn] check
-[turn] player The Joker_1_3 checks
-[turn] player wereFluke_1_6 checks
-[turn] round ends
-[river] 4 diamond
-[river] round starts
-[river] player NX01_1_0 has 5835 chips
-[river] player Minty_1_1 has 2814 chips
-[river] player The Joker_1_3 has 2823 chips
-[river] player Mars_1_5 has 3267 chips
-[river] player wereFluke_1_6 has 3032 chips
-[river] player WaP_1_7 has 5979 chips
-[river] action
-[river] check
-[river] player The Joker_1_3 checks
-[river] player wereFluke_1_6 checks
-[river] round ends
-[SHOWDOWN] showdown starts
-[SHOWDOWN] showdown
-[SHOWDOWN] 2 diamond 3 diamond 6 heart 4 diamond 5 heart
-[SHOWDOWN] player The Joker_1_3 shows 2 diamond 3 diamond 6 heart 4 diamond 5 heart, which is straight.
-[SHOWDOWN] player wereFluke_1_6 shows 6 club 8 spade 6 heart 4 heart 4 diamond, which is two pair.
-[GAME STAT] pot 0 with 150 chips is shared by 1 players
-[GAME STAT] player The Joker_1_3 gets 150 chips from pot 0
-[GAME STAT] pot 1 with 100 chips is shared by 1 players
-[GAME STAT] player The Joker_1_3 gets 100 chips from pot 1
-[GAME STAT] overall statistics
-[GAME STAT] player NX01_1_0 wins 0 chips in this game
-[GAME STAT] player Minty_1_1 wins -50 chips in this game
-[GAME STAT] player The Joker_1_3 wins 150 chips in this game
-[GAME STAT] player Mars_1_5 wins 0 chips in this game
-[GAME STAT] player wereFluke_1_6 wins -100 chips in this game
-[GAME STAT] player WaP_1_7 wins 0 chips in this game
-[GAME 18] game ends, invoking player.game_end()
-[GAME 19] game starts
-[GAME INFO] number of participants in this game = 6
-[GAME INFO] participant: NX01_1_0, chip = 5835
-[GAME INFO] participant: Minty_1_1, chip = 2814
-[GAME INFO] participant: The Joker_1_3, chip = 3073
-[GAME INFO] participant: Mars_1_5, chip = 3267
-[GAME INFO] participant: wereFluke_1_6, chip = 3032
-[GAME INFO] participant: WaP_1_7, chip = 5979
-[GAME INFO] blind is 100
-[GAME INFO] dealer is Minty_1_1
-[GAME INFO] small blind 100 posted by The Joker_1_3
-[GAME INFO] big blind 200 posted by Mars_1_5
-[hole card] 9 spade
-[hole card] 3 heart
-[preflop] round starts
-[preflop] player NX01_1_0 has 5835 chips
-[preflop] player Minty_1_1 has 2814 chips
-[preflop] player The Joker_1_3 has 2973 chips
-[preflop] player Mars_1_5 has 3067 chips
-[preflop] player wereFluke_1_6 has 3032 chips
-[preflop] player WaP_1_7 has 5979 chips
-[preflop] player wereFluke_1_6 calls. Total bet is 200
-[preflop] player WaP_1_7 folds
-[preflop] player NX01_1_0 folds
-[preflop] player Minty_1_1 folds
-[preflop] action
-[WARNING] CANNOT check when another player has raised
-[preflop] player The Joker_1_3 folds
-[preflop] player Mars_1_5 calls. Total bet is 200
-[flop] 6 spade
-[flop] J diamond
-[flop] Q club
-[flop] round starts
-[flop] player NX01_1_0 has 5835 chips
-[flop] player Minty_1_1 has 2814 chips
-[flop] player The Joker_1_3 has 2973 chips
-[flop] player Mars_1_5 has 3067 chips
-[flop] player wereFluke_1_6 has 2832 chips
-[flop] player WaP_1_7 has 5979 chips
-[flop] player Mars_1_5 checks
-[flop] player wereFluke_1_6 folds
-[flop] round ends
-[GAME STAT] pot 0 with 300 chips is shared by 1 players
-[GAME STAT] player Mars_1_5 gets 300 chips from pot 0
-[GAME STAT] pot 1 with 200 chips is shared by 1 players
-[GAME STAT] player Mars_1_5 gets 200 chips from pot 1
-[GAME STAT] overall statistics
-[GAME STAT] player NX01_1_0 wins 0 chips in this game
-[GAME STAT] player Minty_1_1 wins 0 chips in this game
-[GAME STAT] player The Joker_1_3 wins -100 chips in this game
-[GAME STAT] player Mars_1_5 wins 300 chips in this game
-[GAME STAT] player wereFluke_1_6 wins -200 chips in this game
-[GAME STAT] player WaP_1_7 wins 0 chips in this game
-[GAME 19] game ends, invoking player.game_end()
-[GAME 20] game starts
-[GAME INFO] number of participants in this game = 6
-[GAME INFO] participant: NX01_1_0, chip = 5835
-[GAME INFO] participant: Minty_1_1, chip = 2814
-[GAME INFO] participant: The Joker_1_3, chip = 2973
-[GAME INFO] participant: Mars_1_5, chip = 3567
-[GAME INFO] participant: wereFluke_1_6, chip = 2832
-[GAME INFO] participant: WaP_1_7, chip = 5979
-[GAME INFO] blind is 100
-[GAME INFO] dealer is The Joker_1_3
-[GAME INFO] small blind 100 posted by Mars_1_5
-[GAME INFO] big blind 200 posted by wereFluke_1_6
-[hole card] K heart
-[hole card] 10 club
-[preflop] round starts
-[preflop] player NX01_1_0 has 5835 chips
-[preflop] player Minty_1_1 has 2814 chips
-[preflop] player The Joker_1_3 has 2973 chips
-[preflop] player Mars_1_5 has 3467 chips
-[preflop] player wereFluke_1_6 has 2632 chips
-[preflop] player WaP_1_7 has 5979 chips
-[preflop] player WaP_1_7 folds
-[preflop] player NX01_1_0 folds
-[preflop] player Minty_1_1 folds
-[preflop] action
-[preflop] call (200 chips). 
-[preflop] player The Joker_1_3 calls. Total bet is 200
-[preflop] player Mars_1_5 calls. Total bet is 200
-[preflop] player wereFluke_1_6 calls. Total bet is 200
+[preflop] call (2998 chips). 
+[preflop] player The Joker_6_0 calls. Total bet is 2998
+[preflop] player ssw_6_1 goes all in (2997 chips). Total bet is 2998
+[preflop] player Juda_6_2 calls. Total bet is 2998
 [flop] 7 spade
 [flop] 7 diamond
-[flop] 4 heart
+[flop] J club
 [flop] round starts
-[flop] player NX01_1_0 has 5835 chips
-[flop] player Minty_1_1 has 2814 chips
-[flop] player The Joker_1_3 has 2773 chips
-[flop] player Mars_1_5 has 3367 chips
-[flop] player wereFluke_1_6 has 2632 chips
-[flop] player WaP_1_7 has 5979 chips
-[flop] player Mars_1_5 checks
-[flop] player wereFluke_1_6 checks
+[flop] player The Joker_6_0 has 10 chips
+[flop] player ssw_6_1 has 0 chips
+[flop] player Juda_6_2 has 2 chips
+[flop] player BigNews!_6_3 has 3000 chips
+[flop] player yi95yi_6_4 has 0 chips
+[flop] player Gaotaku_6_5 has 2998 chips
+[flop] player GiHe_6_6 has 2998 chips
+[flop] player WaP_6_7 has 3000 chips
+[flop] player ssw_6_1 checks
+[flop] player Juda_6_2 checks
+[flop] player Juda_6_2 calls. Total bet is 0
+[flop] player yi95yi_6_4 checks
+[flop] player yi95yi_6_4 goes all in (0 chips). Total bet is 0
 [flop] action
-[flop] check
-[flop] player The Joker_1_3 checks
+[WARNING] CANNOT check when another player has raised
+[flop] player The Joker_6_0 checks
+[flop] round ends
+[turn] 3 heart
+[turn] round starts
+[turn] player The Joker_6_0 has 10 chips
+[turn] player ssw_6_1 has 0 chips
+[turn] player Juda_6_2 has 2 chips
+[turn] player BigNews!_6_3 has 3000 chips
+[turn] player yi95yi_6_4 has 0 chips
+[turn] player Gaotaku_6_5 has 2998 chips
+[turn] player GiHe_6_6 has 2998 chips
+[turn] player WaP_6_7 has 3000 chips
+[turn] player ssw_6_1 checks
+[turn] player Juda_6_2 checks
+[turn] player Juda_6_2 calls. Total bet is 0
+[turn] player yi95yi_6_4 checks
+[turn] player yi95yi_6_4 goes all in (0 chips). Total bet is 0
+[turn] action
+[WARNING] CANNOT check when another player has raised
+[turn] player The Joker_6_0 checks
+[turn] round ends
+[river] Q spade
+[river] round starts
+[river] player The Joker_6_0 has 10 chips
+[river] player ssw_6_1 has 0 chips
+[river] player Juda_6_2 has 2 chips
+[river] player BigNews!_6_3 has 3000 chips
+[river] player yi95yi_6_4 has 0 chips
+[river] player Gaotaku_6_5 has 2998 chips
+[river] player GiHe_6_6 has 2998 chips
+[river] player WaP_6_7 has 3000 chips
+[river] player ssw_6_1 checks
+[river] player Juda_6_2 checks
+[river] player Juda_6_2 calls. Total bet is 0
+[river] player yi95yi_6_4 checks
+[river] player yi95yi_6_4 goes all in (0 chips). Total bet is 0
+[river] action
+[WARNING] CANNOT check when another player has raised
+[river] player The Joker_6_0 checks
+[river] round ends
+[SHOWDOWN] showdown starts
+[SHOWDOWN] showdown
+[SHOWDOWN] 7 spade 7 diamond J club Q spade 9 heart
+[SHOWDOWN] player yi95yi_6_4 shows A spade A heart 7 spade 7 diamond Q spade, which is two pair.
+[SHOWDOWN] player Juda_6_2 shows K heart K club 7 spade 7 diamond Q spade, which is two pair.
+[SHOWDOWN] player The Joker_6_0 shows 7 spade 7 diamond J club Q spade 9 heart, which is one pair.
+[SHOWDOWN] player ssw_6_1 shows 9 spade 7 spade 7 diamond J club Q spade, which is one pair.
+[GAME STAT] pot 0 with 11992 chips is shared by 1 players
+[GAME STAT] player yi95yi_6_4 gets 11992 chips from pot 0
+[GAME STAT] overall statistics
+[GAME STAT] player The Joker_6_0 wins -2998 chips in this game
+[GAME STAT] player ssw_6_1 wins -2998 chips in this game
+[GAME STAT] player Juda_6_2 wins -2998 chips in this game
+[GAME STAT] player BigNews!_6_3 wins 0 chips in this game
+[GAME STAT] player yi95yi_6_4 wins 8994 chips in this game
+[GAME STAT] player Gaotaku_6_5 wins 0 chips in this game
+[GAME STAT] player GiHe_6_6 wins 0 chips in this game
+[GAME STAT] player WaP_6_7 wins 0 chips in this game
+[GAME 2] game ends, invoking player.game_end()
+[GAME 3] game starts
+[GAME INFO] number of participants in this game = 7
+[GAME INFO] participant: The Joker_6_0, chip = 10
+[GAME INFO] participant: Juda_6_2, chip = 2
+[GAME INFO] participant: BigNews!_6_3, chip = 3000
+[GAME INFO] participant: yi95yi_6_4, chip = 11992
+[GAME INFO] participant: Gaotaku_6_5, chip = 2998
+[GAME INFO] participant: GiHe_6_6, chip = 2998
+[GAME INFO] participant: WaP_6_7, chip = 3000
+[GAME INFO] blind is 1
+[GAME INFO] dealer is Juda_6_2
+[GAME INFO] small blind 1 posted by BigNews!_6_3
+[GAME INFO] big blind 2 posted by yi95yi_6_4
+[hole card] A club
+[hole card] 6 diamond
+[preflop] round starts
+[preflop] player The Joker_6_0 has 10 chips
+[preflop] player Juda_6_2 has 2 chips
+[preflop] player BigNews!_6_3 has 2999 chips
+[preflop] player yi95yi_6_4 has 11990 chips
+[preflop] player Gaotaku_6_5 has 2998 chips
+[preflop] player GiHe_6_6 has 2998 chips
+[preflop] player WaP_6_7 has 3000 chips
+[preflop] player Gaotaku_6_5 calls. Total bet is 2
+[preflop] player GiHe_6_6 calls. Total bet is 2
+[preflop] player WaP_6_7 folds
+[preflop] action
+[WARNING] CANNOT check when another player has raised
+[preflop] player The Joker_6_0 folds
+[preflop] player Juda_6_2 goes all in (2 chips). Total bet is 2
+[preflop] player BigNews!_6_3 calls. Total bet is 2
+[preflop] player yi95yi_6_4 calls. Total bet is 2
+[flop] 5 spade
+[flop] 8 diamond
+[flop] 9 spade
+[flop] round starts
+[flop] player The Joker_6_0 has 10 chips
+[flop] player Juda_6_2 has 0 chips
+[flop] player BigNews!_6_3 has 2998 chips
+[flop] player yi95yi_6_4 has 11990 chips
+[flop] player Gaotaku_6_5 has 2996 chips
+[flop] player GiHe_6_6 has 2996 chips
+[flop] player WaP_6_7 has 3000 chips
+[flop] player BigNews!_6_3 checks
+[flop] player yi95yi_6_4 checks
+[flop] player Gaotaku_6_5 checks
+[flop] player GiHe_6_6 checks
+[flop] player Juda_6_2 checks
+[flop] player Juda_6_2 goes all in (0 chips). Total bet is 0
 [flop] round ends
 [turn] 6 club
 [turn] round starts
-[turn] player NX01_1_0 has 5835 chips
-[turn] player Minty_1_1 has 2814 chips
-[turn] player The Joker_1_3 has 2773 chips
-[turn] player Mars_1_5 has 3367 chips
-[turn] player wereFluke_1_6 has 2632 chips
-[turn] player WaP_1_7 has 5979 chips
-[turn] player Mars_1_5 checks
-[turn] player wereFluke_1_6 checks
-[turn] action
-[turn] check
-[turn] player The Joker_1_3 checks
+[turn] player The Joker_6_0 has 10 chips
+[turn] player Juda_6_2 has 0 chips
+[turn] player BigNews!_6_3 has 2998 chips
+[turn] player yi95yi_6_4 has 11990 chips
+[turn] player Gaotaku_6_5 has 2996 chips
+[turn] player GiHe_6_6 has 2996 chips
+[turn] player WaP_6_7 has 3000 chips
+[turn] player BigNews!_6_3 checks
+[turn] player yi95yi_6_4 checks
+[turn] player Gaotaku_6_5 checks
+[turn] player GiHe_6_6 checks
+[turn] player Juda_6_2 checks
+[turn] player Juda_6_2 goes all in (0 chips). Total bet is 0
 [turn] round ends
-[river] 10 spade
+[river] 8 club
 [river] round starts
-[river] player NX01_1_0 has 5835 chips
-[river] player Minty_1_1 has 2814 chips
-[river] player The Joker_1_3 has 2773 chips
-[river] player Mars_1_5 has 3367 chips
-[river] player wereFluke_1_6 has 2632 chips
-[river] player WaP_1_7 has 5979 chips
-[river] player Mars_1_5 checks
-[river] player wereFluke_1_6 checks
-[river] action
-[river] check
-[river] player The Joker_1_3 checks
+[river] player The Joker_6_0 has 10 chips
+[river] player Juda_6_2 has 0 chips
+[river] player BigNews!_6_3 has 2998 chips
+[river] player yi95yi_6_4 has 11990 chips
+[river] player Gaotaku_6_5 has 2996 chips
+[river] player GiHe_6_6 has 2996 chips
+[river] player WaP_6_7 has 3000 chips
+[river] player BigNews!_6_3 checks
+[river] player yi95yi_6_4 checks
+[river] player Gaotaku_6_5 checks
+[river] player GiHe_6_6 checks
+[river] player Juda_6_2 checks
+[river] player Juda_6_2 goes all in (0 chips). Total bet is 0
 [river] round ends
 [SHOWDOWN] showdown starts
-[SHOWDOWN] showdown
-[SHOWDOWN] 7 spade 7 diamond 10 spade K heart 10 club
-[SHOWDOWN] player wereFluke_1_6 shows 9 club 8 diamond 7 spade 6 club 10 spade, which is straight.
-[SHOWDOWN] player The Joker_1_3 shows 7 spade 7 diamond 10 spade K heart 10 club, which is two pair.
-[SHOWDOWN] player Mars_1_5 shows 6 club 7 diamond 7 spade A diamond 10 spade, which is one pair.
-[GAME STAT] pot 0 with 600 chips is shared by 1 players
-[GAME STAT] player wereFluke_1_6 gets 600 chips from pot 0
+[SHOWDOWN] player GiHe_6_6 shows A diamond 8 heart 8 diamond 9 spade 8 club, which is three of a kind.
+[SHOWDOWN] player yi95yi_6_4 shows 9 club 8 diamond 9 spade 6 club 8 club, which is two pair.
+[SHOWDOWN] player Gaotaku_6_5 shows 9 heart 9 spade 8 diamond 8 club 6 club, which is two pair.
+[SHOWDOWN] player BigNews!_6_3 shows A heart 6 spade 8 diamond 6 club 8 club, which is two pair.
+[SHOWDOWN] player Juda_6_2 shows K spade J club 8 diamond 9 spade 8 club, which is one pair.
+[GAME STAT] pot 0 with 10 chips is shared by 1 players
+[GAME STAT] player GiHe_6_6 gets 10 chips from pot 0
 [GAME STAT] overall statistics
-[GAME STAT] player NX01_1_0 wins 0 chips in this game
-[GAME STAT] player Minty_1_1 wins 0 chips in this game
-[GAME STAT] player The Joker_1_3 wins -200 chips in this game
-[GAME STAT] player Mars_1_5 wins -200 chips in this game
-[GAME STAT] player wereFluke_1_6 wins 400 chips in this game
-[GAME STAT] player WaP_1_7 wins 0 chips in this game
-[GAME 20] game ends, invoking player.game_end()
-[GAME 21] game starts
+[GAME STAT] player The Joker_6_0 wins 0 chips in this game
+[GAME STAT] player Juda_6_2 wins -2 chips in this game
+[GAME STAT] player BigNews!_6_3 wins -2 chips in this game
+[GAME STAT] player yi95yi_6_4 wins -2 chips in this game
+[GAME STAT] player Gaotaku_6_5 wins -2 chips in this game
+[GAME STAT] player GiHe_6_6 wins 8 chips in this game
+[GAME STAT] player WaP_6_7 wins 0 chips in this game
+[GAME 3] game ends, invoking player.game_end()
+[GAME 4] game starts
 [GAME INFO] number of participants in this game = 6
-[GAME INFO] participant: NX01_1_0, chip = 5835
-[GAME INFO] participant: Minty_1_1, chip = 2814
-[GAME INFO] participant: The Joker_1_3, chip = 2773
-[GAME INFO] participant: Mars_1_5, chip = 3367
-[GAME INFO] participant: wereFluke_1_6, chip = 3232
-[GAME INFO] participant: WaP_1_7, chip = 5979
-[GAME INFO] blind is 100
-[GAME INFO] dealer is Mars_1_5
-[GAME INFO] small blind 100 posted by wereFluke_1_6
-[GAME INFO] big blind 200 posted by WaP_1_7
-[hole card] 8 spade
-[hole card] 10 diamond
+[GAME INFO] participant: The Joker_6_0, chip = 10
+[GAME INFO] participant: BigNews!_6_3, chip = 2998
+[GAME INFO] participant: yi95yi_6_4, chip = 11990
+[GAME INFO] participant: Gaotaku_6_5, chip = 2996
+[GAME INFO] participant: GiHe_6_6, chip = 3006
+[GAME INFO] participant: WaP_6_7, chip = 3000
+[GAME INFO] blind is 2
+[GAME INFO] dealer is BigNews!_6_3
+[GAME INFO] small blind 2 posted by yi95yi_6_4
+[GAME INFO] big blind 4 posted by Gaotaku_6_5
+[hole card] 6 club
+[hole card] K club
 [preflop] round starts
-[preflop] player NX01_1_0 has 5835 chips
-[preflop] player Minty_1_1 has 2814 chips
-[preflop] player The Joker_1_3 has 2773 chips
-[preflop] player Mars_1_5 has 3367 chips
-[preflop] player wereFluke_1_6 has 3132 chips
-[preflop] player WaP_1_7 has 5779 chips
-[preflop] player NX01_1_0 folds
-[preflop] player Minty_1_1 folds
+[preflop] player The Joker_6_0 has 10 chips
+[preflop] player BigNews!_6_3 has 2998 chips
+[preflop] player yi95yi_6_4 has 11988 chips
+[preflop] player Gaotaku_6_5 has 2992 chips
+[preflop] player GiHe_6_6 has 3006 chips
+[preflop] player WaP_6_7 has 3000 chips
+[preflop] player GiHe_6_6 calls. Total bet is 4
+[preflop] player WaP_6_7 folds
 [preflop] action
 [WARNING] CANNOT check when another player has raised
-[preflop] player The Joker_1_3 folds
-[preflop] player Mars_1_5 folds
-[preflop] player wereFluke_1_6 calls. Total bet is 200
-[preflop] player WaP_1_7 calls. Total bet is 200
-[flop] 7 heart
-[flop] K diamond
-[flop] K club
+[preflop] player The Joker_6_0 folds
+[preflop] player BigNews!_6_3 folds
+[preflop] player yi95yi_6_4 calls. Total bet is 4
+[preflop] player Gaotaku_6_5 calls. Total bet is 4
+[flop] 5 diamond
+[flop] 6 heart
+[flop] 7 diamond
 [flop] round starts
-[flop] player NX01_1_0 has 5835 chips
-[flop] player Minty_1_1 has 2814 chips
-[flop] player The Joker_1_3 has 2773 chips
-[flop] player Mars_1_5 has 3367 chips
-[flop] player wereFluke_1_6 has 3032 chips
-[flop] player WaP_1_7 has 5779 chips
-[flop] player wereFluke_1_6 checks
-[flop] player WaP_1_7 checks
+[flop] player The Joker_6_0 has 10 chips
+[flop] player BigNews!_6_3 has 2998 chips
+[flop] player yi95yi_6_4 has 11986 chips
+[flop] player Gaotaku_6_5 has 2992 chips
+[flop] player GiHe_6_6 has 3002 chips
+[flop] player WaP_6_7 has 3000 chips
+[flop] player yi95yi_6_4 checks
+[flop] player Gaotaku_6_5 checks
+[flop] player GiHe_6_6 checks
+[flop] round ends
+[turn] K diamond
+[turn] round starts
+[turn] player The Joker_6_0 has 10 chips
+[turn] player BigNews!_6_3 has 2998 chips
+[turn] player yi95yi_6_4 has 11986 chips
+[turn] player Gaotaku_6_5 has 2992 chips
+[turn] player GiHe_6_6 has 3002 chips
+[turn] player WaP_6_7 has 3000 chips
+[turn] player yi95yi_6_4 checks
+[turn] player Gaotaku_6_5 checks
+[turn] player GiHe_6_6 checks
+[turn] round ends
+[river] 8 diamond
+[river] round starts
+[river] player The Joker_6_0 has 10 chips
+[river] player BigNews!_6_3 has 2998 chips
+[river] player yi95yi_6_4 has 11986 chips
+[river] player Gaotaku_6_5 has 2992 chips
+[river] player GiHe_6_6 has 3002 chips
+[river] player WaP_6_7 has 3000 chips
+[river] player yi95yi_6_4 checks
+[river] player Gaotaku_6_5 checks
+[river] player GiHe_6_6 checks
+[river] round ends
+[SHOWDOWN] showdown starts
+[SHOWDOWN] player GiHe_6_6 shows 6 diamond 5 diamond 7 diamond K diamond 8 diamond, which is flush.
+[SHOWDOWN] player Gaotaku_6_5 shows K diamond Q spade J spade 8 diamond 7 diamond, which is high card.
+[SHOWDOWN] player yi95yi_6_4 shows 10 club Q heart 7 diamond K diamond 8 diamond, which is high card.
+[GAME STAT] pot 0 with 12 chips is shared by 1 players
+[GAME STAT] player GiHe_6_6 gets 12 chips from pot 0
+[GAME STAT] overall statistics
+[GAME STAT] player The Joker_6_0 wins 0 chips in this game
+[GAME STAT] player BigNews!_6_3 wins 0 chips in this game
+[GAME STAT] player yi95yi_6_4 wins -4 chips in this game
+[GAME STAT] player Gaotaku_6_5 wins -4 chips in this game
+[GAME STAT] player GiHe_6_6 wins 8 chips in this game
+[GAME STAT] player WaP_6_7 wins 0 chips in this game
+[GAME 4] game ends, invoking player.game_end()
+[GAME 5] game starts
+[GAME INFO] number of participants in this game = 6
+[GAME INFO] participant: The Joker_6_0, chip = 10
+[GAME INFO] participant: BigNews!_6_3, chip = 2998
+[GAME INFO] participant: yi95yi_6_4, chip = 11986
+[GAME INFO] participant: Gaotaku_6_5, chip = 2992
+[GAME INFO] participant: GiHe_6_6, chip = 3014
+[GAME INFO] participant: WaP_6_7, chip = 3000
+[GAME INFO] blind is 2
+[GAME INFO] dealer is yi95yi_6_4
+[GAME INFO] small blind 2 posted by Gaotaku_6_5
+[GAME INFO] big blind 4 posted by GiHe_6_6
+[hole card] Q diamond
+[hole card] 2 heart
+[preflop] round starts
+[preflop] player The Joker_6_0 has 10 chips
+[preflop] player BigNews!_6_3 has 2998 chips
+[preflop] player yi95yi_6_4 has 11986 chips
+[preflop] player Gaotaku_6_5 has 2990 chips
+[preflop] player GiHe_6_6 has 3010 chips
+[preflop] player WaP_6_7 has 3000 chips
+[preflop] player WaP_6_7 folds
+[preflop] action
+[WARNING] CANNOT check when another player has raised
+[preflop] player The Joker_6_0 folds
+[preflop] player BigNews!_6_3 folds
+[preflop] player yi95yi_6_4 calls. Total bet is 4
+[preflop] player Gaotaku_6_5 calls. Total bet is 4
+[preflop] player GiHe_6_6 calls. Total bet is 4
+[flop] 2 club
+[flop] J heart
+[flop] A club
+[flop] round starts
+[flop] player The Joker_6_0 has 10 chips
+[flop] player BigNews!_6_3 has 2998 chips
+[flop] player yi95yi_6_4 has 11982 chips
+[flop] player Gaotaku_6_5 has 2988 chips
+[flop] player GiHe_6_6 has 3010 chips
+[flop] player WaP_6_7 has 3000 chips
+[flop] player Gaotaku_6_5 checks
+[flop] player GiHe_6_6 checks
+[flop] player yi95yi_6_4 checks
 [flop] round ends
 [turn] 4 spade
 [turn] round starts
-[turn] player NX01_1_0 has 5835 chips
-[turn] player Minty_1_1 has 2814 chips
-[turn] player The Joker_1_3 has 2773 chips
-[turn] player Mars_1_5 has 3367 chips
-[turn] player wereFluke_1_6 has 3032 chips
-[turn] player WaP_1_7 has 5779 chips
-[turn] player wereFluke_1_6 checks
-[turn] player WaP_1_7 checks
+[turn] player The Joker_6_0 has 10 chips
+[turn] player BigNews!_6_3 has 2998 chips
+[turn] player yi95yi_6_4 has 11982 chips
+[turn] player Gaotaku_6_5 has 2988 chips
+[turn] player GiHe_6_6 has 3010 chips
+[turn] player WaP_6_7 has 3000 chips
+[turn] player Gaotaku_6_5 checks
+[turn] player GiHe_6_6 checks
+[turn] player yi95yi_6_4 checks
+[turn] round ends
+[river] 7 spade
+[river] round starts
+[river] player The Joker_6_0 has 10 chips
+[river] player BigNews!_6_3 has 2998 chips
+[river] player yi95yi_6_4 has 11982 chips
+[river] player Gaotaku_6_5 has 2988 chips
+[river] player GiHe_6_6 has 3010 chips
+[river] player WaP_6_7 has 3000 chips
+[river] player Gaotaku_6_5 checks
+[river] player GiHe_6_6 checks
+[river] player yi95yi_6_4 checks
+[river] round ends
+[SHOWDOWN] showdown starts
+[SHOWDOWN] player GiHe_6_6 shows A diamond 8 diamond J heart A club 7 spade, which is one pair.
+[SHOWDOWN] player yi95yi_6_4 shows K spade 9 spade J heart A club 7 spade, which is high card.
+[SHOWDOWN] player Gaotaku_6_5 shows A club K heart J heart 7 spade 6 spade, which is high card.
+[GAME STAT] pot 0 with 12 chips is shared by 1 players
+[GAME STAT] player GiHe_6_6 gets 12 chips from pot 0
+[GAME STAT] overall statistics
+[GAME STAT] player The Joker_6_0 wins 0 chips in this game
+[GAME STAT] player BigNews!_6_3 wins 0 chips in this game
+[GAME STAT] player yi95yi_6_4 wins -4 chips in this game
+[GAME STAT] player Gaotaku_6_5 wins -4 chips in this game
+[GAME STAT] player GiHe_6_6 wins 8 chips in this game
+[GAME STAT] player WaP_6_7 wins 0 chips in this game
+[GAME 5] game ends, invoking player.game_end()
+[GAME 6] game starts
+[GAME INFO] number of participants in this game = 6
+[GAME INFO] participant: The Joker_6_0, chip = 10
+[GAME INFO] participant: BigNews!_6_3, chip = 2998
+[GAME INFO] participant: yi95yi_6_4, chip = 11982
+[GAME INFO] participant: Gaotaku_6_5, chip = 2988
+[GAME INFO] participant: GiHe_6_6, chip = 3022
+[GAME INFO] participant: WaP_6_7, chip = 3000
+[GAME INFO] blind is 2
+[GAME INFO] dealer is Gaotaku_6_5
+[GAME INFO] small blind 2 posted by GiHe_6_6
+[GAME INFO] big blind 4 posted by WaP_6_7
+[hole card] 6 diamond
+[hole card] 2 heart
+[preflop] round starts
+[preflop] player The Joker_6_0 has 10 chips
+[preflop] player BigNews!_6_3 has 2998 chips
+[preflop] player yi95yi_6_4 has 11982 chips
+[preflop] player Gaotaku_6_5 has 2988 chips
+[preflop] player GiHe_6_6 has 3020 chips
+[preflop] player WaP_6_7 has 2996 chips
+[preflop] action
+[WARNING] CANNOT check when another player has raised
+[preflop] player The Joker_6_0 folds
+[preflop] player BigNews!_6_3 folds
+[preflop] player yi95yi_6_4 calls. Total bet is 4
+[preflop] player Gaotaku_6_5 calls. Total bet is 4
+[preflop] player GiHe_6_6 calls. Total bet is 4
+[preflop] player WaP_6_7 calls. Total bet is 4
+[flop] 8 heart
+[flop] K spade
+[flop] J spade
+[flop] round starts
+[flop] player The Joker_6_0 has 10 chips
+[flop] player BigNews!_6_3 has 2998 chips
+[flop] player yi95yi_6_4 has 11978 chips
+[flop] player Gaotaku_6_5 has 2984 chips
+[flop] player GiHe_6_6 has 3018 chips
+[flop] player WaP_6_7 has 2996 chips
+[flop] player GiHe_6_6 checks
+[flop] player WaP_6_7 checks
+[flop] player yi95yi_6_4 checks
+[flop] player Gaotaku_6_5 checks
+[flop] round ends
+[turn] 7 spade
+[turn] round starts
+[turn] player The Joker_6_0 has 10 chips
+[turn] player BigNews!_6_3 has 2998 chips
+[turn] player yi95yi_6_4 has 11978 chips
+[turn] player Gaotaku_6_5 has 2984 chips
+[turn] player GiHe_6_6 has 3018 chips
+[turn] player WaP_6_7 has 2996 chips
+[turn] player GiHe_6_6 checks
+[turn] player WaP_6_7 checks
+[turn] player yi95yi_6_4 checks
+[turn] player Gaotaku_6_5 checks
+[turn] round ends
+[river] 6 spade
+[river] round starts
+[river] player The Joker_6_0 has 10 chips
+[river] player BigNews!_6_3 has 2998 chips
+[river] player yi95yi_6_4 has 11978 chips
+[river] player Gaotaku_6_5 has 2984 chips
+[river] player GiHe_6_6 has 3018 chips
+[river] player WaP_6_7 has 2996 chips
+[river] player GiHe_6_6 checks
+[river] player WaP_6_7 folds
+[river] player yi95yi_6_4 checks
+[river] player Gaotaku_6_5 raises 1490. Total bet is 1490
+[river] player GiHe_6_6 folds
+[river] player yi95yi_6_4 folds
+[GAME STAT] pot 0 with 16 chips is shared by 1 players
+[GAME STAT] player Gaotaku_6_5 gets 16 chips from pot 0
+[GAME STAT] pot 1 with 1490 chips is shared by 1 players
+[GAME STAT] player Gaotaku_6_5 gets 1490 chips from pot 1
+[GAME STAT] overall statistics
+[GAME STAT] player The Joker_6_0 wins 0 chips in this game
+[GAME STAT] player BigNews!_6_3 wins 0 chips in this game
+[GAME STAT] player yi95yi_6_4 wins -4 chips in this game
+[GAME STAT] player Gaotaku_6_5 wins 12 chips in this game
+[GAME STAT] player GiHe_6_6 wins -4 chips in this game
+[GAME STAT] player WaP_6_7 wins -4 chips in this game
+[GAME 6] game ends, invoking player.game_end()
+[GAME 7] game starts
+[GAME INFO] number of participants in this game = 6
+[GAME INFO] participant: The Joker_6_0, chip = 10
+[GAME INFO] participant: BigNews!_6_3, chip = 2998
+[GAME INFO] participant: yi95yi_6_4, chip = 11978
+[GAME INFO] participant: Gaotaku_6_5, chip = 3000
+[GAME INFO] participant: GiHe_6_6, chip = 3018
+[GAME INFO] participant: WaP_6_7, chip = 2996
+[GAME INFO] blind is 5
+[GAME INFO] dealer is GiHe_6_6
+[GAME INFO] small blind 5 posted by WaP_6_7
+[GAME INFO] big blind 10 posted by The Joker_6_0
+[hole card] K club
+[hole card] A spade
+[preflop] round starts
+[preflop] player The Joker_6_0 has 0 chips
+[preflop] player BigNews!_6_3 has 2998 chips
+[preflop] player yi95yi_6_4 has 11978 chips
+[preflop] player Gaotaku_6_5 has 3000 chips
+[preflop] player GiHe_6_6 has 3018 chips
+[preflop] player WaP_6_7 has 2991 chips
+[preflop] player BigNews!_6_3 folds
+[preflop] player yi95yi_6_4 calls. Total bet is 10
+[preflop] player Gaotaku_6_5 calls. Total bet is 10
+[preflop] player GiHe_6_6 calls. Total bet is 10
+[preflop] player WaP_6_7 folds
+[preflop] action
+[preflop] all in (0 chips).
+[preflop] player The Joker_6_0 goes all in (0 chips). Total bet is 10
+[flop] 6 diamond
+[flop] 5 heart
+[flop] J diamond
+[flop] round starts
+[flop] player The Joker_6_0 has 0 chips
+[flop] player BigNews!_6_3 has 2998 chips
+[flop] player yi95yi_6_4 has 11968 chips
+[flop] player Gaotaku_6_5 has 2990 chips
+[flop] player GiHe_6_6 has 3008 chips
+[flop] player WaP_6_7 has 2991 chips
+[flop] action
+[WARNING] CANNOT call when no one has raised. check instead
+[flop] player The Joker_6_0 checks
+[flop] player yi95yi_6_4 checks
+[flop] player Gaotaku_6_5 checks
+[flop] player GiHe_6_6 checks
+[flop] round ends
+[turn] 3 diamond
+[turn] round starts
+[turn] player The Joker_6_0 has 0 chips
+[turn] player BigNews!_6_3 has 2998 chips
+[turn] player yi95yi_6_4 has 11968 chips
+[turn] player Gaotaku_6_5 has 2990 chips
+[turn] player GiHe_6_6 has 3008 chips
+[turn] player WaP_6_7 has 2991 chips
+[turn] action
+[WARNING] CANNOT call when no one has raised. check instead
+[turn] player The Joker_6_0 checks
+[turn] player yi95yi_6_4 checks
+[turn] player Gaotaku_6_5 checks
+[turn] player GiHe_6_6 checks
 [turn] round ends
 [river] 8 heart
 [river] round starts
-[river] player NX01_1_0 has 5835 chips
-[river] player Minty_1_1 has 2814 chips
-[river] player The Joker_1_3 has 2773 chips
-[river] player Mars_1_5 has 3367 chips
-[river] player wereFluke_1_6 has 3032 chips
-[river] player WaP_1_7 has 5779 chips
-[river] player wereFluke_1_6 checks
-[river] player WaP_1_7 checks
+[river] player The Joker_6_0 has 0 chips
+[river] player BigNews!_6_3 has 2998 chips
+[river] player yi95yi_6_4 has 11968 chips
+[river] player Gaotaku_6_5 has 2990 chips
+[river] player GiHe_6_6 has 3008 chips
+[river] player WaP_6_7 has 2991 chips
+[river] action
+[WARNING] CANNOT call when no one has raised. check instead
+[river] player The Joker_6_0 checks
+[river] player yi95yi_6_4 checks
+[river] player Gaotaku_6_5 checks
+[river] player GiHe_6_6 checks
 [river] round ends
 [SHOWDOWN] showdown starts
-[SHOWDOWN] player wereFluke_1_6 shows 7 diamond 7 heart K diamond K club 8 heart, which is two pair.
-[SHOWDOWN] player WaP_1_7 shows K diamond K club 8 heart 4 club 4 spade, which is two pair.
-[GAME STAT] pot 0 with 400 chips is shared by 1 players
-[GAME STAT] player wereFluke_1_6 gets 400 chips from pot 0
+[SHOWDOWN] showdown
+[SHOWDOWN] 6 diamond J diamond 8 heart K club A spade
+[SHOWDOWN] player GiHe_6_6 shows Q diamond 6 spade 6 diamond J diamond 8 heart, which is one pair.
+[SHOWDOWN] player The Joker_6_0 shows 6 diamond J diamond 8 heart K club A spade, which is high card.
+[SHOWDOWN] player Gaotaku_6_5 shows A club K heart J diamond 8 heart 6 diamond, which is high card.
+[SHOWDOWN] player yi95yi_6_4 shows 10 club 6 diamond 5 heart J diamond 8 heart, which is high card.
+[GAME STAT] pot 0 with 25 chips is shared by 1 players
+[GAME STAT] player GiHe_6_6 gets 25 chips from pot 0
+[GAME STAT] pot 1 with 20 chips is shared by 1 players
+[GAME STAT] player GiHe_6_6 gets 20 chips from pot 1
 [GAME STAT] overall statistics
-[GAME STAT] player NX01_1_0 wins 0 chips in this game
-[GAME STAT] player Minty_1_1 wins 0 chips in this game
-[GAME STAT] player The Joker_1_3 wins 0 chips in this game
-[GAME STAT] player Mars_1_5 wins 0 chips in this game
-[GAME STAT] player wereFluke_1_6 wins 200 chips in this game
-[GAME STAT] player WaP_1_7 wins -200 chips in this game
-[GAME 21] game ends, invoking player.game_end()
-[GAME 22] game starts
-[GAME INFO] number of participants in this game = 6
-[GAME INFO] participant: NX01_1_0, chip = 5835
-[GAME INFO] participant: Minty_1_1, chip = 2814
-[GAME INFO] participant: The Joker_1_3, chip = 2773
-[GAME INFO] participant: Mars_1_5, chip = 3367
-[GAME INFO] participant: wereFluke_1_6, chip = 3432
-[GAME INFO] participant: WaP_1_7, chip = 5779
-[GAME INFO] blind is 200
-[GAME INFO] dealer is wereFluke_1_6
-[GAME INFO] small blind 200 posted by WaP_1_7
-[GAME INFO] big blind 400 posted by NX01_1_0
-[hole card] 6 club
-[hole card] 2 club
+[GAME STAT] player The Joker_6_0 wins -10 chips in this game
+[GAME STAT] player BigNews!_6_3 wins 0 chips in this game
+[GAME STAT] player yi95yi_6_4 wins -10 chips in this game
+[GAME STAT] player Gaotaku_6_5 wins -10 chips in this game
+[GAME STAT] player GiHe_6_6 wins 35 chips in this game
+[GAME STAT] player WaP_6_7 wins -5 chips in this game
+[GAME 7] game ends, invoking player.game_end()
+[GAME 8] game starts
+[GAME INFO] number of participants in this game = 5
+[GAME INFO] participant: BigNews!_6_3, chip = 2998
+[GAME INFO] participant: yi95yi_6_4, chip = 11968
+[GAME INFO] participant: Gaotaku_6_5, chip = 2990
+[GAME INFO] participant: GiHe_6_6, chip = 3053
+[GAME INFO] participant: WaP_6_7, chip = 2991
+[GAME INFO] I am out of the game.
+[GAME INFO] blind is 5
+[GAME INFO] dealer is WaP_6_7
+[GAME INFO] small blind 5 posted by BigNews!_6_3
+[GAME INFO] big blind 10 posted by yi95yi_6_4
 [preflop] round starts
-[preflop] player NX01_1_0 has 5435 chips
-[preflop] player Minty_1_1 has 2814 chips
-[preflop] player The Joker_1_3 has 2773 chips
-[preflop] player Mars_1_5 has 3367 chips
-[preflop] player wereFluke_1_6 has 3432 chips
-[preflop] player WaP_1_7 has 5579 chips
-[preflop] player Minty_1_1 folds
-[preflop] action
-[WARNING] CANNOT check when another player has raised
-[preflop] player The Joker_1_3 folds
-[preflop] player Mars_1_5 folds
-[preflop] player wereFluke_1_6 folds
-[preflop] player WaP_1_7 folds
-[GAME STAT] pot 0 with 400 chips is shared by 1 players
-[GAME STAT] player NX01_1_0 gets 400 chips from pot 0
-[GAME STAT] pot 1 with 200 chips is shared by 1 players
-[GAME STAT] player NX01_1_0 gets 200 chips from pot 1
-[GAME STAT] overall statistics
-[GAME STAT] player NX01_1_0 wins 200 chips in this game
-[GAME STAT] player Minty_1_1 wins 0 chips in this game
-[GAME STAT] player The Joker_1_3 wins 0 chips in this game
-[GAME STAT] player Mars_1_5 wins 0 chips in this game
-[GAME STAT] player wereFluke_1_6 wins 0 chips in this game
-[GAME STAT] player WaP_1_7 wins -200 chips in this game
-[GAME 22] game ends, invoking player.game_end()
-[GAME 23] game starts
-[GAME INFO] number of participants in this game = 6
-[GAME INFO] participant: NX01_1_0, chip = 6035
-[GAME INFO] participant: Minty_1_1, chip = 2814
-[GAME INFO] participant: The Joker_1_3, chip = 2773
-[GAME INFO] participant: Mars_1_5, chip = 3367
-[GAME INFO] participant: wereFluke_1_6, chip = 3432
-[GAME INFO] participant: WaP_1_7, chip = 5579
-[GAME INFO] blind is 200
-[GAME INFO] dealer is WaP_1_7
-[GAME INFO] small blind 200 posted by NX01_1_0
-[GAME INFO] big blind 400 posted by Minty_1_1
-[hole card] 3 diamond
-[hole card] Q heart
-[preflop] round starts
-[preflop] player NX01_1_0 has 5835 chips
-[preflop] player Minty_1_1 has 2414 chips
-[preflop] player The Joker_1_3 has 2773 chips
-[preflop] player Mars_1_5 has 3367 chips
-[preflop] player wereFluke_1_6 has 3432 chips
-[preflop] player WaP_1_7 has 5579 chips
-[preflop] action
-[WARNING] CANNOT check when another player has raised
-[preflop] player The Joker_1_3 folds
-[preflop] player Mars_1_5 folds
-[preflop] player wereFluke_1_6 folds
-[preflop] player WaP_1_7 folds
-[preflop] player NX01_1_0 calls. Total bet is 400
-[preflop] player Minty_1_1 folds
-[GAME STAT] pot 0 with 800 chips is shared by 1 players
-[GAME STAT] player NX01_1_0 gets 800 chips from pot 0
-[GAME STAT] overall statistics
-[GAME STAT] player NX01_1_0 wins 400 chips in this game
-[GAME STAT] player Minty_1_1 wins -400 chips in this game
-[GAME STAT] player The Joker_1_3 wins 0 chips in this game
-[GAME STAT] player Mars_1_5 wins 0 chips in this game
-[GAME STAT] player wereFluke_1_6 wins 0 chips in this game
-[GAME STAT] player WaP_1_7 wins 0 chips in this game
-[GAME 23] game ends, invoking player.game_end()
-[GAME 24] game starts
-[GAME INFO] number of participants in this game = 6
-[GAME INFO] participant: NX01_1_0, chip = 6435
-[GAME INFO] participant: Minty_1_1, chip = 2414
-[GAME INFO] participant: The Joker_1_3, chip = 2773
-[GAME INFO] participant: Mars_1_5, chip = 3367
-[GAME INFO] participant: wereFluke_1_6, chip = 3432
-[GAME INFO] participant: WaP_1_7, chip = 5579
-[GAME INFO] blind is 200
-[GAME INFO] dealer is NX01_1_0
-[GAME INFO] small blind 200 posted by Minty_1_1
-[GAME INFO] big blind 400 posted by The Joker_1_3
-[hole card] 8 heart
-[hole card] A club
-[preflop] round starts
-[preflop] player NX01_1_0 has 6435 chips
-[preflop] player Minty_1_1 has 2214 chips
-[preflop] player The Joker_1_3 has 2373 chips
-[preflop] player Mars_1_5 has 3367 chips
-[preflop] player wereFluke_1_6 has 3432 chips
-[preflop] player WaP_1_7 has 5579 chips
-[preflop] player Mars_1_5 folds
-[preflop] player wereFluke_1_6 folds
-[preflop] player WaP_1_7 folds
-[preflop] player NX01_1_0 folds
-[preflop] player Minty_1_1 folds
-[GAME STAT] pot 0 with 400 chips is shared by 1 players
-[GAME STAT] player The Joker_1_3 gets 400 chips from pot 0
-[GAME STAT] pot 1 with 200 chips is shared by 1 players
-[GAME STAT] player The Joker_1_3 gets 200 chips from pot 1
-[GAME STAT] overall statistics
-[GAME STAT] player NX01_1_0 wins 0 chips in this game
-[GAME STAT] player Minty_1_1 wins -200 chips in this game
-[GAME STAT] player The Joker_1_3 wins 200 chips in this game
-[GAME STAT] player Mars_1_5 wins 0 chips in this game
-[GAME STAT] player wereFluke_1_6 wins 0 chips in this game
-[GAME STAT] player WaP_1_7 wins 0 chips in this game
-[GAME 24] game ends, invoking player.game_end()
-[GAME 25] game starts
-[GAME INFO] number of participants in this game = 6
-[GAME INFO] participant: NX01_1_0, chip = 6435
-[GAME INFO] participant: Minty_1_1, chip = 2214
-[GAME INFO] participant: The Joker_1_3, chip = 2973
-[GAME INFO] participant: Mars_1_5, chip = 3367
-[GAME INFO] participant: wereFluke_1_6, chip = 3432
-[GAME INFO] participant: WaP_1_7, chip = 5579
-[GAME INFO] blind is 500
-[GAME INFO] dealer is Minty_1_1
-[GAME INFO] small blind 500 posted by The Joker_1_3
-[GAME INFO] big blind 1000 posted by Mars_1_5
-[hole card] 4 heart
-[hole card] 5 spade
-[preflop] round starts
-[preflop] player NX01_1_0 has 6435 chips
-[preflop] player Minty_1_1 has 2214 chips
-[preflop] player The Joker_1_3 has 2473 chips
-[preflop] player Mars_1_5 has 2367 chips
-[preflop] player wereFluke_1_6 has 3432 chips
-[preflop] player WaP_1_7 has 5579 chips
-[preflop] player wereFluke_1_6 folds
-[preflop] player WaP_1_7 folds
-[preflop] player NX01_1_0 folds
-[preflop] player Minty_1_1 folds
-[preflop] action
-[WARNING] CANNOT check when another player has raised
-[preflop] player The Joker_1_3 folds
-[GAME STAT] pot 0 with 1000 chips is shared by 1 players
-[GAME STAT] player Mars_1_5 gets 1000 chips from pot 0
-[GAME STAT] pot 1 with 500 chips is shared by 1 players
-[GAME STAT] player Mars_1_5 gets 500 chips from pot 1
-[GAME STAT] overall statistics
-[GAME STAT] player NX01_1_0 wins 0 chips in this game
-[GAME STAT] player Minty_1_1 wins 0 chips in this game
-[GAME STAT] player The Joker_1_3 wins -500 chips in this game
-[GAME STAT] player Mars_1_5 wins 500 chips in this game
-[GAME STAT] player wereFluke_1_6 wins 0 chips in this game
-[GAME STAT] player WaP_1_7 wins 0 chips in this game
-[GAME 25] game ends, invoking player.game_end()
-[GAME 26] game starts
-[GAME INFO] number of participants in this game = 6
-[GAME INFO] participant: NX01_1_0, chip = 6435
-[GAME INFO] participant: Minty_1_1, chip = 2214
-[GAME INFO] participant: The Joker_1_3, chip = 2473
-[GAME INFO] participant: Mars_1_5, chip = 3867
-[GAME INFO] participant: wereFluke_1_6, chip = 3432
-[GAME INFO] participant: WaP_1_7, chip = 5579
-[GAME INFO] blind is 500
-[GAME INFO] dealer is The Joker_1_3
-[GAME INFO] small blind 500 posted by Mars_1_5
-[GAME INFO] big blind 1000 posted by wereFluke_1_6
-[hole card] 10 club
-[hole card] 7 diamond
-[preflop] round starts
-[preflop] player NX01_1_0 has 6435 chips
-[preflop] player Minty_1_1 has 2214 chips
-[preflop] player The Joker_1_3 has 2473 chips
-[preflop] player Mars_1_5 has 3367 chips
-[preflop] player wereFluke_1_6 has 2432 chips
-[preflop] player WaP_1_7 has 5579 chips
-[preflop] player WaP_1_7 folds
-[preflop] player NX01_1_0 calls. Total bet is 1000
-[preflop] player Minty_1_1 folds
-[preflop] action
-[WARNING] CANNOT check when another player has raised
-[preflop] player The Joker_1_3 folds
-[preflop] player Mars_1_5 folds
-[preflop] player wereFluke_1_6 calls. Total bet is 1000
-[flop] 6 spade
-[flop] 6 heart
-[flop] 2 heart
+[preflop] player BigNews!_6_3 has 2993 chips
+[preflop] player yi95yi_6_4 has 11958 chips
+[preflop] player Gaotaku_6_5 has 2990 chips
+[preflop] player GiHe_6_6 has 3053 chips
+[preflop] player WaP_6_7 has 2991 chips
+[preflop] player Gaotaku_6_5 calls. Total bet is 10
+[preflop] player GiHe_6_6 calls. Total bet is 10
+[preflop] player WaP_6_7 folds
+[preflop] player BigNews!_6_3 calls. Total bet is 10
+[preflop] player yi95yi_6_4 calls. Total bet is 10
+[flop] 4 heart
+[flop] 2 diamond
+[flop] 7 heart
 [flop] round starts
-[flop] player NX01_1_0 has 5435 chips
-[flop] player Minty_1_1 has 2214 chips
-[flop] player The Joker_1_3 has 2473 chips
-[flop] player Mars_1_5 has 3367 chips
-[flop] player wereFluke_1_6 has 2432 chips
-[flop] player WaP_1_7 has 5579 chips
-[flop] player wereFluke_1_6 checks
-[flop] player NX01_1_0 checks
-[flop] round ends
-[turn] K spade
-[turn] round starts
-[turn] player NX01_1_0 has 5435 chips
-[turn] player Minty_1_1 has 2214 chips
-[turn] player The Joker_1_3 has 2473 chips
-[turn] player Mars_1_5 has 3367 chips
-[turn] player wereFluke_1_6 has 2432 chips
-[turn] player WaP_1_7 has 5579 chips
-[turn] player wereFluke_1_6 checks
-[turn] player NX01_1_0 checks
-[turn] round ends
-[river] 4 spade
-[river] round starts
-[river] player NX01_1_0 has 5435 chips
-[river] player Minty_1_1 has 2214 chips
-[river] player The Joker_1_3 has 2473 chips
-[river] player Mars_1_5 has 3367 chips
-[river] player wereFluke_1_6 has 2432 chips
-[river] player WaP_1_7 has 5579 chips
-[river] player wereFluke_1_6 checks
-[river] player NX01_1_0 checks
-[river] round ends
-[SHOWDOWN] showdown starts
-[SHOWDOWN] player wereFluke_1_6 shows 3 spade 5 spade 6 spade K spade 4 spade, which is flush.
-[SHOWDOWN] player NX01_1_0 shows 6 spade 6 heart A heart K spade 7 spade, which is one pair.
-[GAME STAT] pot 0 with 1500 chips is shared by 1 players
-[GAME STAT] player wereFluke_1_6 gets 1500 chips from pot 0
-[GAME STAT] pot 1 with 1000 chips is shared by 1 players
-[GAME STAT] player wereFluke_1_6 gets 1000 chips from pot 1
-[GAME STAT] overall statistics
-[GAME STAT] player NX01_1_0 wins -1000 chips in this game
-[GAME STAT] player Minty_1_1 wins 0 chips in this game
-[GAME STAT] player The Joker_1_3 wins 0 chips in this game
-[GAME STAT] player Mars_1_5 wins -500 chips in this game
-[GAME STAT] player wereFluke_1_6 wins 1500 chips in this game
-[GAME STAT] player WaP_1_7 wins 0 chips in this game
-[GAME 26] game ends, invoking player.game_end()
-[GAME 27] game starts
-[GAME INFO] number of participants in this game = 6
-[GAME INFO] participant: NX01_1_0, chip = 5435
-[GAME INFO] participant: Minty_1_1, chip = 2214
-[GAME INFO] participant: The Joker_1_3, chip = 2473
-[GAME INFO] participant: Mars_1_5, chip = 3367
-[GAME INFO] participant: wereFluke_1_6, chip = 4932
-[GAME INFO] participant: WaP_1_7, chip = 5579
-[GAME INFO] blind is 500
-[GAME INFO] dealer is Mars_1_5
-[GAME INFO] small blind 500 posted by wereFluke_1_6
-[GAME INFO] big blind 1000 posted by WaP_1_7
-[hole card] 5 club
-[hole card] A diamond
-[preflop] round starts
-[preflop] player NX01_1_0 has 5435 chips
-[preflop] player Minty_1_1 has 2214 chips
-[preflop] player The Joker_1_3 has 2473 chips
-[preflop] player Mars_1_5 has 3367 chips
-[preflop] player wereFluke_1_6 has 4432 chips
-[preflop] player WaP_1_7 has 4579 chips
-[preflop] player NX01_1_0 folds
-[preflop] player Minty_1_1 folds
-[preflop] action
-[WARNING] CANNOT check when another player has raised
-[preflop] player The Joker_1_3 folds
-[preflop] player Mars_1_5 folds
-[preflop] player wereFluke_1_6 calls. Total bet is 1000
-[preflop] player WaP_1_7 calls. Total bet is 1000
-[flop] 5 heart
-[flop] 7 club
-[flop] 9 club
-[flop] round starts
-[flop] player NX01_1_0 has 5435 chips
-[flop] player Minty_1_1 has 2214 chips
-[flop] player The Joker_1_3 has 2473 chips
-[flop] player Mars_1_5 has 3367 chips
-[flop] player wereFluke_1_6 has 3932 chips
-[flop] player WaP_1_7 has 4579 chips
-[flop] player wereFluke_1_6 checks
-[flop] player WaP_1_7 checks
+[flop] player BigNews!_6_3 has 2988 chips
+[flop] player yi95yi_6_4 has 11958 chips
+[flop] player Gaotaku_6_5 has 2980 chips
+[flop] player GiHe_6_6 has 3043 chips
+[flop] player WaP_6_7 has 2991 chips
+[flop] player BigNews!_6_3 checks
+[flop] player yi95yi_6_4 checks
+[flop] player Gaotaku_6_5 checks
+[flop] player GiHe_6_6 checks
 [flop] round ends
 [turn] J diamond
 [turn] round starts
-[turn] player NX01_1_0 has 5435 chips
-[turn] player Minty_1_1 has 2214 chips
-[turn] player The Joker_1_3 has 2473 chips
-[turn] player Mars_1_5 has 3367 chips
-[turn] player wereFluke_1_6 has 3932 chips
-[turn] player WaP_1_7 has 4579 chips
-[turn] player wereFluke_1_6 checks
-[turn] player WaP_1_7 checks
+[turn] player BigNews!_6_3 has 2988 chips
+[turn] player yi95yi_6_4 has 11958 chips
+[turn] player Gaotaku_6_5 has 2980 chips
+[turn] player GiHe_6_6 has 3043 chips
+[turn] player WaP_6_7 has 2991 chips
+[turn] player BigNews!_6_3 checks
+[turn] player yi95yi_6_4 checks
+[turn] player Gaotaku_6_5 checks
+[turn] player GiHe_6_6 checks
+[turn] round ends
+[river] 6 club
+[river] round starts
+[river] player BigNews!_6_3 has 2988 chips
+[river] player yi95yi_6_4 has 11958 chips
+[river] player Gaotaku_6_5 has 2980 chips
+[river] player GiHe_6_6 has 3043 chips
+[river] player WaP_6_7 has 2991 chips
+[river] player BigNews!_6_3 checks
+[river] player yi95yi_6_4 checks
+[river] player Gaotaku_6_5 checks
+[river] player GiHe_6_6 checks
+[river] round ends
+[SHOWDOWN] showdown starts
+[SHOWDOWN] player Gaotaku_6_5 shows J club J diamond 7 heart 6 club 4 heart, which is one pair.
+[SHOWDOWN] player yi95yi_6_4 shows Q diamond 9 club 7 heart J diamond 6 club, which is high card.
+[SHOWDOWN] player BigNews!_6_3 shows Q heart 4 heart 7 heart J diamond 6 club, which is high card.
+[SHOWDOWN] player GiHe_6_6 shows 8 heart 10 spade 7 heart J diamond 6 club, which is high card.
+[GAME STAT] pot 0 with 40 chips is shared by 1 players
+[GAME STAT] player Gaotaku_6_5 gets 40 chips from pot 0
+[GAME STAT] overall statistics
+[GAME STAT] player BigNews!_6_3 wins -10 chips in this game
+[GAME STAT] player yi95yi_6_4 wins -10 chips in this game
+[GAME STAT] player Gaotaku_6_5 wins 30 chips in this game
+[GAME STAT] player GiHe_6_6 wins -10 chips in this game
+[GAME STAT] player WaP_6_7 wins 0 chips in this game
+[GAME 8] game ends, invoking player.game_end()
+[GAME 9] game starts
+[GAME INFO] number of participants in this game = 5
+[GAME INFO] participant: BigNews!_6_3, chip = 2988
+[GAME INFO] participant: yi95yi_6_4, chip = 11958
+[GAME INFO] participant: Gaotaku_6_5, chip = 3020
+[GAME INFO] participant: GiHe_6_6, chip = 3043
+[GAME INFO] participant: WaP_6_7, chip = 2991
+[GAME INFO] I am out of the game.
+[GAME INFO] blind is 5
+[GAME INFO] dealer is BigNews!_6_3
+[GAME INFO] small blind 5 posted by yi95yi_6_4
+[GAME INFO] big blind 10 posted by Gaotaku_6_5
+[preflop] round starts
+[preflop] player BigNews!_6_3 has 2988 chips
+[preflop] player yi95yi_6_4 has 11953 chips
+[preflop] player Gaotaku_6_5 has 3010 chips
+[preflop] player GiHe_6_6 has 3043 chips
+[preflop] player WaP_6_7 has 2991 chips
+[preflop] player GiHe_6_6 calls. Total bet is 10
+[preflop] player WaP_6_7 folds
+[preflop] player BigNews!_6_3 folds
+[preflop] player yi95yi_6_4 calls. Total bet is 10
+[preflop] player Gaotaku_6_5 calls. Total bet is 10
+[flop] Q club
+[flop] A heart
+[flop] 8 spade
+[flop] round starts
+[flop] player BigNews!_6_3 has 2988 chips
+[flop] player yi95yi_6_4 has 11948 chips
+[flop] player Gaotaku_6_5 has 3010 chips
+[flop] player GiHe_6_6 has 3033 chips
+[flop] player WaP_6_7 has 2991 chips
+[flop] player yi95yi_6_4 checks
+[flop] player Gaotaku_6_5 checks
+[flop] player GiHe_6_6 checks
+[flop] round ends
+[turn] 4 club
+[turn] round starts
+[turn] player BigNews!_6_3 has 2988 chips
+[turn] player yi95yi_6_4 has 11948 chips
+[turn] player Gaotaku_6_5 has 3010 chips
+[turn] player GiHe_6_6 has 3033 chips
+[turn] player WaP_6_7 has 2991 chips
+[turn] player yi95yi_6_4 checks
+[turn] player Gaotaku_6_5 checks
+[turn] player GiHe_6_6 checks
+[turn] round ends
+[river] 7 club
+[river] round starts
+[river] player BigNews!_6_3 has 2988 chips
+[river] player yi95yi_6_4 has 11948 chips
+[river] player Gaotaku_6_5 has 3010 chips
+[river] player GiHe_6_6 has 3033 chips
+[river] player WaP_6_7 has 2991 chips
+[river] player yi95yi_6_4 checks
+[river] player Gaotaku_6_5 checks
+[river] player GiHe_6_6 checks
+[river] round ends
+[SHOWDOWN] showdown starts
+[SHOWDOWN] player Gaotaku_6_5 shows Q club Q spade A heart 10 spade 8 spade, which is one pair.
+[SHOWDOWN] player yi95yi_6_4 shows 8 diamond Q club A heart 8 spade 7 club, which is one pair.
+[SHOWDOWN] player GiHe_6_6 shows 7 diamond 9 heart Q club A heart 7 club, which is one pair.
+[GAME STAT] pot 0 with 30 chips is shared by 1 players
+[GAME STAT] player Gaotaku_6_5 gets 30 chips from pot 0
+[GAME STAT] overall statistics
+[GAME STAT] player BigNews!_6_3 wins 0 chips in this game
+[GAME STAT] player yi95yi_6_4 wins -10 chips in this game
+[GAME STAT] player Gaotaku_6_5 wins 20 chips in this game
+[GAME STAT] player GiHe_6_6 wins -10 chips in this game
+[GAME STAT] player WaP_6_7 wins 0 chips in this game
+[GAME 9] game ends, invoking player.game_end()
+[GAME 10] game starts
+[GAME INFO] number of participants in this game = 5
+[GAME INFO] participant: BigNews!_6_3, chip = 2988
+[GAME INFO] participant: yi95yi_6_4, chip = 11948
+[GAME INFO] participant: Gaotaku_6_5, chip = 3040
+[GAME INFO] participant: GiHe_6_6, chip = 3033
+[GAME INFO] participant: WaP_6_7, chip = 2991
+[GAME INFO] I am out of the game.
+[GAME INFO] blind is 10
+[GAME INFO] dealer is yi95yi_6_4
+[GAME INFO] small blind 10 posted by Gaotaku_6_5
+[GAME INFO] big blind 20 posted by GiHe_6_6
+[preflop] round starts
+[preflop] player BigNews!_6_3 has 2988 chips
+[preflop] player yi95yi_6_4 has 11948 chips
+[preflop] player Gaotaku_6_5 has 3030 chips
+[preflop] player GiHe_6_6 has 3013 chips
+[preflop] player WaP_6_7 has 2991 chips
+[preflop] player WaP_6_7 folds
+[preflop] player BigNews!_6_3 folds
+[preflop] player yi95yi_6_4 calls. Total bet is 20
+[preflop] player Gaotaku_6_5 calls. Total bet is 20
+[preflop] player GiHe_6_6 calls. Total bet is 20
+[flop] 9 spade
+[flop] J club
+[flop] 8 spade
+[flop] round starts
+[flop] player BigNews!_6_3 has 2988 chips
+[flop] player yi95yi_6_4 has 11928 chips
+[flop] player Gaotaku_6_5 has 3020 chips
+[flop] player GiHe_6_6 has 3013 chips
+[flop] player WaP_6_7 has 2991 chips
+[flop] player Gaotaku_6_5 checks
+[flop] player GiHe_6_6 checks
+[flop] player yi95yi_6_4 checks
+[flop] round ends
+[turn] 6 spade
+[turn] round starts
+[turn] player BigNews!_6_3 has 2988 chips
+[turn] player yi95yi_6_4 has 11928 chips
+[turn] player Gaotaku_6_5 has 3020 chips
+[turn] player GiHe_6_6 has 3013 chips
+[turn] player WaP_6_7 has 2991 chips
+[turn] player Gaotaku_6_5 checks
+[turn] player GiHe_6_6 checks
+[turn] player yi95yi_6_4 checks
+[turn] round ends
+[river] 9 club
+[river] round starts
+[river] player BigNews!_6_3 has 2988 chips
+[river] player yi95yi_6_4 has 11928 chips
+[river] player Gaotaku_6_5 has 3020 chips
+[river] player GiHe_6_6 has 3013 chips
+[river] player WaP_6_7 has 2991 chips
+[river] player Gaotaku_6_5 checks
+[river] player GiHe_6_6 checks
+[river] player yi95yi_6_4 checks
+[river] round ends
+[SHOWDOWN] showdown starts
+[SHOWDOWN] player Gaotaku_6_5 shows 9 spade 9 club K diamond J club 8 spade, which is one pair.
+[SHOWDOWN] player GiHe_6_6 shows 10 heart 9 spade J club 8 spade 9 club, which is one pair.
+[SHOWDOWN] player yi95yi_6_4 shows 9 spade J club 8 spade 6 spade 9 club, which is one pair.
+[GAME STAT] pot 0 with 60 chips is shared by 1 players
+[GAME STAT] player Gaotaku_6_5 gets 60 chips from pot 0
+[GAME STAT] overall statistics
+[GAME STAT] player BigNews!_6_3 wins 0 chips in this game
+[GAME STAT] player yi95yi_6_4 wins -20 chips in this game
+[GAME STAT] player Gaotaku_6_5 wins 40 chips in this game
+[GAME STAT] player GiHe_6_6 wins -20 chips in this game
+[GAME STAT] player WaP_6_7 wins 0 chips in this game
+[GAME 10] game ends, invoking player.game_end()
+[GAME 11] game starts
+[GAME INFO] number of participants in this game = 5
+[GAME INFO] participant: BigNews!_6_3, chip = 2988
+[GAME INFO] participant: yi95yi_6_4, chip = 11928
+[GAME INFO] participant: Gaotaku_6_5, chip = 3080
+[GAME INFO] participant: GiHe_6_6, chip = 3013
+[GAME INFO] participant: WaP_6_7, chip = 2991
+[GAME INFO] I am out of the game.
+[GAME INFO] blind is 10
+[GAME INFO] dealer is Gaotaku_6_5
+[GAME INFO] small blind 10 posted by GiHe_6_6
+[GAME INFO] big blind 20 posted by WaP_6_7
+[preflop] round starts
+[preflop] player BigNews!_6_3 has 2988 chips
+[preflop] player yi95yi_6_4 has 11928 chips
+[preflop] player Gaotaku_6_5 has 3080 chips
+[preflop] player GiHe_6_6 has 3003 chips
+[preflop] player WaP_6_7 has 2971 chips
+[preflop] player BigNews!_6_3 folds
+[preflop] player yi95yi_6_4 calls. Total bet is 20
+[preflop] player Gaotaku_6_5 calls. Total bet is 20
+[preflop] player GiHe_6_6 calls. Total bet is 20
+[preflop] player WaP_6_7 calls. Total bet is 20
+[flop] Q spade
+[flop] 3 heart
+[flop] J heart
+[flop] round starts
+[flop] player BigNews!_6_3 has 2988 chips
+[flop] player yi95yi_6_4 has 11908 chips
+[flop] player Gaotaku_6_5 has 3060 chips
+[flop] player GiHe_6_6 has 2993 chips
+[flop] player WaP_6_7 has 2971 chips
+[flop] player GiHe_6_6 checks
+[flop] player WaP_6_7 checks
+[flop] player yi95yi_6_4 checks
+[flop] player Gaotaku_6_5 checks
+[flop] round ends
+[turn] 7 heart
+[turn] round starts
+[turn] player BigNews!_6_3 has 2988 chips
+[turn] player yi95yi_6_4 has 11908 chips
+[turn] player Gaotaku_6_5 has 3060 chips
+[turn] player GiHe_6_6 has 2993 chips
+[turn] player WaP_6_7 has 2971 chips
+[turn] player GiHe_6_6 checks
+[turn] player WaP_6_7 checks
+[turn] player yi95yi_6_4 checks
+[turn] player Gaotaku_6_5 checks
+[turn] round ends
+[river] 9 club
+[river] round starts
+[river] player BigNews!_6_3 has 2988 chips
+[river] player yi95yi_6_4 has 11908 chips
+[river] player Gaotaku_6_5 has 3060 chips
+[river] player GiHe_6_6 has 2993 chips
+[river] player WaP_6_7 has 2971 chips
+[river] player GiHe_6_6 checks
+[river] player WaP_6_7 checks
+[river] player yi95yi_6_4 checks
+[river] player Gaotaku_6_5 checks
+[river] round ends
+[SHOWDOWN] showdown starts
+[SHOWDOWN] player Gaotaku_6_5 shows Q heart Q spade J heart 10 club 9 club, which is one pair.
+[SHOWDOWN] player yi95yi_6_4 shows K club J club Q spade J heart 9 club, which is one pair.
+[SHOWDOWN] player GiHe_6_6 shows 10 diamond 9 spade Q spade J heart 9 club, which is one pair.
+[SHOWDOWN] player WaP_6_7 shows Q spade J heart 9 club 7 spade 7 heart, which is one pair.
+[GAME STAT] pot 0 with 80 chips is shared by 1 players
+[GAME STAT] player Gaotaku_6_5 gets 80 chips from pot 0
+[GAME STAT] overall statistics
+[GAME STAT] player BigNews!_6_3 wins 0 chips in this game
+[GAME STAT] player yi95yi_6_4 wins -20 chips in this game
+[GAME STAT] player Gaotaku_6_5 wins 60 chips in this game
+[GAME STAT] player GiHe_6_6 wins -20 chips in this game
+[GAME STAT] player WaP_6_7 wins -20 chips in this game
+[GAME 11] game ends, invoking player.game_end()
+[GAME 12] game starts
+[GAME INFO] number of participants in this game = 5
+[GAME INFO] participant: BigNews!_6_3, chip = 2988
+[GAME INFO] participant: yi95yi_6_4, chip = 11908
+[GAME INFO] participant: Gaotaku_6_5, chip = 3140
+[GAME INFO] participant: GiHe_6_6, chip = 2993
+[GAME INFO] participant: WaP_6_7, chip = 2971
+[GAME INFO] I am out of the game.
+[GAME INFO] blind is 10
+[GAME INFO] dealer is GiHe_6_6
+[GAME INFO] small blind 10 posted by WaP_6_7
+[GAME INFO] big blind 20 posted by BigNews!_6_3
+[preflop] round starts
+[preflop] player BigNews!_6_3 has 2968 chips
+[preflop] player yi95yi_6_4 has 11908 chips
+[preflop] player Gaotaku_6_5 has 3140 chips
+[preflop] player GiHe_6_6 has 2993 chips
+[preflop] player WaP_6_7 has 2961 chips
+[preflop] player yi95yi_6_4 calls. Total bet is 20
+[preflop] player Gaotaku_6_5 calls. Total bet is 20
+[preflop] player GiHe_6_6 calls. Total bet is 20
+[preflop] player WaP_6_7 folds
+[preflop] player BigNews!_6_3 calls. Total bet is 20
+[flop] 8 club
+[flop] 8 diamond
+[flop] 4 spade
+[flop] round starts
+[flop] player BigNews!_6_3 has 2968 chips
+[flop] player yi95yi_6_4 has 11888 chips
+[flop] player Gaotaku_6_5 has 3120 chips
+[flop] player GiHe_6_6 has 2973 chips
+[flop] player WaP_6_7 has 2961 chips
+[flop] player BigNews!_6_3 checks
+[flop] player yi95yi_6_4 checks
+[flop] player Gaotaku_6_5 checks
+[flop] player GiHe_6_6 checks
+[flop] round ends
+[turn] 8 spade
+[turn] round starts
+[turn] player BigNews!_6_3 has 2968 chips
+[turn] player yi95yi_6_4 has 11888 chips
+[turn] player Gaotaku_6_5 has 3120 chips
+[turn] player GiHe_6_6 has 2973 chips
+[turn] player WaP_6_7 has 2961 chips
+[turn] player BigNews!_6_3 checks
+[turn] player yi95yi_6_4 goes all in (11888 chips). Total bet is 11888
+[turn] player Gaotaku_6_5 folds
+[turn] player GiHe_6_6 goes all in (2973 chips). Total bet is 2973
+[turn] player BigNews!_6_3 folds
+[river] J spade
+[river] round starts
+[river] player BigNews!_6_3 has 2968 chips
+[river] player yi95yi_6_4 has 0 chips
+[river] player Gaotaku_6_5 has 3120 chips
+[river] player GiHe_6_6 has 0 chips
+[river] player WaP_6_7 has 2961 chips
+[river] player yi95yi_6_4 checks
+[river] player yi95yi_6_4 goes all in (0 chips). Total bet is 0
+[river] player GiHe_6_6 checks
+[river] player GiHe_6_6 goes all in (0 chips). Total bet is 0
+[river] round ends
+[SHOWDOWN] showdown starts
+[SHOWDOWN] player GiHe_6_6 shows 4 club 8 club 8 diamond 4 spade 8 spade, which is full house.
+[SHOWDOWN] player yi95yi_6_4 shows K heart A spade 8 club 8 diamond 8 spade, which is three of a kind.
+[GAME STAT] pot 0 with 50 chips is shared by 1 players
+[GAME STAT] player GiHe_6_6 gets 50 chips from pot 0
+[GAME STAT] pot 1 with 40 chips is shared by 1 players
+[GAME STAT] player GiHe_6_6 gets 40 chips from pot 1
+[GAME STAT] pot 2 with 5946 chips is shared by 1 players
+[GAME STAT] player GiHe_6_6 gets 5946 chips from pot 2
+[GAME STAT] pot 3 with 8915 chips is shared by 1 players
+[GAME STAT] player yi95yi_6_4 gets 8915 chips from pot 3
+[GAME STAT] overall statistics
+[GAME STAT] player BigNews!_6_3 wins -20 chips in this game
+[GAME STAT] player yi95yi_6_4 wins -2993 chips in this game
+[GAME STAT] player Gaotaku_6_5 wins -20 chips in this game
+[GAME STAT] player GiHe_6_6 wins 3043 chips in this game
+[GAME STAT] player WaP_6_7 wins -10 chips in this game
+[GAME 12] game ends, invoking player.game_end()
+[GAME 13] game starts
+[GAME INFO] number of participants in this game = 5
+[GAME INFO] participant: BigNews!_6_3, chip = 2968
+[GAME INFO] participant: yi95yi_6_4, chip = 8915
+[GAME INFO] participant: Gaotaku_6_5, chip = 3120
+[GAME INFO] participant: GiHe_6_6, chip = 6036
+[GAME INFO] participant: WaP_6_7, chip = 2961
+[GAME INFO] I am out of the game.
+[GAME INFO] blind is 20
+[GAME INFO] dealer is WaP_6_7
+[GAME INFO] small blind 20 posted by BigNews!_6_3
+[GAME INFO] big blind 40 posted by yi95yi_6_4
+[preflop] round starts
+[preflop] player BigNews!_6_3 has 2948 chips
+[preflop] player yi95yi_6_4 has 8875 chips
+[preflop] player Gaotaku_6_5 has 3120 chips
+[preflop] player GiHe_6_6 has 6036 chips
+[preflop] player WaP_6_7 has 2961 chips
+[preflop] player Gaotaku_6_5 calls. Total bet is 40
+[preflop] player GiHe_6_6 calls. Total bet is 40
+[preflop] player WaP_6_7 folds
+[preflop] player BigNews!_6_3 calls. Total bet is 40
+[preflop] player yi95yi_6_4 calls. Total bet is 40
+[flop] 10 club
+[flop] Q spade
+[flop] J spade
+[flop] round starts
+[flop] player BigNews!_6_3 has 2928 chips
+[flop] player yi95yi_6_4 has 8875 chips
+[flop] player Gaotaku_6_5 has 3080 chips
+[flop] player GiHe_6_6 has 5996 chips
+[flop] player WaP_6_7 has 2961 chips
+[flop] player BigNews!_6_3 checks
+[flop] player yi95yi_6_4 checks
+[flop] player Gaotaku_6_5 checks
+[flop] player GiHe_6_6 checks
+[flop] round ends
+[turn] 8 spade
+[turn] round starts
+[turn] player BigNews!_6_3 has 2928 chips
+[turn] player yi95yi_6_4 has 8875 chips
+[turn] player Gaotaku_6_5 has 3080 chips
+[turn] player GiHe_6_6 has 5996 chips
+[turn] player WaP_6_7 has 2961 chips
+[turn] player BigNews!_6_3 checks
+[turn] player yi95yi_6_4 checks
+[turn] player Gaotaku_6_5 checks
+[turn] player GiHe_6_6 checks
+[turn] round ends
+[river] A spade
+[river] round starts
+[river] player BigNews!_6_3 has 2928 chips
+[river] player yi95yi_6_4 has 8875 chips
+[river] player Gaotaku_6_5 has 3080 chips
+[river] player GiHe_6_6 has 5996 chips
+[river] player WaP_6_7 has 2961 chips
+[river] player BigNews!_6_3 checks
+[river] player yi95yi_6_4 checks
+[river] player Gaotaku_6_5 checks
+[river] player GiHe_6_6 checks
+[river] round ends
+[SHOWDOWN] showdown starts
+[SHOWDOWN] player GiHe_6_6 shows 5 spade Q spade J spade 8 spade A spade, which is flush.
+[SHOWDOWN] player Gaotaku_6_5 shows A spade K diamond Q spade J spade 10 club, which is straight.
+[SHOWDOWN] player BigNews!_6_3 shows 10 club Q spade J spade 8 spade A spade, which is high card.
+[SHOWDOWN] player yi95yi_6_4 shows 10 club Q spade J spade 8 spade A spade, which is high card.
+[GAME STAT] pot 0 with 160 chips is shared by 1 players
+[GAME STAT] player GiHe_6_6 gets 160 chips from pot 0
+[GAME STAT] overall statistics
+[GAME STAT] player BigNews!_6_3 wins -40 chips in this game
+[GAME STAT] player yi95yi_6_4 wins -40 chips in this game
+[GAME STAT] player Gaotaku_6_5 wins -40 chips in this game
+[GAME STAT] player GiHe_6_6 wins 120 chips in this game
+[GAME STAT] player WaP_6_7 wins 0 chips in this game
+[GAME 13] game ends, invoking player.game_end()
+[GAME 14] game starts
+[GAME INFO] number of participants in this game = 5
+[GAME INFO] participant: BigNews!_6_3, chip = 2928
+[GAME INFO] participant: yi95yi_6_4, chip = 8875
+[GAME INFO] participant: Gaotaku_6_5, chip = 3080
+[GAME INFO] participant: GiHe_6_6, chip = 6156
+[GAME INFO] participant: WaP_6_7, chip = 2961
+[GAME INFO] I am out of the game.
+[GAME INFO] blind is 20
+[GAME INFO] dealer is BigNews!_6_3
+[GAME INFO] small blind 20 posted by yi95yi_6_4
+[GAME INFO] big blind 40 posted by Gaotaku_6_5
+[preflop] round starts
+[preflop] player BigNews!_6_3 has 2928 chips
+[preflop] player yi95yi_6_4 has 8855 chips
+[preflop] player Gaotaku_6_5 has 3040 chips
+[preflop] player GiHe_6_6 has 6156 chips
+[preflop] player WaP_6_7 has 2961 chips
+[preflop] player GiHe_6_6 calls. Total bet is 40
+[preflop] player WaP_6_7 folds
+[preflop] player BigNews!_6_3 folds
+[preflop] player yi95yi_6_4 calls. Total bet is 40
+[preflop] player Gaotaku_6_5 calls. Total bet is 40
+[flop] Q heart
+[flop] 7 heart
+[flop] K heart
+[flop] round starts
+[flop] player BigNews!_6_3 has 2928 chips
+[flop] player yi95yi_6_4 has 8835 chips
+[flop] player Gaotaku_6_5 has 3040 chips
+[flop] player GiHe_6_6 has 6116 chips
+[flop] player WaP_6_7 has 2961 chips
+[flop] player yi95yi_6_4 checks
+[flop] player Gaotaku_6_5 checks
+[flop] player GiHe_6_6 checks
+[flop] round ends
+[turn] 6 diamond
+[turn] round starts
+[turn] player BigNews!_6_3 has 2928 chips
+[turn] player yi95yi_6_4 has 8835 chips
+[turn] player Gaotaku_6_5 has 3040 chips
+[turn] player GiHe_6_6 has 6116 chips
+[turn] player WaP_6_7 has 2961 chips
+[turn] player yi95yi_6_4 checks
+[turn] player Gaotaku_6_5 checks
+[turn] player GiHe_6_6 checks
+[turn] round ends
+[river] 2 diamond
+[river] round starts
+[river] player BigNews!_6_3 has 2928 chips
+[river] player yi95yi_6_4 has 8835 chips
+[river] player Gaotaku_6_5 has 3040 chips
+[river] player GiHe_6_6 has 6116 chips
+[river] player WaP_6_7 has 2961 chips
+[river] player yi95yi_6_4 checks
+[river] player Gaotaku_6_5 checks
+[river] player GiHe_6_6 checks
+[river] round ends
+[SHOWDOWN] showdown starts
+[SHOWDOWN] player yi95yi_6_4 shows 9 club J club Q heart 7 heart K heart, which is high card.
+[SHOWDOWN] player Gaotaku_6_5 shows K heart Q heart J heart 7 heart 6 diamond, which is high card.
+[SHOWDOWN] player GiHe_6_6 shows J spade Q heart 7 heart K heart 6 diamond, which is high card.
+[GAME STAT] pot 0 with 120 chips is shared by 1 players
+[GAME STAT] player yi95yi_6_4 gets 120 chips from pot 0
+[GAME STAT] overall statistics
+[GAME STAT] player BigNews!_6_3 wins 0 chips in this game
+[GAME STAT] player yi95yi_6_4 wins 80 chips in this game
+[GAME STAT] player Gaotaku_6_5 wins -40 chips in this game
+[GAME STAT] player GiHe_6_6 wins -40 chips in this game
+[GAME STAT] player WaP_6_7 wins 0 chips in this game
+[GAME 14] game ends, invoking player.game_end()
+[GAME 15] game starts
+[GAME INFO] number of participants in this game = 5
+[GAME INFO] participant: BigNews!_6_3, chip = 2928
+[GAME INFO] participant: yi95yi_6_4, chip = 8955
+[GAME INFO] participant: Gaotaku_6_5, chip = 3040
+[GAME INFO] participant: GiHe_6_6, chip = 6116
+[GAME INFO] participant: WaP_6_7, chip = 2961
+[GAME INFO] I am out of the game.
+[GAME INFO] blind is 20
+[GAME INFO] dealer is yi95yi_6_4
+[GAME INFO] small blind 20 posted by Gaotaku_6_5
+[GAME INFO] big blind 40 posted by GiHe_6_6
+[preflop] round starts
+[preflop] player BigNews!_6_3 has 2928 chips
+[preflop] player yi95yi_6_4 has 8955 chips
+[preflop] player Gaotaku_6_5 has 3020 chips
+[preflop] player GiHe_6_6 has 6076 chips
+[preflop] player WaP_6_7 has 2961 chips
+[preflop] player WaP_6_7 folds
+[preflop] player BigNews!_6_3 folds
+[preflop] player yi95yi_6_4 calls. Total bet is 40
+[preflop] player Gaotaku_6_5 calls. Total bet is 40
+[preflop] player GiHe_6_6 calls. Total bet is 40
+[flop] 7 spade
+[flop] 10 heart
+[flop] 8 diamond
+[flop] round starts
+[flop] player BigNews!_6_3 has 2928 chips
+[flop] player yi95yi_6_4 has 8915 chips
+[flop] player Gaotaku_6_5 has 3000 chips
+[flop] player GiHe_6_6 has 6076 chips
+[flop] player WaP_6_7 has 2961 chips
+[flop] player Gaotaku_6_5 checks
+[flop] player GiHe_6_6 checks
+[flop] player yi95yi_6_4 checks
+[flop] round ends
+[turn] 4 heart
+[turn] round starts
+[turn] player BigNews!_6_3 has 2928 chips
+[turn] player yi95yi_6_4 has 8915 chips
+[turn] player Gaotaku_6_5 has 3000 chips
+[turn] player GiHe_6_6 has 6076 chips
+[turn] player WaP_6_7 has 2961 chips
+[turn] player Gaotaku_6_5 checks
+[turn] player GiHe_6_6 checks
+[turn] player yi95yi_6_4 checks
 [turn] round ends
 [river] 2 spade
 [river] round starts
-[river] player NX01_1_0 has 5435 chips
-[river] player Minty_1_1 has 2214 chips
-[river] player The Joker_1_3 has 2473 chips
-[river] player Mars_1_5 has 3367 chips
-[river] player wereFluke_1_6 has 3932 chips
-[river] player WaP_1_7 has 4579 chips
-[river] player wereFluke_1_6 folds
+[river] player BigNews!_6_3 has 2928 chips
+[river] player yi95yi_6_4 has 8915 chips
+[river] player Gaotaku_6_5 has 3000 chips
+[river] player GiHe_6_6 has 6076 chips
+[river] player WaP_6_7 has 2961 chips
+[river] player Gaotaku_6_5 checks
+[river] player GiHe_6_6 checks
+[river] player yi95yi_6_4 checks
 [river] round ends
-[GAME STAT] pot 0 with 2000 chips is shared by 1 players
-[GAME STAT] player WaP_1_7 gets 2000 chips from pot 0
+[SHOWDOWN] showdown starts
+[SHOWDOWN] player Gaotaku_6_5 shows 10 spade 10 heart 7 club 7 spade 8 diamond, which is two pair.
+[SHOWDOWN] player GiHe_6_6 shows 4 diamond 8 spade 10 heart 8 diamond 4 heart, which is two pair.
+[SHOWDOWN] player yi95yi_6_4 shows Q diamond 2 club 10 heart 8 diamond 2 spade, which is one pair.
+[GAME STAT] pot 0 with 120 chips is shared by 1 players
+[GAME STAT] player Gaotaku_6_5 gets 120 chips from pot 0
 [GAME STAT] overall statistics
-[GAME STAT] player NX01_1_0 wins 0 chips in this game
-[GAME STAT] player Minty_1_1 wins 0 chips in this game
-[GAME STAT] player The Joker_1_3 wins 0 chips in this game
-[GAME STAT] player Mars_1_5 wins 0 chips in this game
-[GAME STAT] player wereFluke_1_6 wins -1000 chips in this game
-[GAME STAT] player WaP_1_7 wins 1000 chips in this game
+[GAME STAT] player BigNews!_6_3 wins 0 chips in this game
+[GAME STAT] player yi95yi_6_4 wins -40 chips in this game
+[GAME STAT] player Gaotaku_6_5 wins 80 chips in this game
+[GAME STAT] player GiHe_6_6 wins -40 chips in this game
+[GAME STAT] player WaP_6_7 wins 0 chips in this game
+[GAME 15] game ends, invoking player.game_end()
+[GAME 16] game starts
+[GAME INFO] number of participants in this game = 5
+[GAME INFO] participant: BigNews!_6_3, chip = 2928
+[GAME INFO] participant: yi95yi_6_4, chip = 8915
+[GAME INFO] participant: Gaotaku_6_5, chip = 3120
+[GAME INFO] participant: GiHe_6_6, chip = 6076
+[GAME INFO] participant: WaP_6_7, chip = 2961
+[GAME INFO] I am out of the game.
+[GAME INFO] blind is 50
+[GAME INFO] dealer is Gaotaku_6_5
+[GAME INFO] small blind 50 posted by GiHe_6_6
+[GAME INFO] big blind 100 posted by WaP_6_7
+[preflop] round starts
+[preflop] player BigNews!_6_3 has 2928 chips
+[preflop] player yi95yi_6_4 has 8915 chips
+[preflop] player Gaotaku_6_5 has 3120 chips
+[preflop] player GiHe_6_6 has 6026 chips
+[preflop] player WaP_6_7 has 2861 chips
+[preflop] player BigNews!_6_3 folds
+[preflop] player yi95yi_6_4 calls. Total bet is 100
+[preflop] player Gaotaku_6_5 calls. Total bet is 100
+[preflop] player GiHe_6_6 calls. Total bet is 100
+[preflop] player WaP_6_7 calls. Total bet is 100
+[flop] K heart
+[flop] 3 heart
+[flop] J spade
+[flop] round starts
+[flop] player BigNews!_6_3 has 2928 chips
+[flop] player yi95yi_6_4 has 8815 chips
+[flop] player Gaotaku_6_5 has 3020 chips
+[flop] player GiHe_6_6 has 5976 chips
+[flop] player WaP_6_7 has 2861 chips
+[flop] player GiHe_6_6 checks
+[flop] player WaP_6_7 checks
+[flop] player yi95yi_6_4 checks
+[flop] player Gaotaku_6_5 checks
+[flop] round ends
+[turn] 9 club
+[turn] round starts
+[turn] player BigNews!_6_3 has 2928 chips
+[turn] player yi95yi_6_4 has 8815 chips
+[turn] player Gaotaku_6_5 has 3020 chips
+[turn] player GiHe_6_6 has 5976 chips
+[turn] player WaP_6_7 has 2861 chips
+[turn] player GiHe_6_6 checks
+[turn] player WaP_6_7 checks
+[turn] player yi95yi_6_4 checks
+[turn] player Gaotaku_6_5 checks
+[turn] round ends
+[river] 8 heart
+[river] round starts
+[river] player BigNews!_6_3 has 2928 chips
+[river] player yi95yi_6_4 has 8815 chips
+[river] player Gaotaku_6_5 has 3020 chips
+[river] player GiHe_6_6 has 5976 chips
+[river] player WaP_6_7 has 2861 chips
+[river] player GiHe_6_6 checks
+[river] player WaP_6_7 checks
+[river] player yi95yi_6_4 checks
+[river] player Gaotaku_6_5 checks
+[river] round ends
+[SHOWDOWN] showdown starts
+[SHOWDOWN] player Gaotaku_6_5 shows K diamond K heart J spade 9 club 8 heart, which is one pair.
+[SHOWDOWN] player WaP_6_7 shows K heart J spade 9 diamond 9 club 8 heart, which is one pair.
+[SHOWDOWN] player GiHe_6_6 shows 8 club K heart J spade 9 club 8 heart, which is one pair.
+[SHOWDOWN] player yi95yi_6_4 shows 5 diamond 5 club K heart J spade 9 club, which is one pair.
+[GAME STAT] pot 0 with 400 chips is shared by 1 players
+[GAME STAT] player Gaotaku_6_5 gets 400 chips from pot 0
+[GAME STAT] overall statistics
+[GAME STAT] player BigNews!_6_3 wins 0 chips in this game
+[GAME STAT] player yi95yi_6_4 wins -100 chips in this game
+[GAME STAT] player Gaotaku_6_5 wins 300 chips in this game
+[GAME STAT] player GiHe_6_6 wins -100 chips in this game
+[GAME STAT] player WaP_6_7 wins -100 chips in this game
+[GAME 16] game ends, invoking player.game_end()
+[GAME 17] game starts
+[GAME INFO] number of participants in this game = 5
+[GAME INFO] participant: BigNews!_6_3, chip = 2928
+[GAME INFO] participant: yi95yi_6_4, chip = 8815
+[GAME INFO] participant: Gaotaku_6_5, chip = 3420
+[GAME INFO] participant: GiHe_6_6, chip = 5976
+[GAME INFO] participant: WaP_6_7, chip = 2861
+[GAME INFO] I am out of the game.
+[GAME INFO] blind is 50
+[GAME INFO] dealer is GiHe_6_6
+[GAME INFO] small blind 50 posted by WaP_6_7
+[GAME INFO] big blind 100 posted by BigNews!_6_3
+[preflop] round starts
+[preflop] player BigNews!_6_3 has 2828 chips
+[preflop] player yi95yi_6_4 has 8815 chips
+[preflop] player Gaotaku_6_5 has 3420 chips
+[preflop] player GiHe_6_6 has 5976 chips
+[preflop] player WaP_6_7 has 2811 chips
+[preflop] player yi95yi_6_4 calls. Total bet is 100
+[preflop] player Gaotaku_6_5 calls. Total bet is 100
+[preflop] player GiHe_6_6 calls. Total bet is 100
+[preflop] player WaP_6_7 calls. Total bet is 100
+[preflop] player BigNews!_6_3 calls. Total bet is 100
+[flop] 6 club
+[flop] A spade
+[flop] 2 diamond
+[flop] round starts
+[flop] player BigNews!_6_3 has 2828 chips
+[flop] player yi95yi_6_4 has 8715 chips
+[flop] player Gaotaku_6_5 has 3320 chips
+[flop] player GiHe_6_6 has 5876 chips
+[flop] player WaP_6_7 has 2761 chips
+[flop] player WaP_6_7 checks
+[flop] player BigNews!_6_3 checks
+[flop] player yi95yi_6_4 checks
+[flop] player Gaotaku_6_5 checks
+[flop] player GiHe_6_6 checks
+[flop] round ends
+[turn] 8 heart
+[turn] round starts
+[turn] player BigNews!_6_3 has 2828 chips
+[turn] player yi95yi_6_4 has 8715 chips
+[turn] player Gaotaku_6_5 has 3320 chips
+[turn] player GiHe_6_6 has 5876 chips
+[turn] player WaP_6_7 has 2761 chips
+[turn] player WaP_6_7 checks
+[turn] player BigNews!_6_3 checks
+[turn] player yi95yi_6_4 checks
+[turn] player Gaotaku_6_5 checks
+[turn] player GiHe_6_6 checks
+[turn] round ends
+[river] 10 diamond
+[river] round starts
+[river] player BigNews!_6_3 has 2828 chips
+[river] player yi95yi_6_4 has 8715 chips
+[river] player Gaotaku_6_5 has 3320 chips
+[river] player GiHe_6_6 has 5876 chips
+[river] player WaP_6_7 has 2761 chips
+[river] player WaP_6_7 checks
+[river] player BigNews!_6_3 checks
+[river] player yi95yi_6_4 checks
+[river] player Gaotaku_6_5 checks
+[river] player GiHe_6_6 checks
+[river] round ends
+[SHOWDOWN] showdown starts
+[SHOWDOWN] player Gaotaku_6_5 shows 10 spade 10 diamond 8 heart 8 diamond A spade, which is two pair.
+[SHOWDOWN] player WaP_6_7 shows A diamond A spade Q spade 10 diamond 8 heart, which is one pair.
+[SHOWDOWN] player BigNews!_6_3 shows A club 6 club A spade 8 heart 10 diamond, which is one pair.
+[SHOWDOWN] player yi95yi_6_4 shows Q club K diamond A spade 8 heart 10 diamond, which is high card.
+[SHOWDOWN] player GiHe_6_6 shows K club 6 club A spade 8 heart 10 diamond, which is high card.
+[GAME STAT] pot 0 with 500 chips is shared by 1 players
+[GAME STAT] player Gaotaku_6_5 gets 500 chips from pot 0
+[GAME STAT] overall statistics
+[GAME STAT] player BigNews!_6_3 wins -100 chips in this game
+[GAME STAT] player yi95yi_6_4 wins -100 chips in this game
+[GAME STAT] player Gaotaku_6_5 wins 400 chips in this game
+[GAME STAT] player GiHe_6_6 wins -100 chips in this game
+[GAME STAT] player WaP_6_7 wins -100 chips in this game
+[GAME 17] game ends, invoking player.game_end()
+[GAME 18] game starts
+[GAME INFO] number of participants in this game = 5
+[GAME INFO] participant: BigNews!_6_3, chip = 2828
+[GAME INFO] participant: yi95yi_6_4, chip = 8715
+[GAME INFO] participant: Gaotaku_6_5, chip = 3820
+[GAME INFO] participant: GiHe_6_6, chip = 5876
+[GAME INFO] participant: WaP_6_7, chip = 2761
+[GAME INFO] I am out of the game.
+[GAME INFO] blind is 50
+[GAME INFO] dealer is WaP_6_7
+[GAME INFO] small blind 50 posted by BigNews!_6_3
+[GAME INFO] big blind 100 posted by yi95yi_6_4
+[preflop] round starts
+[preflop] player BigNews!_6_3 has 2778 chips
+[preflop] player yi95yi_6_4 has 8615 chips
+[preflop] player Gaotaku_6_5 has 3820 chips
+[preflop] player GiHe_6_6 has 5876 chips
+[preflop] player WaP_6_7 has 2761 chips
+[preflop] player Gaotaku_6_5 calls. Total bet is 100
+[preflop] player GiHe_6_6 calls. Total bet is 100
+[preflop] player WaP_6_7 folds
+[preflop] player BigNews!_6_3 calls. Total bet is 100
+[preflop] player yi95yi_6_4 calls. Total bet is 100
+[flop] 10 diamond
+[flop] 10 spade
+[flop] K diamond
+[flop] round starts
+[flop] player BigNews!_6_3 has 2728 chips
+[flop] player yi95yi_6_4 has 8615 chips
+[flop] player Gaotaku_6_5 has 3720 chips
+[flop] player GiHe_6_6 has 5776 chips
+[flop] player WaP_6_7 has 2761 chips
+[flop] player BigNews!_6_3 checks
+[flop] player yi95yi_6_4 checks
+[flop] player Gaotaku_6_5 checks
+[flop] player GiHe_6_6 checks
+[flop] round ends
+[turn] 4 heart
+[turn] round starts
+[turn] player BigNews!_6_3 has 2728 chips
+[turn] player yi95yi_6_4 has 8615 chips
+[turn] player Gaotaku_6_5 has 3720 chips
+[turn] player GiHe_6_6 has 5776 chips
+[turn] player WaP_6_7 has 2761 chips
+[turn] player BigNews!_6_3 checks
+[turn] player yi95yi_6_4 checks
+[turn] player Gaotaku_6_5 checks
+[turn] player GiHe_6_6 checks
+[turn] round ends
+[river] J spade
+[river] round starts
+[river] player BigNews!_6_3 has 2728 chips
+[river] player yi95yi_6_4 has 8615 chips
+[river] player Gaotaku_6_5 has 3720 chips
+[river] player GiHe_6_6 has 5776 chips
+[river] player WaP_6_7 has 2761 chips
+[river] player BigNews!_6_3 checks
+[river] player yi95yi_6_4 checks
+[river] player Gaotaku_6_5 checks
+[river] player GiHe_6_6 checks
+[river] round ends
+[SHOWDOWN] showdown starts
+[SHOWDOWN] player BigNews!_6_3 shows K club 10 diamond 10 spade K diamond J spade, which is two pair.
+[SHOWDOWN] player yi95yi_6_4 shows J heart 10 diamond 10 spade K diamond J spade, which is two pair.
+[SHOWDOWN] player Gaotaku_6_5 shows 10 diamond 10 spade K diamond Q spade J spade, which is one pair.
+[SHOWDOWN] player GiHe_6_6 shows 7 diamond 10 diamond 10 spade K diamond J spade, which is one pair.
+[GAME STAT] pot 0 with 400 chips is shared by 1 players
+[GAME STAT] player BigNews!_6_3 gets 400 chips from pot 0
+[GAME STAT] overall statistics
+[GAME STAT] player BigNews!_6_3 wins 300 chips in this game
+[GAME STAT] player yi95yi_6_4 wins -100 chips in this game
+[GAME STAT] player Gaotaku_6_5 wins -100 chips in this game
+[GAME STAT] player GiHe_6_6 wins -100 chips in this game
+[GAME STAT] player WaP_6_7 wins 0 chips in this game
+[GAME 18] game ends, invoking player.game_end()
+[GAME 19] game starts
+[GAME INFO] number of participants in this game = 5
+[GAME INFO] participant: BigNews!_6_3, chip = 3128
+[GAME INFO] participant: yi95yi_6_4, chip = 8615
+[GAME INFO] participant: Gaotaku_6_5, chip = 3720
+[GAME INFO] participant: GiHe_6_6, chip = 5776
+[GAME INFO] participant: WaP_6_7, chip = 2761
+[GAME INFO] I am out of the game.
+[GAME INFO] blind is 100
+[GAME INFO] dealer is BigNews!_6_3
+[GAME INFO] small blind 100 posted by yi95yi_6_4
+[GAME INFO] big blind 200 posted by Gaotaku_6_5
+[preflop] round starts
+[preflop] player BigNews!_6_3 has 3128 chips
+[preflop] player yi95yi_6_4 has 8515 chips
+[preflop] player Gaotaku_6_5 has 3520 chips
+[preflop] player GiHe_6_6 has 5776 chips
+[preflop] player WaP_6_7 has 2761 chips
+[preflop] player GiHe_6_6 calls. Total bet is 200
+[preflop] player WaP_6_7 folds
+[preflop] player BigNews!_6_3 folds
+[preflop] player yi95yi_6_4 raises 500. Total bet is 700
+[preflop] player Gaotaku_6_5 calls. Total bet is 700
+[preflop] player GiHe_6_6 folds
+[flop] 2 spade
+[flop] 4 diamond
+[flop] 8 spade
+[flop] round starts
+[flop] player BigNews!_6_3 has 3128 chips
+[flop] player yi95yi_6_4 has 7915 chips
+[flop] player Gaotaku_6_5 has 3020 chips
+[flop] player GiHe_6_6 has 5576 chips
+[flop] player WaP_6_7 has 2761 chips
+[flop] player yi95yi_6_4 checks
+[flop] player Gaotaku_6_5 checks
+[flop] round ends
+[turn] 9 spade
+[turn] round starts
+[turn] player BigNews!_6_3 has 3128 chips
+[turn] player yi95yi_6_4 has 7915 chips
+[turn] player Gaotaku_6_5 has 3020 chips
+[turn] player GiHe_6_6 has 5576 chips
+[turn] player WaP_6_7 has 2761 chips
+[turn] player yi95yi_6_4 checks
+[turn] player Gaotaku_6_5 checks
+[turn] round ends
+[river] J heart
+[river] round starts
+[river] player BigNews!_6_3 has 3128 chips
+[river] player yi95yi_6_4 has 7915 chips
+[river] player Gaotaku_6_5 has 3020 chips
+[river] player GiHe_6_6 has 5576 chips
+[river] player WaP_6_7 has 2761 chips
+[river] player yi95yi_6_4 checks
+[river] player Gaotaku_6_5 checks
+[river] round ends
+[SHOWDOWN] showdown starts
+[SHOWDOWN] player yi95yi_6_4 shows K spade K club 8 spade 9 spade J heart, which is one pair.
+[SHOWDOWN] player Gaotaku_6_5 shows J heart 9 spade 8 spade 6 club 4 diamond, which is high card.
+[GAME STAT] pot 0 with 600 chips is shared by 1 players
+[GAME STAT] player yi95yi_6_4 gets 600 chips from pot 0
+[GAME STAT] pot 1 with 1000 chips is shared by 1 players
+[GAME STAT] player yi95yi_6_4 gets 1000 chips from pot 1
+[GAME STAT] overall statistics
+[GAME STAT] player BigNews!_6_3 wins 0 chips in this game
+[GAME STAT] player yi95yi_6_4 wins 900 chips in this game
+[GAME STAT] player Gaotaku_6_5 wins -700 chips in this game
+[GAME STAT] player GiHe_6_6 wins -200 chips in this game
+[GAME STAT] player WaP_6_7 wins 0 chips in this game
+[GAME 19] game ends, invoking player.game_end()
+[GAME 20] game starts
+[GAME INFO] number of participants in this game = 5
+[GAME INFO] participant: BigNews!_6_3, chip = 3128
+[GAME INFO] participant: yi95yi_6_4, chip = 9515
+[GAME INFO] participant: Gaotaku_6_5, chip = 3020
+[GAME INFO] participant: GiHe_6_6, chip = 5576
+[GAME INFO] participant: WaP_6_7, chip = 2761
+[GAME INFO] I am out of the game.
+[GAME INFO] blind is 100
+[GAME INFO] dealer is yi95yi_6_4
+[GAME INFO] small blind 100 posted by Gaotaku_6_5
+[GAME INFO] big blind 200 posted by GiHe_6_6
+[preflop] round starts
+[preflop] player BigNews!_6_3 has 3128 chips
+[preflop] player yi95yi_6_4 has 9515 chips
+[preflop] player Gaotaku_6_5 has 2920 chips
+[preflop] player GiHe_6_6 has 5376 chips
+[preflop] player WaP_6_7 has 2761 chips
+[preflop] player WaP_6_7 calls. Total bet is 200
+[preflop] player BigNews!_6_3 folds
+[preflop] player yi95yi_6_4 calls. Total bet is 200
+[preflop] player Gaotaku_6_5 calls. Total bet is 200
+[preflop] player GiHe_6_6 calls. Total bet is 200
+[flop] 10 spade
+[flop] 3 club
+[flop] 2 diamond
+[flop] round starts
+[flop] player BigNews!_6_3 has 3128 chips
+[flop] player yi95yi_6_4 has 9315 chips
+[flop] player Gaotaku_6_5 has 2820 chips
+[flop] player GiHe_6_6 has 5376 chips
+[flop] player WaP_6_7 has 2561 chips
+[flop] player Gaotaku_6_5 checks
+[flop] player GiHe_6_6 checks
+[flop] player WaP_6_7 checks
+[flop] player yi95yi_6_4 checks
+[flop] round ends
+[turn] A heart
+[turn] round starts
+[turn] player BigNews!_6_3 has 3128 chips
+[turn] player yi95yi_6_4 has 9315 chips
+[turn] player Gaotaku_6_5 has 2820 chips
+[turn] player GiHe_6_6 has 5376 chips
+[turn] player WaP_6_7 has 2561 chips
+[turn] player Gaotaku_6_5 checks
+[turn] player GiHe_6_6 checks
+[turn] player WaP_6_7 checks
+[turn] player yi95yi_6_4 checks
+[turn] round ends
+[river] 9 diamond
+[river] round starts
+[river] player BigNews!_6_3 has 3128 chips
+[river] player yi95yi_6_4 has 9315 chips
+[river] player Gaotaku_6_5 has 2820 chips
+[river] player GiHe_6_6 has 5376 chips
+[river] player WaP_6_7 has 2561 chips
+[river] player Gaotaku_6_5 checks
+[river] player GiHe_6_6 checks
+[river] player WaP_6_7 checks
+[river] player yi95yi_6_4 checks
+[river] round ends
+[SHOWDOWN] showdown starts
+[SHOWDOWN] player WaP_6_7 shows A heart 10 spade 9 diamond 7 club 7 heart, which is one pair.
+[SHOWDOWN] player yi95yi_6_4 shows Q spade 3 diamond 10 spade 3 club A heart, which is one pair.
+[SHOWDOWN] player Gaotaku_6_5 shows A heart K club 10 spade 9 diamond 4 club, which is high card.
+[SHOWDOWN] player GiHe_6_6 shows 8 spade 5 heart 10 spade A heart 9 diamond, which is high card.
+[GAME STAT] pot 0 with 800 chips is shared by 1 players
+[GAME STAT] player WaP_6_7 gets 800 chips from pot 0
+[GAME STAT] overall statistics
+[GAME STAT] player BigNews!_6_3 wins 0 chips in this game
+[GAME STAT] player yi95yi_6_4 wins -200 chips in this game
+[GAME STAT] player Gaotaku_6_5 wins -200 chips in this game
+[GAME STAT] player GiHe_6_6 wins -200 chips in this game
+[GAME STAT] player WaP_6_7 wins 600 chips in this game
+[GAME 20] game ends, invoking player.game_end()
+[GAME 21] game starts
+[GAME INFO] number of participants in this game = 5
+[GAME INFO] participant: BigNews!_6_3, chip = 3128
+[GAME INFO] participant: yi95yi_6_4, chip = 9315
+[GAME INFO] participant: Gaotaku_6_5, chip = 2820
+[GAME INFO] participant: GiHe_6_6, chip = 5376
+[GAME INFO] participant: WaP_6_7, chip = 3361
+[GAME INFO] I am out of the game.
+[GAME INFO] blind is 100
+[GAME INFO] dealer is Gaotaku_6_5
+[GAME INFO] small blind 100 posted by GiHe_6_6
+[GAME INFO] big blind 200 posted by WaP_6_7
+[preflop] round starts
+[preflop] player BigNews!_6_3 has 3128 chips
+[preflop] player yi95yi_6_4 has 9315 chips
+[preflop] player Gaotaku_6_5 has 2820 chips
+[preflop] player GiHe_6_6 has 5276 chips
+[preflop] player WaP_6_7 has 3161 chips
+[preflop] player BigNews!_6_3 folds
+[preflop] player yi95yi_6_4 calls. Total bet is 200
+[preflop] player Gaotaku_6_5 calls. Total bet is 200
+[preflop] player GiHe_6_6 calls. Total bet is 200
+[preflop] player WaP_6_7 calls. Total bet is 200
+[flop] J diamond
+[flop] 3 diamond
+[flop] 5 heart
+[flop] round starts
+[flop] player BigNews!_6_3 has 3128 chips
+[flop] player yi95yi_6_4 has 9115 chips
+[flop] player Gaotaku_6_5 has 2620 chips
+[flop] player GiHe_6_6 has 5176 chips
+[flop] player WaP_6_7 has 3161 chips
+[flop] player GiHe_6_6 checks
+[flop] player WaP_6_7 checks
+[flop] player yi95yi_6_4 checks
+[flop] player Gaotaku_6_5 checks
+[flop] round ends
+[turn] 9 diamond
+[turn] round starts
+[turn] player BigNews!_6_3 has 3128 chips
+[turn] player yi95yi_6_4 has 9115 chips
+[turn] player Gaotaku_6_5 has 2620 chips
+[turn] player GiHe_6_6 has 5176 chips
+[turn] player WaP_6_7 has 3161 chips
+[turn] player GiHe_6_6 checks
+[turn] player WaP_6_7 checks
+[turn] player yi95yi_6_4 checks
+[turn] player Gaotaku_6_5 checks
+[turn] round ends
+[river] A spade
+[river] round starts
+[river] player BigNews!_6_3 has 3128 chips
+[river] player yi95yi_6_4 has 9115 chips
+[river] player Gaotaku_6_5 has 2620 chips
+[river] player GiHe_6_6 has 5176 chips
+[river] player WaP_6_7 has 3161 chips
+[river] player GiHe_6_6 checks
+[river] player WaP_6_7 checks
+[river] player yi95yi_6_4 checks
+[river] player Gaotaku_6_5 checks
+[river] round ends
+[SHOWDOWN] showdown starts
+[SHOWDOWN] player WaP_6_7 shows A heart A spade J diamond 9 diamond 8 diamond, which is one pair.
+[SHOWDOWN] player GiHe_6_6 shows J heart J diamond 5 heart 9 diamond A spade, which is one pair.
+[SHOWDOWN] player yi95yi_6_4 shows 10 spade 6 spade J diamond 9 diamond A spade, which is high card.
+[SHOWDOWN] player Gaotaku_6_5 shows A spade J diamond 9 diamond 7 diamond 6 club, which is high card.
+[GAME STAT] pot 0 with 800 chips is shared by 1 players
+[GAME STAT] player WaP_6_7 gets 800 chips from pot 0
+[GAME STAT] overall statistics
+[GAME STAT] player BigNews!_6_3 wins 0 chips in this game
+[GAME STAT] player yi95yi_6_4 wins -200 chips in this game
+[GAME STAT] player Gaotaku_6_5 wins -200 chips in this game
+[GAME STAT] player GiHe_6_6 wins -200 chips in this game
+[GAME STAT] player WaP_6_7 wins 600 chips in this game
+[GAME 21] game ends, invoking player.game_end()
+[GAME 22] game starts
+[GAME INFO] number of participants in this game = 5
+[GAME INFO] participant: BigNews!_6_3, chip = 3128
+[GAME INFO] participant: yi95yi_6_4, chip = 9115
+[GAME INFO] participant: Gaotaku_6_5, chip = 2620
+[GAME INFO] participant: GiHe_6_6, chip = 5176
+[GAME INFO] participant: WaP_6_7, chip = 3961
+[GAME INFO] I am out of the game.
+[GAME INFO] blind is 200
+[GAME INFO] dealer is GiHe_6_6
+[GAME INFO] small blind 200 posted by WaP_6_7
+[GAME INFO] big blind 400 posted by BigNews!_6_3
+[preflop] round starts
+[preflop] player BigNews!_6_3 has 2728 chips
+[preflop] player yi95yi_6_4 has 9115 chips
+[preflop] player Gaotaku_6_5 has 2620 chips
+[preflop] player GiHe_6_6 has 5176 chips
+[preflop] player WaP_6_7 has 3761 chips
+[preflop] player yi95yi_6_4 folds
+[preflop] player Gaotaku_6_5 calls. Total bet is 400
+[preflop] player GiHe_6_6 calls. Total bet is 400
+[preflop] player WaP_6_7 folds
+[preflop] player BigNews!_6_3 calls. Total bet is 400
+[flop] K club
+[flop] K spade
+[flop] 8 club
+[flop] round starts
+[flop] player BigNews!_6_3 has 2728 chips
+[flop] player yi95yi_6_4 has 9115 chips
+[flop] player Gaotaku_6_5 has 2220 chips
+[flop] player GiHe_6_6 has 4776 chips
+[flop] player WaP_6_7 has 3761 chips
+[flop] player BigNews!_6_3 checks
+[flop] player Gaotaku_6_5 checks
+[flop] player GiHe_6_6 checks
+[flop] round ends
+[turn] 6 diamond
+[turn] round starts
+[turn] player BigNews!_6_3 has 2728 chips
+[turn] player yi95yi_6_4 has 9115 chips
+[turn] player Gaotaku_6_5 has 2220 chips
+[turn] player GiHe_6_6 has 4776 chips
+[turn] player WaP_6_7 has 3761 chips
+[turn] player BigNews!_6_3 checks
+[turn] player Gaotaku_6_5 checks
+[turn] player GiHe_6_6 checks
+[turn] round ends
+[river] 7 club
+[river] round starts
+[river] player BigNews!_6_3 has 2728 chips
+[river] player yi95yi_6_4 has 9115 chips
+[river] player Gaotaku_6_5 has 2220 chips
+[river] player GiHe_6_6 has 4776 chips
+[river] player WaP_6_7 has 3761 chips
+[river] player BigNews!_6_3 checks
+[river] player Gaotaku_6_5 checks
+[river] player GiHe_6_6 checks
+[river] round ends
+[SHOWDOWN] showdown starts
+[SHOWDOWN] player GiHe_6_6 shows J diamond J club K club K spade 8 club, which is two pair.
+[SHOWDOWN] player Gaotaku_6_5 shows K club K spade A club 8 club 7 club, which is one pair.
+[SHOWDOWN] player BigNews!_6_3 shows 10 club K club K spade 8 club 7 club, which is one pair.
+[GAME STAT] pot 0 with 800 chips is shared by 1 players
+[GAME STAT] player GiHe_6_6 gets 800 chips from pot 0
+[GAME STAT] pot 1 with 600 chips is shared by 1 players
+[GAME STAT] player GiHe_6_6 gets 600 chips from pot 1
+[GAME STAT] overall statistics
+[GAME STAT] player BigNews!_6_3 wins -400 chips in this game
+[GAME STAT] player yi95yi_6_4 wins 0 chips in this game
+[GAME STAT] player Gaotaku_6_5 wins -400 chips in this game
+[GAME STAT] player GiHe_6_6 wins 1000 chips in this game
+[GAME STAT] player WaP_6_7 wins -200 chips in this game
+[GAME 22] game ends, invoking player.game_end()
+[GAME 23] game starts
+[GAME INFO] number of participants in this game = 5
+[GAME INFO] participant: BigNews!_6_3, chip = 2728
+[GAME INFO] participant: yi95yi_6_4, chip = 9115
+[GAME INFO] participant: Gaotaku_6_5, chip = 2220
+[GAME INFO] participant: GiHe_6_6, chip = 6176
+[GAME INFO] participant: WaP_6_7, chip = 3761
+[GAME INFO] I am out of the game.
+[GAME INFO] blind is 200
+[GAME INFO] dealer is WaP_6_7
+[GAME INFO] small blind 200 posted by BigNews!_6_3
+[GAME INFO] big blind 400 posted by yi95yi_6_4
+[preflop] round starts
+[preflop] player BigNews!_6_3 has 2528 chips
+[preflop] player yi95yi_6_4 has 8715 chips
+[preflop] player Gaotaku_6_5 has 2220 chips
+[preflop] player GiHe_6_6 has 6176 chips
+[preflop] player WaP_6_7 has 3761 chips
+[preflop] player Gaotaku_6_5 calls. Total bet is 400
+[preflop] player GiHe_6_6 folds
+[preflop] player WaP_6_7 folds
+[preflop] player BigNews!_6_3 calls. Total bet is 400
+[preflop] player yi95yi_6_4 folds
+[flop] 10 club
+[flop] 6 spade
+[flop] 6 heart
+[flop] round starts
+[flop] player BigNews!_6_3 has 2328 chips
+[flop] player yi95yi_6_4 has 8715 chips
+[flop] player Gaotaku_6_5 has 1820 chips
+[flop] player GiHe_6_6 has 6176 chips
+[flop] player WaP_6_7 has 3761 chips
+[flop] player BigNews!_6_3 checks
+[flop] player Gaotaku_6_5 checks
+[flop] round ends
+[turn] K heart
+[turn] round starts
+[turn] player BigNews!_6_3 has 2328 chips
+[turn] player yi95yi_6_4 has 8715 chips
+[turn] player Gaotaku_6_5 has 1820 chips
+[turn] player GiHe_6_6 has 6176 chips
+[turn] player WaP_6_7 has 3761 chips
+[turn] player BigNews!_6_3 checks
+[turn] player Gaotaku_6_5 checks
+[turn] round ends
+[river] K spade
+[river] round starts
+[river] player BigNews!_6_3 has 2328 chips
+[river] player yi95yi_6_4 has 8715 chips
+[river] player Gaotaku_6_5 has 1820 chips
+[river] player GiHe_6_6 has 6176 chips
+[river] player WaP_6_7 has 3761 chips
+[river] player BigNews!_6_3 checks
+[river] player Gaotaku_6_5 checks
+[river] round ends
+[SHOWDOWN] showdown starts
+[SHOWDOWN] player BigNews!_6_3 shows A diamond 6 spade 6 heart K heart K spade, which is two pair.
+[SHOWDOWN] player Gaotaku_6_5 shows K heart K spade 6 spade 6 heart 10 club, which is two pair.
+[GAME STAT] pot 0 with 1200 chips is shared by 1 players
+[GAME STAT] player BigNews!_6_3 gets 1200 chips from pot 0
+[GAME STAT] overall statistics
+[GAME STAT] player BigNews!_6_3 wins 800 chips in this game
+[GAME STAT] player yi95yi_6_4 wins -400 chips in this game
+[GAME STAT] player Gaotaku_6_5 wins -400 chips in this game
+[GAME STAT] player GiHe_6_6 wins 0 chips in this game
+[GAME STAT] player WaP_6_7 wins 0 chips in this game
+[GAME 23] game ends, invoking player.game_end()
+[GAME 24] game starts
+[GAME INFO] number of participants in this game = 5
+[GAME INFO] participant: BigNews!_6_3, chip = 3528
+[GAME INFO] participant: yi95yi_6_4, chip = 8715
+[GAME INFO] participant: Gaotaku_6_5, chip = 1820
+[GAME INFO] participant: GiHe_6_6, chip = 6176
+[GAME INFO] participant: WaP_6_7, chip = 3761
+[GAME INFO] I am out of the game.
+[GAME INFO] blind is 200
+[GAME INFO] dealer is BigNews!_6_3
+[GAME INFO] small blind 200 posted by yi95yi_6_4
+[GAME INFO] big blind 400 posted by Gaotaku_6_5
+[preflop] round starts
+[preflop] player BigNews!_6_3 has 3528 chips
+[preflop] player yi95yi_6_4 has 8515 chips
+[preflop] player Gaotaku_6_5 has 1420 chips
+[preflop] player GiHe_6_6 has 6176 chips
+[preflop] player WaP_6_7 has 3761 chips
+[preflop] player GiHe_6_6 folds
+[preflop] player WaP_6_7 folds
+[preflop] player BigNews!_6_3 folds
+[preflop] player yi95yi_6_4 folds
+[GAME STAT] pot 0 with 400 chips is shared by 1 players
+[GAME STAT] player Gaotaku_6_5 gets 400 chips from pot 0
+[GAME STAT] pot 1 with 200 chips is shared by 1 players
+[GAME STAT] player Gaotaku_6_5 gets 200 chips from pot 1
+[GAME STAT] overall statistics
+[GAME STAT] player BigNews!_6_3 wins 0 chips in this game
+[GAME STAT] player yi95yi_6_4 wins -200 chips in this game
+[GAME STAT] player Gaotaku_6_5 wins 200 chips in this game
+[GAME STAT] player GiHe_6_6 wins 0 chips in this game
+[GAME STAT] player WaP_6_7 wins 0 chips in this game
+[GAME 24] game ends, invoking player.game_end()
+[GAME 25] game starts
+[GAME INFO] number of participants in this game = 5
+[GAME INFO] participant: BigNews!_6_3, chip = 3528
+[GAME INFO] participant: yi95yi_6_4, chip = 8515
+[GAME INFO] participant: Gaotaku_6_5, chip = 2020
+[GAME INFO] participant: GiHe_6_6, chip = 6176
+[GAME INFO] participant: WaP_6_7, chip = 3761
+[GAME INFO] I am out of the game.
+[GAME INFO] blind is 500
+[GAME INFO] dealer is yi95yi_6_4
+[GAME INFO] small blind 500 posted by Gaotaku_6_5
+[GAME INFO] big blind 1000 posted by GiHe_6_6
+[preflop] round starts
+[preflop] player BigNews!_6_3 has 3528 chips
+[preflop] player yi95yi_6_4 has 8515 chips
+[preflop] player Gaotaku_6_5 has 1520 chips
+[preflop] player GiHe_6_6 has 5176 chips
+[preflop] player WaP_6_7 has 3761 chips
+[preflop] player WaP_6_7 folds
+[preflop] player BigNews!_6_3 folds
+[preflop] player yi95yi_6_4 folds
+[preflop] player Gaotaku_6_5 calls. Total bet is 1000
+[preflop] player GiHe_6_6 calls. Total bet is 1000
+[flop] 3 club
+[flop] 5 club
+[flop] 6 diamond
+[flop] round starts
+[flop] player BigNews!_6_3 has 3528 chips
+[flop] player yi95yi_6_4 has 8515 chips
+[flop] player Gaotaku_6_5 has 1020 chips
+[flop] player GiHe_6_6 has 5176 chips
+[flop] player WaP_6_7 has 3761 chips
+[flop] player Gaotaku_6_5 checks
+[flop] player GiHe_6_6 checks
+[flop] round ends
+[turn] Q diamond
+[turn] round starts
+[turn] player BigNews!_6_3 has 3528 chips
+[turn] player yi95yi_6_4 has 8515 chips
+[turn] player Gaotaku_6_5 has 1020 chips
+[turn] player GiHe_6_6 has 5176 chips
+[turn] player WaP_6_7 has 3761 chips
+[turn] player Gaotaku_6_5 checks
+[turn] player GiHe_6_6 checks
+[turn] round ends
+[river] 8 spade
+[river] round starts
+[river] player BigNews!_6_3 has 3528 chips
+[river] player yi95yi_6_4 has 8515 chips
+[river] player Gaotaku_6_5 has 1020 chips
+[river] player GiHe_6_6 has 5176 chips
+[river] player WaP_6_7 has 3761 chips
+[river] player Gaotaku_6_5 checks
+[river] player GiHe_6_6 checks
+[river] round ends
+[SHOWDOWN] showdown starts
+[SHOWDOWN] player GiHe_6_6 shows 3 diamond 3 club 6 diamond Q diamond 8 spade, which is one pair.
+[SHOWDOWN] player Gaotaku_6_5 shows A club Q diamond 8 spade 6 diamond 5 club, which is high card.
+[GAME STAT] pot 0 with 2000 chips is shared by 1 players
+[GAME STAT] player GiHe_6_6 gets 2000 chips from pot 0
+[GAME STAT] overall statistics
+[GAME STAT] player BigNews!_6_3 wins 0 chips in this game
+[GAME STAT] player yi95yi_6_4 wins 0 chips in this game
+[GAME STAT] player Gaotaku_6_5 wins -1000 chips in this game
+[GAME STAT] player GiHe_6_6 wins 1000 chips in this game
+[GAME STAT] player WaP_6_7 wins 0 chips in this game
+[GAME 25] game ends, invoking player.game_end()
+[GAME 26] game starts
+[GAME INFO] number of participants in this game = 5
+[GAME INFO] participant: BigNews!_6_3, chip = 3528
+[GAME INFO] participant: yi95yi_6_4, chip = 8515
+[GAME INFO] participant: Gaotaku_6_5, chip = 1020
+[GAME INFO] participant: GiHe_6_6, chip = 7176
+[GAME INFO] participant: WaP_6_7, chip = 3761
+[GAME INFO] I am out of the game.
+[GAME INFO] blind is 500
+[GAME INFO] dealer is Gaotaku_6_5
+[GAME INFO] small blind 500 posted by GiHe_6_6
+[GAME INFO] big blind 1000 posted by WaP_6_7
+[preflop] round starts
+[preflop] player BigNews!_6_3 has 3528 chips
+[preflop] player yi95yi_6_4 has 8515 chips
+[preflop] player Gaotaku_6_5 has 1020 chips
+[preflop] player GiHe_6_6 has 6676 chips
+[preflop] player WaP_6_7 has 2761 chips
+[preflop] player BigNews!_6_3 folds
+[preflop] player yi95yi_6_4 folds
+[preflop] player Gaotaku_6_5 folds
+[preflop] player GiHe_6_6 folds
+[GAME STAT] pot 0 with 1000 chips is shared by 1 players
+[GAME STAT] player WaP_6_7 gets 1000 chips from pot 0
+[GAME STAT] pot 1 with 500 chips is shared by 1 players
+[GAME STAT] player WaP_6_7 gets 500 chips from pot 1
+[GAME STAT] overall statistics
+[GAME STAT] player BigNews!_6_3 wins 0 chips in this game
+[GAME STAT] player yi95yi_6_4 wins 0 chips in this game
+[GAME STAT] player Gaotaku_6_5 wins 0 chips in this game
+[GAME STAT] player GiHe_6_6 wins -500 chips in this game
+[GAME STAT] player WaP_6_7 wins 500 chips in this game
+[GAME 26] game ends, invoking player.game_end()
+[GAME 27] game starts
+[GAME INFO] number of participants in this game = 5
+[GAME INFO] participant: BigNews!_6_3, chip = 3528
+[GAME INFO] participant: yi95yi_6_4, chip = 8515
+[GAME INFO] participant: Gaotaku_6_5, chip = 1020
+[GAME INFO] participant: GiHe_6_6, chip = 6676
+[GAME INFO] participant: WaP_6_7, chip = 4261
+[GAME INFO] I am out of the game.
+[GAME INFO] blind is 500
+[GAME INFO] dealer is GiHe_6_6
+[GAME INFO] small blind 500 posted by WaP_6_7
+[GAME INFO] big blind 1000 posted by BigNews!_6_3
+[preflop] round starts
+[preflop] player BigNews!_6_3 has 2528 chips
+[preflop] player yi95yi_6_4 has 8515 chips
+[preflop] player Gaotaku_6_5 has 1020 chips
+[preflop] player GiHe_6_6 has 6676 chips
+[preflop] player WaP_6_7 has 3761 chips
+[preflop] player yi95yi_6_4 folds
+[preflop] player Gaotaku_6_5 folds
+[preflop] player GiHe_6_6 folds
+[preflop] player WaP_6_7 calls. Total bet is 1000
+[preflop] player BigNews!_6_3 calls. Total bet is 1000
+[flop] 9 spade
+[flop] J diamond
+[flop] 9 club
+[flop] round starts
+[flop] player BigNews!_6_3 has 2528 chips
+[flop] player yi95yi_6_4 has 8515 chips
+[flop] player Gaotaku_6_5 has 1020 chips
+[flop] player GiHe_6_6 has 6676 chips
+[flop] player WaP_6_7 has 3261 chips
+[flop] player WaP_6_7 checks
+[flop] player BigNews!_6_3 checks
+[flop] round ends
+[turn] 7 club
+[turn] round starts
+[turn] player BigNews!_6_3 has 2528 chips
+[turn] player yi95yi_6_4 has 8515 chips
+[turn] player Gaotaku_6_5 has 1020 chips
+[turn] player GiHe_6_6 has 6676 chips
+[turn] player WaP_6_7 has 3261 chips
+[turn] player WaP_6_7 checks
+[turn] player BigNews!_6_3 checks
+[turn] round ends
+[river] K spade
+[river] round starts
+[river] player BigNews!_6_3 has 2528 chips
+[river] player yi95yi_6_4 has 8515 chips
+[river] player Gaotaku_6_5 has 1020 chips
+[river] player GiHe_6_6 has 6676 chips
+[river] player WaP_6_7 has 3261 chips
+[river] player WaP_6_7 checks
+[river] player BigNews!_6_3 checks
+[river] round ends
+[SHOWDOWN] showdown starts
+[SHOWDOWN] player WaP_6_7 shows A spade A diamond K spade 9 spade 9 club, which is two pair.
+[SHOWDOWN] player BigNews!_6_3 shows K heart 9 spade J diamond 9 club K spade, which is two pair.
+[GAME STAT] pot 0 with 2000 chips is shared by 1 players
+[GAME STAT] player WaP_6_7 gets 2000 chips from pot 0
+[GAME STAT] overall statistics
+[GAME STAT] player BigNews!_6_3 wins -1000 chips in this game
+[GAME STAT] player yi95yi_6_4 wins 0 chips in this game
+[GAME STAT] player Gaotaku_6_5 wins 0 chips in this game
+[GAME STAT] player GiHe_6_6 wins 0 chips in this game
+[GAME STAT] player WaP_6_7 wins 1000 chips in this game
 [GAME 27] game ends, invoking player.game_end()
 [END]
 [FINAL STAT] chips
-[FINAL STAT] NX01_1_0 has 5435 chips
-[FINAL STAT] Minty_1_1 has 2214 chips
-[FINAL STAT] ssw_1_2 has 0 chips
-[FINAL STAT] The Joker_1_3 has 2473 chips
-[FINAL STAT] courage_1_4 has 0 chips
-[FINAL STAT] Mars_1_5 has 3367 chips
-[FINAL STAT] wereFluke_1_6 has 3932 chips
-[FINAL STAT] WaP_1_7 has 6579 chips
+[FINAL STAT] The Joker_6_0 has 0 chips
+[FINAL STAT] ssw_6_1 has 0 chips
+[FINAL STAT] Juda_6_2 has 0 chips
+[FINAL STAT] BigNews!_6_3 has 2528 chips
+[FINAL STAT] yi95yi_6_4 has 8515 chips
+[FINAL STAT] Gaotaku_6_5 has 1020 chips
+[FINAL STAT] GiHe_6_6 has 6676 chips
+[FINAL STAT] WaP_6_7 has 5261 chips
